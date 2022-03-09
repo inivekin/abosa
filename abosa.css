@@ -4,13 +4,18 @@ body {
 }
 
 div {
-    background: #c5c8c6;
+    // background: #c5c8c6;
+    position: relative;
 }
 
 .header {
     text-align: center;
     display: block;
     height: 100vh;
+}
+
+.header p {
+    color: #1d1f21;
 }
 
 .header:before {
@@ -47,10 +52,21 @@ img {
 
 .stanza-img {
     object-fit: scale-down;
+    position: sticky;
+    top: 0%;
+    left: 0%;
+    float: left;
 }
 
-p {
+.stanza-bg {
+    background-size: cover;
+    background-position: center;
+}
+
+.stanza p {
     color: #1d1f21;
+}
+p {
     text-align: center;
     vertical-align: middle;
     display: inline-block;
