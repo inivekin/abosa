@@ -77,6 +77,11 @@ div {
     background-position: center;
 }
 
+.instruction {
+    font-family: revert;
+    font-size: 1vmax;
+}
+
 p {
     font-size: 2vmax;
     font-family: ElianWideCapsLight;
