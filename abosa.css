@@ -5,8 +5,8 @@
 }
 
 html {
-    // max-width: 70ch;
-    // padding: calc(1vmin + 0.5rem);
+    /* max-width: 70ch; */
+    /* padding: calc(1vmin + 0.5rem); */
     margin-inline: auto;
     font-size: clamp(1em, 0.909em + 0.45vmin, 1.25em);
     font-family: system-ui;
@@ -87,7 +87,7 @@ a:hover {
 }
 
 .stanza {
-    text-align: center;
+    text-align: left;
     white-space: nowrap;
     display: inline-block;
 
@@ -102,13 +102,13 @@ a:hover {
 .stanza:before {
     content: '';
     height:100%;
-    // min-height: 100vh;
+    /* min-height: 100vh; */
     display: inline-block;
     margin-right: -0.25em;
 }
 
 .stanza-img {
-    // min-width: 100vw;
+    /* min-width: 100vw; */
     min-height: 100vh;
     max-width: 100vmin;
     max-height: 100vmin;
@@ -133,9 +133,23 @@ p {
     font-size: 2vmax;
     font-family: ElianWideCapsLight;
     margin: 0;
+    display: block;
 }
 
-p:hover {
+ol {
+    font-family: ElianWideCapsLight;
+    font-size: 0.75vmax;
+}
+
+li span {
+    font-size: 2vmax;
+}
+
+.stanza-line-number {
+    display: inline-block;
+}
+
+p:hover, ol:hover {
     font-family: revert;
     opacity: 1;
 }
