@@ -51,6 +51,12 @@ div {
     display: block;
 }
 
+.full-centerer {
+    position: relative;
+    text-align: center;
+    height: 100vh;
+}
+
 .centerer {
     position: relative;
     text-align: center;
