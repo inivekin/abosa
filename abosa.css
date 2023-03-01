@@ -97,6 +97,8 @@ a:hover {
     white-space: nowrap;
     display: inline-block;
 
+    font-family: ElianWideCapsLight;
+
     color: #1d1f21;
     background-color: #c5c8c6d0;
     margin: 0;
@@ -136,14 +138,13 @@ a:hover {
 }
 
 p {
-    font-size: 2vmax;
     font-family: ElianWideCapsLight;
+    font-size: 2vmax;
     margin: 0;
     display: block;
 }
 
 ol {
-    font-family: ElianWideCapsLight;
     font-size: 0.75vmax;
 }
 
@@ -155,7 +156,7 @@ li span {
     display: inline-block;
 }
 
-p:hover, ol:hover {
+p:hover, .stanza:hover {
     font-family: revert;
     opacity: 1;
 }
