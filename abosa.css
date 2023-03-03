@@ -120,7 +120,6 @@ a:hover {
     min-height: 100vh;
     max-width: 100vmin;
     max-height: 100vmin;
-    object-fit: scale-down;
     position: sticky;
     top: 0%;
     left: 100%;
