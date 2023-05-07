@@ -86,15 +86,7 @@ div {
     background-color: #c5c8c6;
     position: relative;
     text-align: center;
-    height: 25%;
-}
-
-.centerer-backref {
-    position: relative;
-    text-align: center;
     height: 20%;
-    overflow: hidden;
-    white-space: nowrap;
 }
 
 .part-selector {
@@ -108,17 +100,6 @@ div {
     background-color: #1d1f21;
     position: relative;
     text-align: center;
-    width: 25%;
-    height: 100%;
-    display: inline-block;
-    overflow: hidden;
-}
-
-.flipped-centerer-backref {
-    /*height: 100vh;
-    width: 25vw;*/
-    position: relative;
-    text-align: center;
     width: 20%;
     height: 100%;
     display: inline-block;
@@ -126,7 +107,7 @@ div {
     white-space: nowrap;
 }
 
-.flipped-centerer-backref p {
+.flipped-centerer p {
     transform: rotate(-90deg);
 }
 
@@ -151,14 +132,10 @@ a:hover {
 .part-img {
     background-color: #c5c8c6;
     position: absolute;
-    width: 100vw;
+    width: 100%;
     height:100%;
     object-fit: cover;
     display: block;
-}
-
-.centerer .part-img {
-    transform: translate(-50%,0%);
 }
 
 .flipped-part-img {
@@ -167,12 +144,8 @@ a:hover {
     object-fit: cover;
     display: block;
 
-    height:100vh;
+    height:100%;
     width: 100%;
-}
-
-.flipped-centerer .flipped-part-img {
-    transform: translate(0%,-50%);
 }
 
 .centerer:hover > .part-img {
@@ -180,14 +153,6 @@ a:hover {
 }
 
 .flipped-centerer:hover > .flipped-part-img {
-    opacity:0.3;
-}
-
-.centerer-backref:hover > .part-img {
-    opacity:0.3;
-}
-
-.flipped-centerer-backref:hover > .flipped-part-img {
     opacity:0.3;
 }
 
