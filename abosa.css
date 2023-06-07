@@ -35,17 +35,19 @@ div {
 }
 
 .header {
-    display: block;
+    display: inline-block;
     text-align: center;
     height: 100vh;
+    width: 50%;
     color: #1d1f21;
     margin: 0;
 }
 
 .flipped-header {
-    display: block;
+    display: inline-block;
     text-align: center;
     height: 100vh;
+    width: 50%;
     color: #c5c8c6;
     margin: 0;
 }
