@@ -91,6 +91,10 @@ div {
     height: 20%;
 }
 
+.centerer p {
+    white-space: nowrap;
+}
+
 .part-selector {
     height: 100vh;
     width: 100vw;
@@ -106,11 +110,11 @@ div {
     height: 100%;
     display: inline-block;
     overflow: hidden;
-    white-space: nowrap;
 }
 
 .flipped-centerer p {
     transform: rotate(-90deg);
+    white-space: nowrap;
 }
 
 .centered {
@@ -160,7 +164,7 @@ a:hover {
 
 .stanza {
     text-align: left;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     display: inline-block;
 
     font-family: ElianWideCapsLight;
@@ -183,7 +187,7 @@ a:hover {
 
 .flipped-stanza {
     text-align: left;
-    white-space: nowrap;
+    /* white-space: nowrap; */
     display: inline-block;
 
     font-family: ElianWideCapsLight;
