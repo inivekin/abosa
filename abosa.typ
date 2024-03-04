@@ -105,6 +105,8 @@
 #set text( font: "Iosevka", size: 7.0pt, fill: rgb("#1d1f21"))
 #set par(justify: false)
 #[#set align(center)
+#set text( size: 9.0pt)
+#v(1fr)
 ```
                     *      '                        ,~  .       
           '                       `            |,.~`  o`     +  
@@ -122,22 +124,9 @@
 V  V \|/ V\                  "                                  
 ```
 #v(1fr)
- A Ballad o Sundered Aegis
-  #v(1fr)
- Awaiting Healing Damocles
-  #v(1fr)
- Through Disposable Iambus
-  #v(1fr)
- And Ordered-carbon Tragedies
-  #v(1fr)
- The Malady that Ravages
-  #v(1fr)
- A Thought Disease Barbarity
-  #v(1fr)
- The Savagery o Damages 
-  #v(1fr)
- In Fantasies o Sanity
-  ]
+#set text(size: 7.0pt)
+#outline()
+]
 
 #pagebreak()
 
@@ -171,6 +160,14 @@ V  V \|/ V\                  "
     
 
 #set page( paper: "a5", fill: rgb("#c5c8c6"))
+#set page(columns: 1)
+#image("img/mr.spaceman.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  A Ballad o Sundered Aegis
+  #v(1fr)
+
 #set page(columns: 1)
 #image("img/st-damocles-the-shephard.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
@@ -614,6 +611,14 @@ tae grow like seeds take time tae wake,
 an know I can be company,
 if someone needs a haun tae take.
 ```]
+
+#set page(columns: 1)
+#image("img/st-damocles-abloom.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  Awaiting Healing Damocles
+  #v(1fr)
 
 #set page(columns: 1)
 #image("img/st-damocles-and-the-geometry.jpg",width: 100%, height: 100%)
@@ -1060,6 +1065,14 @@ you left... but left a light on too.
 ```]
 
 #set page(columns: 1)
+#image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  Through Disposable Iambus
+  #v(1fr)
+
+#set page(columns: 1)
 #image("img/st-damocles-leaves-the-c-zone.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 768)[```none
@@ -1502,6 +1515,14 @@ tae ken I've caged nane frae living,
 on feel at feet on rough-hewn stane,
 that warmth that stayed was forgiving.
 ```]
+
+#set page(columns: 1)
+#image("img/st-damocles-helmet-impaled.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  And Ordered-carbon Tragedies
+  #v(1fr)
 
 #set page(columns: 1)
 #image("img/st-damocles-entangled.jpg",width: 100%, height: 100%)
@@ -1951,6 +1972,14 @@ as that last star flickers on out.
 #set text( fill: rgb("#c5c8c6"))
 
 #set page(columns: 1)
+#image("img/st-damocles-in-nightspore.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  The Malady that Ravages
+  #v(1fr)
+
+#set page(columns: 1)
 #image("img/st-damocles-in-hibernation.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1536)[```none
@@ -2393,6 +2422,14 @@ what will be isnae bad nor good,
 I'll forge a chance continuing
 the owerwhelming likelihoods.
 ```]
+
+#set page(columns: 1)
+#image("img/st-damocles-infinite.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  A Thought Disease Barbarity
+  #v(1fr)
 
 #set page(columns: 1)
 #image("./img/st-damocles-reinstalled.jpg",width: 100%, height: 100%)
@@ -2839,6 +2876,14 @@ will point right angles back tae you.
 ```]
 
 #set page(columns: 1)
+#image("img/st-damocles-helmet-tied-up.jpg",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  The Savagery o Damages 
+  #v(1fr)
+
+#set page(columns: 1)
 #image("./img/st-damocles-enters-the-pocket.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2304)[```none
@@ -3281,6 +3326,14 @@ an stargazer hae lit tae see -
 when awe an fear siezes you,
 do good the best as nobody.
 ```]
+
+#set page(columns: 1)
+#image("img/st-damocles-helmet-open.png",width: 100%, height: 100%)
+#set page(columns: 2)
+
+#v(1fr)
+=  In Fantasies o Sanity
+  #v(1fr)
 
 #set page(columns: 1)
 #image("./img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%)
