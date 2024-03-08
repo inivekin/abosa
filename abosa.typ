@@ -101,37 +101,39 @@
 
 
 
-#set page( paper: "a5", fill: rgb("#c5c8c6"))
-#set text( font: "Iosevka", size: 7.0pt, fill: rgb("#1d1f21"))
+#set page( paper: "a5", fill: rgb("#1d1f21"))
+#set text( font: "Iosevka", size: 7.0pt, fill: rgb("#c5c8c6"), slashed-zero: true ,fallback: false)
 #set par(justify: false)
 #[#set align(center)
-#set text( size: 9.0pt)
+#show raw: set text(font: "Iosevka Fixed", slashed-zero: true, size: 9.0pt)
 #v(1fr)
 ```
+
                     *      '                        ,~  .       
           '                       `            |,.~`  o`     +  
                 , .                          -<O>-              
                           .         * .        |        .  '    
       *   :                                              ;      
     .,                                  __+,._,.                
-  -~X:           _            ,___+-_-`'        \_              
-    '`          (@?,.______,-`  \   _*\      i    \         .,  
-             =_/{_\,`~-~-~-~-~-~-+-'*Z|       `-   |       :X-~-
-            [#]  E ! `'-~-~.,_______*JM\           \        '`  
-^,              / |^  `+-~-+.,__\__,JM|        _   /        __._
- /\__c. ,_ ,___ ] ] __o._________==-`'+-____.,,__/`======^-`    
+  --X:           _            ,___+-_-`'        \_              
+    '`          (J?,.______,-`  \   _*\      i    \         .,  
+             q_/{W\,`------------+-'*0|       `-   |       :K---
+            [#]  E ! `'----.,_______*00\           \        '`  
+^,              / |^  `+---+.,__\__,00|        _   /        __._
+ /\__c. ,_ ,___ ] ] __o._________---`'+-____.,,__/`------^-`    
 ^\/|\/_\/'`_`\/           __vv.                                 
 V  V \|/ V\                  "                                  
 ```
 #v(1fr)
 #set text(size: 7.0pt)
-#outline()
+#outline(title: [])
 ]
 
 #pagebreak()
 
 
-#set text( font: "Iosevka", size: 15.0pt, fill: rgb("#c5c8c6"))
+#set page( paper: "a5", fill: rgb("#c5c8c6"))
+#set text( size: 15.0pt, fill: rgb("#c5c8c6"))
 #stack(
   dir: ttb,
   image("img/mr.spaceman.png",width: 100%, height: 25%),
@@ -156,7 +158,7 @@ V  V \|/ V\                  "
     align(right, counter(page).display("1"));
   }
 ))
-#set text( font: "Iosevka", size: 7.0pt, fill: rgb("#1d1f21"))
+#set text( size: 7.0pt, fill: rgb("#1d1f21"))
     
 
 #set page( paper: "a5", fill: rgb("#c5c8c6"))
