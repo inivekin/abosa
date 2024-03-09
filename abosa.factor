@@ -57,26 +57,26 @@ zip
     "img/st-damocles-tesellating.jpg"
     "img/st-damocles-tesellated.jpg"
 
-    "./img/st-damocles-reinstalled.jpg"
-    "./img/st-damocles-mooring.jpg"
-    "./img/st-damocles-verified.jpg"
-    "./img/st-damocles-on-tape.jpg"
-    "./img/st-damocles-fatestring.jpg"
-    "./img/st-damocles-rides-a-pulse.jpg"
+    "img/st-damocles-reinstalled.jpg"
+    "img/st-damocles-mooring.jpg"
+    "img/st-damocles-verified.jpg"
+    "img/st-damocles-on-tape.jpg"
+    "img/st-damocles-fatestring.jpg"
+    "img/st-damocles-rides-a-pulse.jpg"
 
-    "./img/st-damocles-enters-the-pocket.jpg"
-    "./img/st-damocles-meets-the-lantern-keeper.jpg"
-    "./img/st-damocles-shows-what-is-there.jpg"
-    "./img/st-damocles-internally-bright.jpg"
-    "./img/st-damocles-written-out.jpg"
-    "./img/st-damocles-surfaced-lightly.jpg"
+    "img/st-damocles-enters-the-pocket.jpg"
+    "img/st-damocles-meets-the-lantern-keeper.jpg"
+    "img/st-damocles-shows-what-is-there.jpg"
+    "img/st-damocles-internally-bright.jpg"
+    "img/st-damocles-written-out.jpg"
+    "img/st-damocles-surfaced-lightly.jpg"
 
-    "./img/st-damocles-with-blindsight.jpg"
-    "./img/st-damocles-condensation.jpg"
-    "./img/st-damocles-diving.jpg"
-    "./img/st-damocles-impaled.jpg"
-    "./img/st-damocles-powered-down.jpg"
-    "./img/dragonfly-remains.jpg"
+    "img/st-damocles-with-blindsight.jpg"
+    "img/st-damocles-condensation.jpg"
+    "img/st-damocles-diving.jpg"
+    "img/st-damocles-impaled.jpg"
+    "img/st-damocles-powered-down.jpg"
+    "img/dragonfly-remains.jpg"
 }
     ;
 
@@ -88,10 +88,14 @@ zip
     [ children>> [ tag? ] reject "  " join ] map
     ;
 
+: first-comment ( xml -- str )
+    children>> [ tag? ] filter second children>> [ comment? ] filter first text>>
+    ;
+
 : title-page ( xml -- str )
-    [ children>> [ tag? ] filter second children>> [ comment? ] filter first text>>
+    [ first-comment
     "#show raw: set text(font: \"Iosevka Fixed\", slashed-zero: true, size: 9.0pt)\n#v(1fr)\n```" "```\n#v(1fr)\n#set text(size: 7.0pt)\n" surround ]
-    [ drop "#outline(title: [])\n" ]
+    [ drop "#outline(title: [ABOSA])\n" ]
     bi
     append
 
@@ -374,7 +378,14 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     V{ } "manifest" V{ }
     V{ } "item" V{ { "id" "toc" } { "href" "toc.xhtml" } { "media-type" "application/xhtml+xml" } { "properties" "nav" } } V{ } <tag> suffix
          "item" V{ { "id" "ncx" } { "href" "toc.ncx" } { "media-type" "application/x-dtbncx+xml" } } V{ } <tag> suffix
-         8 <iota> [ "item" swap number>string dup '[ _ "id" ,, _ ".xhtml" append "href" ,, "application/xhtml+xml" "media-type" ,, ] V{ } make V{ } <tag> ] map append
+         "item" V{ { "id" "cover" } { "href" "cover.xhtml" } { "media-type" "application/xhtml+xml" } } V{ } <tag> suffix
+         ! add segment as just a number as id fucks ebook-viewer
+         8 <iota> [ "item" swap number>string dup '[ "segment" _ append "id" ,, _ ".xhtml" append "href" ,, "application/xhtml+xml" "media-type" ,, ] V{ } make V{ } <tag> ] map append
+         "item" V{ { "id" "back" } { "href" "back.xhtml" } { "media-type" "application/xhtml+xml" } } V{ } <tag> suffix
+
+        image-paths-ordered <enumerated> [ first2 '[ "image" _ number>string append "id" ,, "OEBPS/" _ append "href" ,, "image/jpeg" "media-type" ,, ] V{ } make [ "item" ] dip V{ } <tag> ] map
+        append
+
     <tag> suffix
     append
     >>children
@@ -386,10 +397,22 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     dup
     children>>
     V{ } "spine" V{ { "toc" "ncx" } }
-    V{ } "itemref" V{ { "idref" "toc" } } V{ } <tag> suffix
-         8 <iota> [ "itemref" swap number>string '[ _ "idref" ,, ] V{ } make V{ } <tag> ] map append
+    V{ } "itemref" V{ { "idref" "cover" } { "linear" "yes" } } V{ } <tag> suffix
+         "itemref" V{ { "idref" "toc" } } V{ } <tag> suffix
+         8 <iota> [ "itemref" swap number>string '[ "segment" _ append "idref" ,, ] V{ } make V{ } <tag> ] map append
+         "itemref" V{ { "idref" "back" } } V{ } <tag> suffix
     <tag> suffix
     append
+    >>children
+    drop
+    ;
+
+: add-guide ( xml -- )
+    "package" deep-tag-named
+    dup
+    children>>
+    "reference" V{ { "type" "toc" } { "title" "ABOSA" } { "href" "toc.xhtml" } } V{ } <tag>
+    suffix
     >>children
     drop
     ;
@@ -403,35 +426,7 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     dup add-metadata
     dup add-manifest
     dup add-spine
-    ;
-
-: gen-chapter-head ( -- xml )
-[[ <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
-</html>
-]]
-    string>xml
-    dup dup
-    children>>
-    V{ } "title" V{ } V{ "" } <tag> suffix
-    [ "head" V{ } V{ } ] dip suffix <tag> suffix
-    >>children
-    drop
-    ;
-
-:: gen-epub-chapter ( stanzas-seq -- xml )
-    gen-chapter-head dup dup children>>
-    V{ } stanzas-seq [
-        V{ } like [ [ "li" V{ } ] dip V{ } swap suffix <tag> ] map
-        [ "ol" V{ } ] dip <tag>
-    ] map append
-    [ "p" V{ } ] dip <tag>
-    [ "body" V{ } V{ } ] dip suffix <tag>
-    suffix
-    >>children
-    drop
+    dup add-guide
     ;
 
 : gen-toc-head ( -- xml )
@@ -453,12 +448,14 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     gen-toc-head dup dup children>>
     load-html-poem chapter-paths-ordered 8 <iota> zip 
     [
+        [ first second '[ _ "src" ,, ] V{ } make [ "img" ] dip V{ } <tag> ]
         [ second "a" swap '[ _ number>string ".xhtml" append "href" ,, ] V{ } make ]
         [ first first 3 head* V{ } swap suffix ]
-        bi
+        tri
         <tag>
         [ "li" V{ } V{ } ] dip suffix <tag>
-    ] map
+        2array
+    ] map concat
     V{ } like [ "ol" V{ { "class" "contents" } } ] dip <tag>
     [ "nav" V{ { "id" "toc" } { "epub:type" "toc" } } V{ } ] dip suffix <tag>
     [ "body" V{ } V{ } ] dip suffix <tag>
@@ -496,30 +493,142 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
         [ "navLabel" V{ } V{ } ] dip suffix <tag> ]
         [ second dup "content" swap '[ _ number>string ".xhtml" append "src" ,, ] V{ } make V{ } <tag> swap ]
         bi
-        dup '[ _ number>string "id" ,, _ 1 + number>string "playOrder" ,, ] V{ } make
+        dup '[ "segment" _ number>string append "id" ,, _ 2 + number>string "playOrder" ,, ] V{ } make
         [ 2array V{ } like ] dip
         "navPoint" spin <tag>
     ] map
+    "navPoint" V{ { "id" "cover" } { "playOrder" "1" } } V{ } "navLabel" V{ } V{ } "text" V{ } V{ "ABOSA" } <tag> suffix <tag> suffix <tag> swap suffix
+    "navPoint" V{ { "id" "cover" } { "playOrder" "8" } } V{ } "navLabel" V{ } V{ } "text" V{ } V{ } <tag> suffix <tag> suffix <tag> swap suffix
     [ "navMap" V{ } V{ } ] dip suffix <tag>
     suffix
     >>children
     drop
     ;
 
+:: gen-chapter-head ( chapter-head -- xml )
+[[ <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+</html>
+]]
+    string>xml
+    dup dup
+    children>>
+    V{ } "title" V{ } [ chapter-head first , ] V{ } make <tag> suffix
+    [ "head" V{ } V{ } ] dip suffix <tag> suffix
+    >>children
+    drop
+    ;
+
+INITIALIZED-SYMBOL: :^) [ 0 ]
+
+:: gen-epub-chapter ( stanzas-seq chapter-head -- xml )
+    chapter-head gen-chapter-head dup dup children>>
+    V{ } stanzas-seq [
+        [
+            second "img" swap '[ _ "src" ,, ] V{ } make V{ } <tag>
+        ]
+        [
+            first [ [ [ "li" V{ } ] dip V{ } swap suffix <tag> ] map ] map concat
+            [ "ol" [ :^) get number>string "start" ,, ] V{ } make ] dip <tag>
+            :^) get 64 + :^) set
+        ] bi
+        2array
+    ] map concat append
+    [ "p" V{ } ] dip <tag>
+    [ "body" V{ { "epub:type" "bodymatter" } } V{ } ] dip suffix <tag>
+    suffix
+    >>children
+    drop
+    ;
+
 : gen-epub-chapters ( pages-seq -- )
-    8 <iota> zip
+    0 :^) set
+     image-paths-ordered zip 6 <groups> load-html-poem chapter-paths-ordered zip 8 <iota> zip
     [
-        [ second number>string "~/art/abosa/epub/OEBPS/" ".xhtml" surround ]
-        [ first gen-epub-chapter ]
+        [ second number>string "epub/OEBPS/" ".xhtml" surround ]
+        [ first first2 gen-epub-chapter ]
         bi
         [ utf8 ] dip [ pprint-xml ] curry with-file-writer
     ] each
     ;
 
+: gen-cover-head ( -- xml )
+[[ <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+</html>
+]]
+    string>xml
+    dup dup
+    children>>
+    V{ } "title" V{ } V{ "ABOSA" } <tag> suffix
+    [ "head" V{ } V{ } ] dip suffix <tag> suffix
+    >>children
+    drop
+    ;
+
+: gen-cover ( str -- xml )
+    [ gen-cover-head dup dup children>>
+      "body" V{ { "epub:type" "frontmatter" } } V{ } "section" V{ { "epub:type" "titlepage" } { "class " "titlepage" } } V{ }
+     "pre" V{ } V{ } ] dip
+    suffix <tag> suffix <tag> suffix <tag>
+    suffix >>children drop
+    ;
+    
+: gen-back-head ( -- xml )
+[[ <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+</html>
+]]
+    string>xml
+    dup dup
+    children>>
+    V{ } "title" V{ } V{ } <tag> suffix
+    [ "head" V{ } V{ } ] dip suffix <tag> suffix
+    >>children
+    drop
+    ;
+
+: gen-back ( -- xml )
+    gen-back-head dup dup children>>
+    "body" V{ { "epub:type" "backmatter" } } V{ } "img" V{ { "src" "img/self-abosa-mapped.jpg" } } V{ }
+    <tag> suffix <tag>
+    suffix >>children drop
+    ;
+
+: gen-container ( -- xml )
+[[ <?xml version="1.0"?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+  <rootfiles>
+    <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+  </rootfiles>
+</container>
+]] string>xml
+    ;
+
 : gen-epub ( -- )
-    P" ~/art/abosa/epub/OEBPS/content.opf" utf8 [ gen-content.opf pprint-xml ] with-file-writer
-    P" ~/art/abosa/epub/OEBPS/toc.xhtml" utf8 [ gen-toc pprint-xml ] with-file-writer
-    P" ~/art/abosa/epub/OEBPS/toc.ncx" utf8 [ gen-ncx pprint-xml ] with-file-writer
+    P" /home/inivekin/art/abosa/" current-directory set
+    { P" epub/OEBPS/"
+      P" epub/META-INF/" }
+    [ make-directories ] each
+    P" img/" P" epub/OEBPS/img/" copy-tree
+
+    P" epub/mimetype" utf8 [ "application/epub+zip" write ] with-file-writer
+    P" epub/META-INF/container.xml" utf8 [ gen-container pprint-xml ] with-file-writer
+
+    P" epub/OEBPS/content.opf" utf8 [ gen-content.opf pprint-xml ] with-file-writer
+    P" epub/OEBPS/toc.xhtml" utf8 [ gen-toc pprint-xml ] with-file-writer
+    P" epub/OEBPS/toc.ncx" utf8 [ gen-ncx pprint-xml ] with-file-writer
     load-html-poem group-stanzas group-pages gen-epub-chapters
-    "zip ~/art/abosa/abosa.epub -r ~/art/abosa/epub/" system drop
+    P" epub/OEBPS/cover.xhtml" utf8 [ load-html-poem first-comment gen-cover xml>string write ] with-file-writer
+    P" epub/OEBPS/back.xhtml" utf8 [ gen-back pprint-xml ] with-file-writer
+
+    "cd ~/art/abosa/epub; zip ../abosa.epub -r *" system drop
+
+    ! P" epub/" delete-tree
     ;

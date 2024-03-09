@@ -126,7 +126,7 @@ V  V \|/ V\                  "
 ```
 #v(1fr)
 #set text(size: 7.0pt)
-#outline(title: [])
+#outline(title: [ABOSA])
 ]
 
 #pagebreak()
@@ -2434,7 +2434,7 @@ the owerwhelming likelihoods.
   #v(1fr)
 
 #set page(columns: 1)
-#image("./img/st-damocles-reinstalled.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-reinstalled.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1920)[```none
 Negative phase seems reassigned,
@@ -2508,7 +2508,7 @@ O, how I've missed the morning sun.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-mooring.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-mooring.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1984)[```none
 My instance was spontaneous
@@ -2582,7 +2582,7 @@ tae make the auld pains meaningless.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-verified.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-verified.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2048)[```none
 Though frame o mind feels light emit,
@@ -2656,7 +2656,7 @@ what's real never falsifies.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-on-tape.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-on-tape.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2112)[```none
 To think the tragedy is worth
@@ -2730,7 +2730,7 @@ so I must care for me as well.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-fatestring.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-fatestring.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2176)[```none
 Entrails run through slackened wrists
@@ -2804,7 +2804,7 @@ a loose weave I'll leave dangling.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-rides-a-pulse.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-rides-a-pulse.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2240)[```none
 Rejecting noise fae lithely core,
@@ -2886,7 +2886,7 @@ will point right angles back tae you.
   #v(1fr)
 
 #set page(columns: 1)
-#image("./img/st-damocles-enters-the-pocket.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-enters-the-pocket.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2304)[```none
 Within a bubble soon tae burst,
@@ -2960,7 +2960,7 @@ fae constant reach tae friendliness.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-meets-the-lantern-keeper.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-meets-the-lantern-keeper.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2368)[```none
 The cables jumbled humanly,
@@ -3034,7 +3034,7 @@ humility an haun tae claim?
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2432)[```none
 In daytimes, being fatherly,
@@ -3108,7 +3108,7 @@ an you've still something left tae share."
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-internally-bright.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-internally-bright.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2496)[```none
 I'd nae confidence in distance
@@ -3182,7 +3182,7 @@ these nights you leave lights on fae me.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-written-out.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-written-out.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2560)[```none
 Like negatives an positives
@@ -3256,7 +3256,7 @@ tae die again in multitudes.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-surfaced-lightly.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-surfaced-lightly.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2624)[```none
 The skies shattered tae show membranes
@@ -3338,7 +3338,7 @@ do good the best as nobody.
   #v(1fr)
 
 #set page(columns: 1)
-#image("./img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2688)[```none
 May hesitancy be recused,
@@ -3412,7 +3412,7 @@ the dark parts, too, are company.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-condensation.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-condensation.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2752)[```none
 In lowest o my verticals
@@ -3486,7 +3486,7 @@ crystals storing state in structure.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-diving.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-diving.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2816)[```none
 My energy drips viscous wynn
@@ -3560,7 +3560,7 @@ as I gie my remaining days
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-impaled.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-impaled.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2880)[```none
 Suspended, seemingly noticed
@@ -3634,7 +3634,7 @@ if you're tae want fae something new.
 ```]
 
 #set page(columns: 1)
-#image("./img/st-damocles-powered-down.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-powered-down.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2944)[```none
 As echo o my ship since downed,
@@ -3708,7 +3708,7 @@ Here I am always tae be.
 ```]
 
 #set page(columns: 1)
-#image("./img/dragonfly-remains.jpg",width: 100%, height: 100%)
+#image("img/dragonfly-remains.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 3008)[```none
 I'd nae laugh in others presence,
