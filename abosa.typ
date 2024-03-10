@@ -116,9 +116,9 @@
       *   :                                              ;      
     .,                                  __+,._,.                
   --X:           _            ,___+-_-`'        \_              
-    '`          (J?,.______,-`  \   _*\      i    \         .,  
-             q_/{W\,`------------+-'*0|       `-   |       :K---
-            [#]  E ! `'----.,_______*00\           \        '`  
+    '`          (J?,.______,-`  \   _J\      i    \         .,  
+             q_/{W\,`------------+-'|0|       `-   |       :K---
+            [#]  E ! `'----.,_______/00>           \        '`  
 ^,              / |^  `+---+.,__\__,00/        _   /        __._
  /\__c. ,_ ,___ ] ] __o._________---`'+-____.,,__/`------^-`    
 ^\/|\/_\/'`_`\/           ___w.                                 
@@ -1095,8 +1095,8 @@ tae gauge the angle incident,
 adapting tae what I preempt,
 destruction being imminent.
 Were I nae born an kept alive,
-succumbed, unable tae defy
-the call tae sleep I'd nae survive
+succumbed tae impulse tae defy
+the call tae sleep, I'd nae survive
 tae last past stars o days gane by.
 Were I tae die, I'd want it so:
 that meteor falls oot the sky,
@@ -1181,9 +1181,9 @@ by run o sandbox universe,
 I'd nae put same on my own kind,
 as stresses preplayed will recurse.
 By estimating constantly,
-approximating, winnae skew
+approximating winnae skew
 the uniform uncertainty,
-dread won't delay coming debut
+dread won't delay coming debut.
 ```]
 
 #colbreak()
@@ -1230,10 +1230,10 @@ I cannae tell where am going
 beginnings far frae my falling
 in chaos pendulum's hinge-swing
 wi turgid, charted stumbling,
-still unit circle circumscribes,
+still, unit circle circumscribes,
 sufficiently checks conforming,
-nae variance in time describes,
-all in all, the stalled transforming.
+the variance in time describes,
+all in all, a stalled transforming.
 Ma breakin doon was owerdue,
 the parts constituent decry,
 the suffering they did accrue
@@ -1242,22 +1242,22 @@ I unnerstan, though it bores me,
 the complex falls back tae the start.
 I ken the plan, I need nae be
 until last atom's pulled apart.
-Auld substrate in jerk an spasm
+Quartz substrate in jerk an spasm
 o piezoelectric tensions,
-wi excess enthusiasm,
-maxing limited retentions,
-reorganises valencies,
-affording strong correlations,
+excess wi enthusiasm,
+maxes limited retentions,
 reducing personalities
-tae repeating configurations.
+tae repeating configuration,
+reorganising valencies
+o cells fae strong correlation.
 An soon unner spectroscopy,
 frae those searching fae character,
 would stimulus reliably
-reflect inconclusive spectra
+reflect transitionless spectra
 o layers upon layers cloned
 in periodic replica,
 all radiation that is loaned
-repaid in same auld signature.
+repaid wi same auld signature.
 ```]
 
 #colbreak()
@@ -1280,20 +1280,20 @@ I'll wind my way back in praxis
 strengthening magnetic locus.
 Questioning mosaic mirror
 wi perspectives brought tae focus,
-lengthening my stay sincerer
-as note sonorous in opus
-shouldnae commit tae then retract
-tae ring in perpetuity,
-approximation artifacts
-o jump discontinuity.
+might a lengthened stay sincerer,
+multifrequencies in chorus,
+broaden sequences o banding
+an illuminate my structure,
+fae a grander unnerstanding
+o why I am o my nature?
 Errything's atop a field
 an erry particle's a wave,
 if standing wave winnae yield
-stay left where reverbs drone concave.
+it drones where reverbs meet concave.
 Were I tae let me crystallize,
 the auld lattice recurs at will,
 should I in higher phase reprise
-there's mark tae leave interstitial.
+would I find mark interstitial?
 ```]
 
 #set page(columns: 1)
@@ -1312,10 +1312,10 @@ The ossified once it was wore
 on meeting pestle wi mortar,
 like automata, sums tae more,
 pigment, binder, mattifier
-can paint perspectives left unshown,
-horizons held by vertices,
-diffusing harm o nodes alone,
-in absences an vacancies.
+diffuses harm o nodes alone,
+in absences an vacancies,
+wi paint o perspectives unknown,
+horizons new tae vertices.
 The empty parts will help define
 the points in space which I call home,
 the quiet times connect a line
@@ -1336,18 +1336,18 @@ an nae drown in the unnertow.
 
 #colbreak()
 #code(numbers: true, firstnumber: 992)[```none
-I break my bonds tae break the bind
-unmake the tether markedly
+I break my bonds tae break the bind,
+unmake the tether markedly,
 as staking I'm fine left behind
 is fake an slack in prosody.
 Snap turn habit stressed the granite
-popping bubbles in my marrow
+popping bubbles by my marrow
 yan tan tether mether an pit
 an sting's displaced by bloody flow.
 Remit o lit inner diodes,
-break it apart tae see well-built,
+I amputate tae see well-built,
 as wi minerals o geodes,
-the tunnel mouth, wi simple tilt,
+when tunnel mouth, wi simple tilt,
 hits spill tae glisten an lessen
 the fussing ower what's been spilt,
 agony isnae the lesson,
@@ -1355,17 +1355,17 @@ it's space wherelies what's then rebuilt.
 Upset stomach bacteria,
 autonomous cell constructions,
 an cochlea hysteria,
-restructuring fae new functions,
-has petrifying staunch the wound,
-an launch a sliver tae the brain,
+restructures me fae new functions.
+The petrifying staunched the wound
+an launched a sliver tae the brain,
 tae stay an listen where attuned,
 discussing what we both could gain.
 Like sunken ship can house a nest,
-my excavated self can host
-by shrunken grip on need tae rest
+my excavated self can host,
+by shrunken grip on need tae rest,
 a sense familiar like ghost.
-The wafers snapping in the hull,
-beget frae heat o idle thread,
+Then wafers snapping in the hull,
+begets frae heat o idle thread,
 what hibernated in a lull,
 a yolk in metal, kin o dead.
 ```]
@@ -1389,56 +1389,56 @@ cephalopods, mycelium.
 Deathlessness was unintended,
 nae what I meant, but it's my fault,
 you'd nae enjoy life extended,
-rather endure as default.
-Nau startled an stimulated
-an strangled amongst the cording
-an misled tae think you're hated
+rather endure it as default.
+Wi tentacled convulsing splines
+aboot a snarling hircine keen,
+what once was calm an serpentine
+is shredded intae frenzy scene.
+As startled an stimulated,
+an strangled amongst the cording,
+you're misled tae think you're hated
 wi more darkness on unboarding.
-Excess beating o erry hit
-I guess is slice o what am owed,
-but rage an fear causing it
-should never hae been so bestowed.
-What could be calm an serpentine
-is shredded intae frenzy scene
-o tentacled convulsing splines
-aboot a snarling hircine keen.
 Offered self as carrion thrall,
 tae aggression you're parading,
 hushed nae bass in clarion call,
 nor the starkness o your shading.
+Excess beating o erry hit
+I guess is slice o what am owed,
+but rage an fear causing it
+should never hae been so bestowed.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1056)[```none
-The channelling o faults foray
-nae dissipates the blame delayed,
-but re-enslaves one tae the fray
-tae reproduce the hurt I made.
 The damage forwarded tae cave
 betrays the love o one afraid,
 the walls display penance I crave,
 the debt I owe it has half paid.
+The channelling o faults foray
+nae dissipates the blame delayed,
+but re-enslaves one tae the fray
+tae reproduce the hurt I made.
 By feel o your unsharpened tine,
 am seeing your benevolence,
 the weaker hurt still carries sign,
 regrets stick in idempotence.
 Were you nae held so far aloft,
 if I had known you'd sleep till fall,
-wi your breath so distant an soft,
-please believe, I'd keep on, I'd crawl...
+wi breath o yours distant an soft,
+would you believe, I'd reach, I'd crawl...?
 Its frustrating you still suffer,
 as you had suffered me, the fool,
-this punishment isnae buffer,
+self-punishment isnae buffer,
 my prostrating is just as cruel.
-I'll gie you everythin tae take
+I'll gie you errythin tae take
 I make this pledge, I'll let you loose,
 I ken the edge a gem can make,
 I'll free you're limbs, then you can choose.
 Once free I'd hope that you'd nae leave,
-aye, its fair that you gripe an seethe,
+although its fair you gripe an seethe,
 but losing you would do me grief,
 you have my air I need tae breathe.
-Ave open haun fae you in wait
+Ave open haun fae you in wait,
 my company is yours tae drop,
 fae all I care, if am too late,
 the spins o far off stars can stop.
@@ -1455,7 +1455,7 @@ unrested as if given cue.
 Untested leg splinters right through
 an festers erry step I make.
 Winnae reason I can construe
-you're there tae wait where light does break.
+you're there in wait where light does break.
 Considering behind dirt plume,
 in choosing, privately, what serves:
 were I swallowed in earthen doom
@@ -1505,7 +1505,7 @@ bears nae comparator tae guilt
 that steals the air when lungs unfold,
 ensaring caring words in silt.
 In hysteresis o threshold,
-my neck an arms caved-in as stocks
+my neck an arms caved-in as stocks,
 an unatoned I'll stay til auld,
 am locked, a stane among the rocks.
 An in the dark, an in the cold
@@ -1514,8 +1514,8 @@ I'll nae call oot, I'll do as told,
 I tell myself tae hold ma nerve.
 Although I'd rather be alane,
 tae ken I've caged nane frae living,
-on feel at feet on rough-hewn stane,
-that warmth that stayed was forgiving.
+this feel at feet on rough-hewn stane,
+this warmth that stayed, was forgiving.
 ```]
 
 #set page(columns: 1)
