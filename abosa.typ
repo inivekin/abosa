@@ -303,7 +303,7 @@ that's pressuring tae unknown fates.
 Befriending shadows on the wall,
 pretending comfort's what I felt
 nae stopped the magma curtain call
-as mantle flowed where shadows dwelt.
+as lava flows where shadows dwelt.
 I saw in vain wi eyes wide shut
 as pupils strain wi contraction,
 wi darkness gane my lie in rut
@@ -439,7 +439,7 @@ as gear caught in cosmic cogs,
 but lingered in the cavity,
 nae longer than a blink tae see,
 a reversing o gravity
-resurfaced myself back tae me.
+returning myself back tae me.
 A siphoning hae strings near snap
 in plane non-orientable
 wi transformation o flat map
@@ -1552,13 +1552,13 @@ I recognize in shakes you tuck
 between your posturing as feist.
 I too would bark at empty void
 when I'd nae ken whose hurting me,
-there isnae guide fae paranoid
+I hannae guide fae paranoid
 but I can keep you company.
 The trailing sleet am glad tae shed
-unveils feat o selfless plead,
-We fledgling fleet hae nae yet said
-our last o which you still hae need.
-But dumb-struck, submerged in the deep
+wi flailing feats o selfish plead,
+we fledgling fleet hae nae yet said
+our last o which we still hae need.
+But casting doon, submerged in deep
 expanse which laps at heaped collapse,
 you yearn tae dampen cracks that creep
 an threaten widening o gaps.
@@ -1566,36 +1566,36 @@ an threaten widening o gaps.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1184)[```none
-Drowned in confused allegory,
-doon the trenches, mannin levees,
-replacing memories tae be,
-you swallow forecast prophecies.
-O, I am most familiar
-wi muscles, how they atrophy,
-an how the mind wilts in fear
-o owerwriting memory.
-Repeat recall will flake an rot,
-that singular event recedes,
-an I'll forget that I forgot,
-so singularity succeeds
-where each auld thought I recollect
-is recollection of said thought,
-adding additional defect,
-reflection eternally caught.
-The ages that a mountain-top
-defined will see the oceans dried.
+Yon trench depression could rampart
+an droon oot landslide cavalry,
+o stamping boulders come apart
+that's bearing stone-age weaponry,
+but I am most familiar
+wi muscles, how they atrophy
+when pressures o exterior
+will decompress tae apathy.
+The epoch that a mountain-top
+defines will see the oceans dried.
 The waters o the world won't stop
-machine o time wi rip tide stride
+volcanic rise o wartime stride
 at tightented point o oorglass,
 between what's soon an could hae been,
 the ancient presses wi great mass
 an futures wait on time machine.
+The warmth o hydrothermal vent
+can bury you in replacing,
+don't amble in the mantle leant
+dim embers o resurfacing.
+Repeat recalls will be forgot,
+should singular event you cling,
+turn recollection o said thought
+tae recounts o remembering.
 I disentangle frae your dive,
-I cannae help you descend more,
-perhaps there's hope if you derive
-that someone's waiting on the shore.
-A someone who will never leave
-who kens that photons know their beam
+I won't survive on ocean floor,
+I promise you I'll stay alive
+an wait fae you upon the shore,
+as someone who will never leave
+who kens that photons follow beam,
 an know they can't but form an weave
 your future rising frae sea's seam.
 ```]
