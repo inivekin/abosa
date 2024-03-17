@@ -253,9 +253,9 @@ oot there because exosuits leak
 cool air tae heat wi quick'ning beep,
 those caught who want exit ought seek.
 Putting trust in field magnetics,
-my rusting armour's paying due.
+my rusting armour pays its due.
 Bursting steam clouds my panoptics,
-I toe streams that dare me "wade through".
+I toe streams daring me "wade through".
 In metal-wrap an high-grade gloves,
 am nervous thing on offhand lam,
 puir chap jaded an strayed frae love,
@@ -346,7 +346,7 @@ Forlorn hoverer owerdrawn,
 does fawn ower a gaping black,
 seems tired wi yawn held upon,
 does it drag hole or hole drag back?
-My frantic swiping at the sands
+Wi frantic swiping at the sands
 ignored among acoustic seas,
 surrounding resonating bands
 eternally returns unease.
@@ -506,7 +506,7 @@ through echo-concentric networks.
 
 #colbreak()
 #code(numbers: true, firstnumber: 288)[```none
-"The slits o lasers phase in rhyme
+The slits o lasers phase in rhyme
 wi timing blinks o tired een,
 reducing blits tae local time
 miss universal state unseen.
@@ -667,7 +667,7 @@ that sprout frae seeds that sunward crawl,
 tae mask my being unner lush
 might take tae task that cornered sprawl.
 A nobler act would be assess
-an found tae where, or what, am drawn,
+an find tae where, or what, am drawn,
 but nimbler flight's skill I possess,
 am spaceborne who's nae built fae brawn.
 Trees seemed greener agin greying
@@ -783,14 +783,14 @@ an circulatory beats slow,
 respiratory dulls tae moan
 as muscles cannae stow airflow.
 Skeletal sags as jelly mass
-fae am easy tae make shaken,
-nae mystery there tae bypass
-fae why am tired just woken.
+fae I'm easy tae make shakened,
+nae mystery hides my bypass
+fae exhaustion, though just wakened.
 "Cover me in reeds an river,
 an bury me in humbled glen,"
 speaks my soft wee voice aquiver,
 words o beaten, stumbling men,
-"My reddened een an bagging spine
+My reddened een an bagging spine
 an quaking lower lips o cry,
 would see less pain should birch an pine
 emerge tae split an rip thereby
@@ -798,7 +798,7 @@ erasing all humility
 an hiding shame within the tree,
 replacing this futility
 o subsets tae biology.
-"Drink up tears an drain thin shell,
+Drink up tears an drain thin shell,
 leave only bones so nane may tell,
 an please keep what you secret well,
 how surely defeated I fell."
@@ -979,8 +979,8 @@ though numb tae burns o re-entry,
 (would do more harm than any good
 tae check diagnostic sentry).
 Nae grass tae touch, nae unformer,
-cracking joints absorb hits unkind,
-What breaks down toroid transformer?
+wi cracks that joints absorbed unkind,
+What breaks doon toroid transformer?
 What becomes o coil untwined,
 like string pulled far frae line o sight,
 left unstrung on this frozen glen,
@@ -1272,7 +1272,7 @@ they steady me at where I fell
 tae find the orderers o things.
 The composition o the small
 can bring aboot propulsive force,
-just words in cells bring forth a pull
+few words in cells bring forth a pull
 that ships may fly a darkened course,
 an should I drift across the axis,
 walking helix wound on torus,
@@ -1314,7 +1314,7 @@ like automata, sums tae more,
 pigment, binder, mattifier
 diffuses harm o nodes alone,
 in absences an vacancies,
-wi paint o perspectives unknown,
+wi painting perspectives unknown,
 horizons new tae vertices.
 The empty parts will help define
 the points in space which I call home,
@@ -1393,8 +1393,8 @@ rather endure it as default.
 Wi tentacled convulsing splines
 aboot a snarling hircine keen,
 what once was calm an serpentine
-is shredded intae frenzy scene.
-As startled an stimulated,
+is shredded intae frenzy scene
+all startled an stimulated,
 an strangled amongst the cording,
 you're misled tae think you're hated
 wi more darkness on unboarding.
@@ -1546,13 +1546,13 @@ Withoot some luck, I cannae reign
 you in frae cloudless clarity
 o shifting plates an sun's remains
 yelping predictions' parity.
-The seismic rarities unstuck
+In seismic rarities unstuck
 the heisenbugs o genes I spliced,
 I recognize in shakes you tuck
 between your posturing as feist.
 I too would bark at empty void
 when I'd nae ken whose hurting me,
-I hannae guide fae paranoid
+I am nae guide fae paranoid
 but I can keep you company.
 The trailing sleet am glad tae shed
 wi flailing feats o selfish plead,
@@ -1573,7 +1573,7 @@ that's bearing stone-age weaponry,
 but I am most familiar
 wi muscles, how they atrophy
 when pressures o exterior
-will decompress tae apathy.
+will decompress wi apathy.
 The epoch that a mountain-top
 defines will see the oceans dried.
 The waters o the world won't stop
@@ -1588,15 +1588,15 @@ don't amble in the mantle leant
 dim embers o resurfacing.
 Repeat recalls will be forgot,
 should singular event you cling,
-turn recollection o said thought
+turns recollection o said thought
 tae recounts o remembering.
 I disentangle frae your dive,
 I won't survive on ocean floor,
-I promise you I'll stay alive
+I promise though, I'll stay alive
 an wait fae you upon the shore,
 as someone who will never leave
 who kens that photons follow beam,
-an know they can't but form an weave
+an know they can't help form an weave
 your future rising frae sea's seam.
 ```]
 
@@ -1604,74 +1604,74 @@ your future rising frae sea's seam.
 #image("img/st-damocles-plotting-on-strings.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1216)[```none
+In cowered wait wi slouched posture
+at flowered flares o final sun,
+the alloy rich pebbles foster
+a broadcast playback frae no-one
+but nightspore killing suns so young
+atonal agin the gestalt
+o frequencies the orbits sung,
+an sing despite the lines o fault.
+Wi planets' song I try arrange
+tae foolishly sing low along
+in melodies far oot my range
+an breathless choke tae try belong,
+but I can't charge the particles
+nor hold the worlds in ringing lock.
+Nae solar winds nor orbitals
+leaves endless road fae quiet rock.
 A prince once claimed unprovable,
 o asteroid B-six-twelve's queen,
 that stars are made more beautiful
 by satellites that are nae seen.
-Though gleeful, friendly laughing blends
-in parts where light once did splatter,
-still darkening o lights portends
-destructive flooding backscatter.
-Yet nightspore that kills suns so young
-is only part o the gestalt
-o frequencies which orbits sung,
-an sing despite the lines o fault.
-In cowered wait wi slouched posture
-at flowered flares o last suns end,
-where alloy rich pebbles foster
-a broadcast playback frae auld friend,
-I hear a song an so arrange
-tae foolishly sing low along
-wi melodies far oot my range
-an breathless choke tae try belong,
-but in locked chest isnae keyhole
-as surely I will never see
-a choice o other pains tae thole
-in wars agin notes set tae be.
-The self-imposing paresis,
-where illusions o autarchy
-use poverty as prosthesis,
-helps self-fulfilling prophecy.
-Detaching scales I can't control,
-restoring stillnesses I've known
-recharge ascetics o dipole
-which uncurbed nervousness has sown.
+On many stars, this claim depends -
+when made, they seemed infallible.
+Nau darkening o lights portends
+such claim's becoming testable.
+If wicker o a candle's cut
+when flame hae barely burnt tae size,
+wi latter snuffed, we're loosed abut
+the scattered moths an dragonflies.
+Wi scales detached o all control
+they're satellites nae more, they're less
+their northern star an core dipole,
+just globes in spin directionless.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1248)[```none
-A confident assurity
-that's solely held in wantlessness,
-hasnae a safe indemnity
-agin despondent wantonness.
-Equating data wi abstracts
-tae tie a theoretic string
-has let coincidental facts
-in the way o the real thing.
-Wi stoic ending we will miss
-the lessons we don't yet nae ken,
-this risk o ridiculousness
-is what I'm less afraid o than
-epicurean epithets
-in consequence discovered wrong -
-what might hae been fae worse regrets,
-I'll lightly drop intae the throng.
-This resonating dissonance
-I can supplant wi tunes o ties,
-which bound us in a reticence,
-tae oscillate in tune wi sighs
-frae those o us who rise tae dark
-an slept through spans o sunlit days
-wi nane who sang fae us tae hark
-in era o this sunsick phase.
-A past event needs future plan,
-my knowing that I wait fae you
-affirms there was when we began
-an knowing this sustains me through
-Saint Newsom's nightjar protocol,
-the law that sets in stane the end
-an, frae eroded particle,
-necessitates start tae transcend.
+An occultation hae disturbed,
+like grave o rocks, it mocks again
+incensing nervousness uncurbed
+frae thinning o my oxygen.
+The frictionless misrule hae took
+like creature grown tae size obscene
+wi mouth closing on my outlook,
+a horror seen by what's nae seen.
+A dark displaces frae the bounds,
+an sun is tunnelled in vision.
+Has it consumed all that surrounds
+or excised us wi precision?
+Naive delusions do entice,
+but I am nae o note nor knew
+leviathans tae be precise,
+that any may mind me or you.
+A wish tae these uncaring things
+when inattention's evident,
+are ties in theoretic strings
+that won't permit experiment.
+But bugs hae buzzed an I made choice
+tae help them ower obstacle,
+though I'd need terraforming voice
+if heighest o lines must tremble.
+Wi weight am made virtiginous
+an lack climbing propensities,
+but am more scared my villainous
+prospects hae groundward tendencies.
+Thrice I swam Icarian seas,
+twice complacent, once wi hubris
+on fourth run I'd rather appease
+wi burns frae sun than paresis.
 ```]
 
 #set page(columns: 1)
@@ -1680,72 +1680,72 @@ necessitates start tae transcend.
 #code(numbers: true, firstnumber: 1280)[```none
 The crags o framework glasswork hive
 provide a piton's forking hook
-a nagging doubt is where tae drive
-the pittance o your last place look.
-If matters o inconsequence
-so brazenly can tutor us,
-crazen, craven crystalman can
-stave aff cloven Mount Arcturus.
+a nagging doubt is where I drive
+the pittance o my last place look.
+The past event needs future plan,
+an knowing am in wait fae you
+affirms there was when we began
+an knowing this sustains me through.
 Strength fae mountain sutures I feign,
 nor can I hold the waves at bay,
 but I hae found meaning o sane:
 tae try at these things anyway.
 Provided I discard the claim
 that winds cannae pass ben this way
-an, as wave crashes all the same,
+an as wave crashes all the same,
 tae revel in the brutal spray.
-In treasuring the pain o loss,
-I ken that gains are only lent,
-each skip made after a stane toss
+A slip in progress seems like loss,
+but I know gains are only lent,
+each skip made after a stone toss
 is something never tae lament.
-At terminal velocity,
-I ken the ground tae which I speed
-is where I dinnae want tae be
-an this tells me o space I need.
-On asking the virtiginous
-aboot climbing propensities,
-I'd say am scared my villainous
-prospects hae groundward tendencies.
-Complacencies an tried hubris
-wage war on Icarian seas,
-An I'm just trying tae leave this
-in ways that leave potential ease.
+I winnae promise we'll persist,
+in wanting hope you want struggle,
+but I know we can nau exist,
+if on tightrope ower rubble.
+Saint Newsom's nightjar protocol,
+is law that sets in stane the end
+an, frae eroded particle,
+implies a start we can transcend
+wi liberating certainty,
+though owertones are alien,
+Aeolian there's harmony,
+far-reaching, subterranean,
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1312)[```none
-Want fae hope is want fae struggle,
-I winnae promise we'll persist
-but on tightrope, oot o rubble,
-I'll show you we can nau exist.
-A liberating certainty,
-Aeolian an alien
-in overtones, a harmony,
-far-reaching, subterranean,
-strummed frae winds on harp at seaside,
-out-cried only by resurfaced
-humming pyramid that defies,
-noise distracting left unpurposed.
+oot-cried only by resurfaced
+humming pyramid that's defied
+noise distracting frae the purposed
+winds that strum on harp at seaside,
 If you manage tae ignore this
-repeater hissing demand then
-resurging frae the tide's faux bliss
+hiss o repeater demand then
+resurging frae the riptide bliss
 o teetering life abandon,
 you might try find in absent light,
 an in vibrations sense a route,
-tae actions tae revive the night
+tae actions that revive the night
 before these stars will peter out.
-At snuffing o withholding sun,
-at the coda on a lyre,
-the quiet dark that carries on
-leaves room fae anither fyre.
-The sorry sight o resurged slain
-which you have heard and wi self crowned,
-let slip the storied skipping stane
-that's o import tae rock since drowned.
-If you respond an so untack,
+The sorry sight o unslain drone
+which you have heard an wi self crowned,
+we'll slip as storied skipping stone
+tae ripple doon tae rocks since drowned.
+An should this be withholding sun,
+at coda o coronal lyre,
+the quiet dark tae carry on
+will leave room fae anither fire.
+If you respond an try untack,
 we could abscond frae massful quakes
 wi nae more suns tae burn us back
 tae discordant, aphotic lakes.
+Reverberating diffidence
+I've tried supplant wi tunes o ties,
+an nae bound in a reticence,
+I oscillate in tune wi sighs
+frae those o us who rise tae dark
+an slept through spans o sunlit days,
+wi nane who sang fae us tae hark
+in era o this sunsick phase.
 ```]
 
 #set page(columns: 1)
@@ -1769,36 +1769,36 @@ a rushed embrace tae path more sure,
 the falls we fell were nae innate
 but side-effect o law obscure:
 at edges light accumulates,
-where all we've seen is stretched in line,
+where all we've seen collects in shine,
 null geodesic unabates
-wi structure constant O so fine -
+wi structure constants' sweet affine -
 the twinned mirage o how it was
 an where its nae has chaperones,
 there's more effect than there is cause
 there's nae just light in these light cones.
 The gravity gets duplicates
-wi nae triage fae which acts first
+wi nae triage fae which is first
 an pulls us tae coordinates
 at tangent tae the path traversed.
 I'll fight the fall tae where you seemed
 and move in actuality
 tae where that light o you had beamed,
-reaching simultaniety.
+tae reach simultaniety.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1376)[```none
 The crux o this, the discomfort
-o hanging frae support so stiff,
+o hanging frae ad lib supports,
 (which follows laws which physics wrought
-winnae concern tae pained plaintiff)
+winnae concern tae resist quartz)
 nae mare encumbers tae abort
 this fool's errand tae sort rival,
 what self-worth fails tae report
 a friend in need provides in full.
-Wi soldiers stare an opened sores,
+Wi soldiers stare an wearing sores,
 lest I find rest, I can attest,
-I live tae see that you live yours,
+I live tae see that you live yours
 as I don't need tae live my best.
 My breath recycled I replace,
 inhaling, taking new found ware
@@ -1808,12 +1808,12 @@ I must address incessant pings,
 I stop an frae addendum pluck
 what's learnt aboot pendulums' swing
 an how the weight assists the buck.
-I didna hope tae spar ire
+I dinnae think I'll spar ire
 winnae the pride o warrior
-but desperation moves slyer
-as I reach intae tricksters' store
-The works o auld that had nae died,
-winnae dismantle, nae depart,
+but I hae mind that moves slyer
+an message left tae courier.
+To works o auld that had nae died,
+an won't dismantle or depart,
 outstaying welcome that's implied,
 I'll lead its way an so impart:
 Restarts will come frae great reset,
@@ -1838,10 +1838,10 @@ Attempting temptation towards
 suspension ower infections,
 descending the obstructing chords
 tae self-destructive directions,
-Meeting mech in crystal chasm
-halts the chronic resurrection.
-Beats offset wi untimed schism
-induce in me a will tae run.
+I meet mech in crystal chasm
+tae halt chronic resurrection,
+on offset wi untimed schism
+crystals an me make connection.
 The flux o fields which I reap
 frae lack o faradaic cage
 permits a fermi level leap
@@ -1862,15 +1862,15 @@ the beats are clamped an somewhat brief.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1440)[```none
-"Frae kinetic tae potential,
-your suffering has nae purpose;
+In kinetics an potential,
+suffering contains nae purpose;
 equally inconsequential
 is though equally momentous.
 Frae oot these signals, take the charge
 but dinnae ground an so inert
 our call then fall beside, but barge
 your way, discharge current, exert
-"overtly tae the final arc,
+overtly tae the final arc,
 where you can save on dropping spike
 the strength you'll use tae brave the dark.
 The spark o heat an light alike
@@ -1878,13 +1878,13 @@ is flash o pain o what you've gained
 instead o pain o what you save,
 an in the end, if still you're drained,
 you'll find remains the work you gave,
-"If only for a little while,
+If only for a little while,
 as time-space prison still presides
 tae force change through rapid turnstile
-an hasteful, immolates insides.
-Its end provides initial state,
-and starts must come from somethings end,
-but how one might interpolate
+fae hasteful endings o insides.
+Such end provides initial state,
+but starts must come from somethings end,
+an how one might interpolate
 an tae what depth will help transcend."
 I hit a height an see descent
 that seems as nae continuous,
@@ -1902,29 +1902,29 @@ in softening incandescence.
 #code(numbers: true, firstnumber: 1472)[```none
 Would crystals defrag engines rev
 or break unner autonomy
-o wheels unspooled on maglev,
+o wheels unspooling on maglev,
 or maintain in isotopy?
 I'd never know an never stay
 in dragging spaces that drag on
 as I had landed on my way
 frae apex tae at hand dragon.
 Astride Aegis, nae more sundered,
-winnae more need tae fall again,
+asserting I won't fall again,
 what merit hae this, I wondered,
 in numbered seconds o sun's wane.
 I measured it one less than twice,
-kept cutting til clippings were worn,
+an cut till all clippings were worn,
 an leisurely ingress o vice
 o idling slipped intae scorn.
 An having slept way past the morn
-wi cable trimming sheets tucked tight,
+wi sheets o wiry trims tucked tight,
 the morning swept day upon yawn
-before I'd adjusted tae light.
+before I could adjust tae light.
 Wi yearned, diurnal vestiges
-my retinas hae been seared,
-these tattoos colouring ridges
-stain tightened eyelids afeared.
-Could spurned deferrals so wary
+my retinas hae sun's burn seared,
+in tattoo that colours ridges
+an stains tightened eyelids afeared.
+Had spurned deferrals so wary
 be worry o schizoid station
 an this intermediary
 be sallow representation
@@ -1960,7 +1960,7 @@ All that is solved, what we've defined
 convolve between localities,
 an shapes that morph curves once enshrined
 show parts aren't unitarities,
-"Let fine-grain theories interlink,
+Let fine-grain theories interlink,
 its nae beholdent tae be this,
 it nae cares what you know or think
 its nae tae be but what it is."
@@ -3283,10 +3283,10 @@ Though planned tae die young, I stayed put,
 as blueprints defied what am due.
 Nau, brightly-faced, I drench gamut
 exceeding set aside dim hue.
-The skies resembled early days
+The skies remind o early days
 when weapons dangled owerheid,
 ekmystic models wrongly says
-the void left ower was all dead.
+that void left ower was all dead.
 Annihilation has a perk,
 helps what I can an will illume,
 creators need a space tae work,
