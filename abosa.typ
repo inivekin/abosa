@@ -948,7 +948,7 @@ lessens momentum defending
 egressing o what enlightens.
 At last expelled oot frae deep well,
 effects postponed in distant blast
-left lone zombie in extant shell,
+fae lone zombie in extant shell,
 wi knell o binary nau past.
 What hell tae which I wend below,
 like feather aff a burning wing,
@@ -1105,9 +1105,9 @@ salt whip-stung eyes an lips stane-dry.
 Unlearning laying doons o yore
 on blanking blanket unmoved since
 erasure o what storms restore,
-a flashed mem barren o footprints.
-So I retread the steps I made,
-a random walk regenerates
+a flashed mem barren o footprints,
+where I retread the steps I made,
+an random walk regenerates
 tae be waylaid by next cascade
 o tandem load an counterweight.
 ```]
@@ -1790,8 +1790,8 @@ tae reach simultaniety.
 #code(numbers: true, firstnumber: 1376)[```none
 The crux o this, the discomfort
 o hanging frae ad lib supports,
-(which follows laws which physics wrought
-winnae concern tae resist quartz)
+(that follows laws which physics wrought
+tae barely pull above the quartz)
 nae mare encumbers tae abort
 this fool's errand tae sort rival,
 what self-worth fails tae report
@@ -2007,46 +2007,46 @@ the will tae stifle spark tae less
 degenerate era preserves,
 wi hunger pains tae which pertains
 easiness o disengaging
-an actions I - bewitched - retain,
+an actions I, bewitched, retain -
 living less than I've been aging.
-the darks about my eyes are frame
-tae narcoleptical saccade
-between fixating search fae blame
-o smoking gun or signed placard
-expounding that on dying flame
-intent tae bring back light is flawed
-as killing time in waiting game
-keeps me inactive an unawed.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 1568)[```none
-Undependable pretender
-I'll work myself oot frae unfree
-non-consensual surrender,
-fae my interest in what will be,
-but opts o kelvin minima
-are limited tae what is thrown,
-tae proffer all that's insular,
-meandering tae warmth last known.
-I leave tae dark the scratched canvas
-(contains less air that lungs nau stow),
-so too, I leave the botched stanzas,
-(fae none need hear what I will show).
-Accept tae dark my crutch compass,
-those metrics help none tae follow,
-when points o ref'rence breach bandpass
-an skeptical hueristics slow.
 I stretched oot space but found trap in
 my shrink frae what's most intimate:
 finding ways tae make things happen
 an changing parts inadequate.
 In impetus, I'd sleep non-stop
 in metastable quietude,
-but I suspect you'd rather drop
-what meaning lies in silent brood.
+fae synthesis o us was all
+tae me, am yours in servitude.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 1568)[```none
+Inference frae growls engender
+interest in fissive renew,
+interring in blackened splendour
+wisnae what I hae promised you.
+As opts o kelvin minima
+are limited tae what is thrown,
+am proffering what's insular,
+meandering tae warmth last known.
+I leave, tae dark, canvas unpatched
+(which packs less air my lungs contain),
+so too, I leave stanzas attached,
+(wi tracks tae take, if some remain).
+Accept tae dark my crutch compass,
+those metrics help none tae follow,
+then I sedate hippocampus
+so skeptical hueristics slow.
+Between fixating search fae blame
+an anorectic disregard
+I've darks about my eyes tae frame
+my narcoleptical saccade
+expounding that the deadened flame
+hae floundered frae the fatal flaw
+o killing trait o the selfsame
+that keeps inactive as before.
 A subtle zap in tingling form
-soft taps my teletype fingers
+hae tapped my teletype fingers
 wi gentle rap o pinging swarm
 tae rouse me frae standby slumbers.
 Unencumbered eyelids reform
@@ -2075,7 +2075,7 @@ though training my adversity
 wi skull on grindstone ower thyme
 your pain it still will hurt tae see
 tae ring in heid, binaural chimes
-A strike to gong alike tae drawn
+On strike to gong alike tae drawn
 charonic pull doon Acheron
 when bystanders all stoop tae mourn
 I'd shape a lie tae soldier on
