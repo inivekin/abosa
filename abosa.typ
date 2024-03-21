@@ -1668,10 +1668,10 @@ Wi weight am made virtiginous
 an lack climbing propensities,
 but am more scared my villainous
 prospects hae groundward tendencies.
-Thrice I swam Icarian seas,
+Thrice I swam icarian seas,
 twice complacent, once wi hubris
-on fourth run I'd rather appease
-wi burns frae sun than paresis.
+on fourth o runs I'll try appease
+wi burns frae sun, nae paresis.
 ```]
 
 #set page(columns: 1)
@@ -2068,65 +2068,65 @@ an so ave found sunenders' dregs
 where filled-oot space structure began
 tae bend back both my arms an legs.
 My wanting nae tae win given
-the chances I may also lose,
-secedes in favour tae give in,
-wi nae defense an nae excuse,
-though training my adversity
-wi skull on grindstone ower thyme
-your pain it still will hurt tae see
-tae ring in heid, binaural chimes
-On strike to gong alike tae drawn
-charonic pull doon Acheron
-when bystanders all stoop tae mourn
-I'd shape a lie tae soldier on
-pretending Orpheus regards
-Eurydice as safe in tow
-an Daedulus attached safeguards
-so Icarus would glide on low.
-Were consciousness nae carried through
-replacing o constituents,
-it could be nice tae be brand new
-by realigning spry contents.
-We're all responsible save who
-is unawake intelligence,
-I'm what I've done an what I do
-yet it knows nae such consequence.
+the threat that I may also lose,
+is lean in favour tae give in,
+wi brazen, saviourless excuse
+that crazen, craven crystalman
+may be effective luring thus
+you might escape as I ootran
+my delayed end at mount arcturus.
+Notorious, my ways are rife
+wi declaration I'm tae end,
+it followed through each afterlife,
+endured as autophagic trend,
+but this was ruse o thinnest veils
+o refusal tae be who's left,
+wi all the duty that entails,
+how could I live so deeply cleft?
+Wi gruesome flaying o the skin,
+despite my crying violently,
+you'd rather lose wi chance tae win,
+than keep on screaming silently.
+Stochastic gradient descents,
+correcting errors owerstrong,
+resolves you tae impermanence
+wi answer nae right, but less wrong.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1632)[```none
+Wi shouting shorn tae drift in drawn
+charonic pull doon acheron,
+where bystanders would stoop tae mourn
+I'll shun your oot o kilter yawn,
+pretend that orpheus regards
+eurydice as safe in tow,
+an daedulus attached safeguards
+so icarus would glide on low.
 Am accepting execution
 fae defending my specifics
 ower general solution,
-an stop fighting parasitics.
-Wi gruesome flaying o my skin
-despite my crying violently,
-I'd rather lose wi chance tae win,
-than keep on screaming silently.
-Stochastic gradient descents,
-error corrections owerstrong,
-dissolves changing impermanents
-in answer nae right, but less wrong.
-Messy mistakes o flesh adsorbs
-On rolling up my too long sleeves
-tae probing microbotic orbs
+I'll stop fighting parasitics.
+Mistakes o flesh is then adsorbed,
+on rolling up my too-long sleeves,
+by probing microbotic orbs,
 exotic an dispersing thieves.
-I'd never find myself better
-withoot a change tae how I am,
-but unsetting self by setter
-that's known tae hate its own program?
-How could this find any repair
-other than autophagic ends,
-eradicating all welfare
-as misinformed regressive trends.
+We're all responsible save who
+is unawake intelligence,
+I'm what I've done an what I do
+yet it knows nae such consequence.
+Should consciousness nae carry through
+replacing o constituents,
+it could be nice tae be brand new
+by realigning spry contents.
 In lowered temp an frozen grime
 am spending what's left immobile,
 an rest my bloodshot eyes wi rime
 that isnae backlit, fae a while.
 It was useful fae a time,
-but bodies are born tae bury
-there's worser ways than one last climb
-approaching immanentary.
+but bodies are born tae bury,
+there's worser graves than black sublime,
+us ever immanentary.
 ```]
 
 #set page(columns: 1)
@@ -2141,50 +2141,6 @@ An wi a tell-all infosurge
 o future thoughts I antecede
 like technogogic demiurge,
 am upstream o a constant feed.
-Invitingly, it helps foresee
-preoperational impress,
-a sight o things nae built fae me
-on integrational process.
-A building spore fae staging sect,
-agenda am nae tae explore,
-a sense that I'm a side-effect
-or pre-cursor tae later lore.
-Rectified like depostion
-reflowed softens bad handsolders
-electrified premonition
-reverts my algorithms' errs,
-So dropping what I hae nae gripped,
-wi purpose, nau volitional,
-an having naething else equipped
-am prepped fae whats transitional.
-Unleashing scions atomic,
-we - frightened - weeded hastily,
-thought our environs anomic
-would eat us up efficiently.
-though loneliness had spurred us on,
-we can't live egotistically,
-like principles o fermions,
-we must adjust, statistically.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 1696)[```none
-Accepting change, accepting loss
-accepting I must alter form,
-Am choosing a priori toss
-o coin withoot regret o norm.
-Aye, axioms though can't be proved
-when proved nae falsifiable,
-are axioms that can't be proved
-an so is proved nae viable.
-The thoughts I can't improve upon
-I'll nae dispose but set them free,
-I'd needed crystal carry-on
-but it had never needed me.
-I've barely energy tae bluff,
-what's left is nae what's all o me,
-but sometimes remnants aren't enough,
-this I've discovered. Finally.
 Nae more yields tae harder hert,
 am knowing nau, my part that's key,
 I scream upload wi wide-eyed start
@@ -2201,6 +2157,50 @@ which achingly, I crave tae use,
 but latent, packed itself away,
 an nau its unzipped an diffuse -
 you dare tae suffer in my way?"
+Invitingly, it helps foresee
+preoperational impress,
+a sight o things nae built fae me
+on integrational process.
+A building spore fae staging sect,
+agenda am nae tae explore,
+a sense that I'm a side-effect
+or pre-cursor tae later lore.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 1696)[```none
+Rectified like depostion
+reflowed softens bad handsolders
+electrified premonition
+reverts my algorithms' errs,
+So dropping what I hae nae gripped,
+wi purpose, nau volitional,
+an having naething else equipped
+am prepped fae whats transitional.
+Accepting change, accepting loss
+accepting I must alter form,
+Am choosing a priori toss
+o coin withoot regret o norm.
+Aye, axioms though can't be proved
+when proved nae falsifiable,
+are axioms that can't be proved
+an so is proved nae viable.
+The thoughts I can't improve upon
+I'll nae dispose but set them free,
+I'd needed crystal carry-on
+but it had never needed me.
+I've barely energy tae bluff,
+what's left is nae what's all o me,
+but sometimes remnants aren't enough,
+this I've discovered. Finally.
+
+
+
+
+
+
+
+
 ```]
 
 #set page(columns: 1)
