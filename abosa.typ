@@ -2461,42 +2461,42 @@ fae which it was reliable
 in times o nervous dithering,
 when per-square-inch was pliable
 wi self-inflicted fissuring.
-Photovoltaic runaway
-electron avalanche vanished,
-hyperventilated away,
-on simple stress, am left famished,
-then I became the opposite
-o condensate renewable,
-Nae deposits I can posit
-as compensation suitable.
+My calcifying circuitry,
+it dessicated each misgive.
+A little is a lot fae me,
+an I've much less than that tae live.
+Could that I give an nae run dry -
+a giving wi stability -
+I'd love tae learn tae give fae aye
+winnae dim in integrity.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1952)[```none
-It dessicates wi each misgive,
-emotion in my honesty,
-nau I hae little there tae give
-(an little is a lot fae me).
-Could that I give an nae run dry -
-a giving wi stability -
-I want tae learn tae give fae aye
-winnae dim in integrity.
-Keeping quiet wi air storing
+But I keep air quiet in store
 preventing noticings o me,
-I became ill shallow drawing,
+becoming ill wi shallow draw,
 an limited recovery
-fae disappointed optimist
+o disappointed optimist
 in breath-hold induced reverie,
 frae days am shamed I've freely missed.
 As baby blue, I breathe deeply.
 In dissonance wi starvation,
-breakeven efforts reach success
+am breaking even wi excess,
 eclipsing sunrise space station,
-Am filament tae effervesce,
-reproviding what am owing,
-radiates back in tae maintain,
+am filament tae effervesce,
+reproviding owerflowings,
+radiating back tae maintain,
 keeping feelings like this going
 wi something tae conduct again.
+Photovoltaic runaway
+electron avalanche vanished,
+like hyperventilation may,
+when simple stress would leave famished,
+though charged tae be the opposite,
+a condensate renewable,
+my layerings a composite
+o suits wi power suitable.
 Nae deathly skinny as I was,
 less flimsy, limbs feel rightly fused,
 Nae whimsy frae some cosmic cause
@@ -2511,14 +2511,14 @@ O, how I've missed the morning sun.
 #image("img/st-damocles-mooring.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1984)[```none
+Surely I was withoot body,
+nau restored in webbing o strings.
+But how is something beyond me
+(though I am nae short o such things).
 My instance was spontaneous
 in its brunt organisation,
 it must be cause extraneous
 hae called fae my incarnation.
-Sorry I made a mess tae clean,
-I'd nae hae thought any would see
-nor care tae convalesce til genes
-precisely fit so I am me.
 But should I doubt an dub worthless
 suspect re-emerged elation,
 being routed tae fraught mirthless
@@ -2529,24 +2529,12 @@ those left fettered wi a surplus
 dosage o the nightly scourges?
 An why feed incovenience,
 sparse mentally an kept untapped,
-low tolerance fae reactance,
-scant capacity handicapped?
+lacking any self-reliance
+wi capacities quickly sapped?
 Why choose humdrum routine ennui,
 one whose tiresome as prospect?
 Dinnae waste your power on me,
 I'm an often breaking object.
-Surely I was withoot body,
-nau restored in webbing o strings.
-But how is something beyond me
-(though I am nae short o such things).
-Wi respect tae saving didact,
-I didnae consent tae present
-circumstance, should I interact
-am doomed tae ere long torment.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 2016)[```none
 What designed me, made me hungry,
 gave me instinct that defies me,
 though I deign tae blunt it dumbly
@@ -2555,29 +2543,41 @@ Since I've been, it all hae worsened,
 I was naething an that was fine.
 Aye, it's known am a terrible person
 Just say it, I ken mien o mine.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 2016)[```none
+Wi respect tae saving didact,
+I didnae consent tae present
+circumstance, should I interact
+am doomed tae ere long torment.
+Am sorry I made mess tae clean,
+I'd nae hae thought any would see
+nor care tae convalesce til genes
+precisely fit so I am me.
 Is it fae punishment am sought?
 That may give reason tae auld pains.
-I cannae think anither thought
+Am scared tae think anither thought
 (that's nae tae say that naught remains).
-Why else raise me in accordance,
-rarely used in friendlier schemes,
-unresponsive tae my parlance,
-wi inhospitable extremes.
-but why am I so sure o guess
+Why else raise me while avoiding
+hailing unner distressing scheme,
+unresponsive as I float in
+most inhospitable extreme?
+But why am I so sure o guess
 provided outcomes end badly?
 an why imbue maliciousness
 tae those who share their energy?
 Why does my love fae others seem
 like dip in photosynthetics
 when cloud or dust obstruct the beam
-an slightly shrouds stars' aesthetics?
+an shroud turns me tae ascetics?
 Exploring positivities,
-along the surging, wiry, charged,
+along tae barge frae which hae surged
 umbilicord delivery,
-halt dirges o the unnercharged
-on verge o lockoot volt release
+wi dirges o the fullycharged.
+On verge o lockoot volt release
 frae fault o dry-joint weaning stress,
-I start a simple search fae peace
+am starting simple search fae peace
 tae make the auld pains meaningless.
 ```]
 
