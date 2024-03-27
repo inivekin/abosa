@@ -1459,7 +1459,7 @@ you're there in wait where light does break.
 Considering behind dirt plume,
 in choosing, privately, what serves:
 were I swallowed in earthen doom
-would I fulfill what you deserve?
+would I fulfil what you deserve?
 An should your choice tae wait fae me
 be factor in my gait resumed?
 We hurt ourselves so easily,
@@ -2559,10 +2559,10 @@ Is it fae punishment am sought?
 That may give reason tae auld pains.
 Am scared tae think anither thought
 (that's nae tae say that naught remains).
-Why else raise me while avoiding
-hailing unner distressing scheme,
-unresponsive as I float in
-most inhospitable extreme?
+Fae why else raise me in extremes
+avoiding hailings o distress,
+most inhospitable o schemes
+wi unprocessed white noise address?
 But why am I so sure o guess
 provided outcomes end badly?
 an why imbue maliciousness
@@ -2570,12 +2570,12 @@ tae those who share their energy?
 Why does my love fae others seem
 like dip in photosynthetics
 when cloud or dust obstruct the beam
-an shroud turns me tae ascetics?
+an shrouds me intae paretics?
 Exploring positivities,
 along tae barge frae which hae surged
 umbilicord delivery,
-wi dirges o the fullycharged.
-On verge o lockoot volt release
+wi dirges o the owercharged
+on verge o lockoot volt release
 frae fault o dry-joint weaning stress,
 am starting simple search fae peace
 tae make the auld pains meaningless.
@@ -2587,30 +2587,30 @@ tae make the auld pains meaningless.
 #code(numbers: true, firstnumber: 2048)[```none
 Though frame o mind feels light emit,
 the light that shone faded away,
-like time an space had swapped units
+like time an space hae swapped units
 an forward is the only way.
 Wi movement somewhat polarised
-a moments hesitation curbed,
-the space-filling comes organised
-once through entrance that I disturbed.
-A hyper-void inflates in here,
-vectorless fae circumvention,
-circle spun in rotating sphere's
-base dimension o distension.
-Metal arms start up unreeled
-like plans construct in waved-actor,
-follows differential field
-then falls like chaos attractor.
+my moments hesitation's curbed,
+an space-fillings are organised
+inside entrance that I disturbed.
+A contravoid inflates in here,
+wi turn negating contention,
+o circle in rotating sphere's
+base dimension in distension.
+Metal arms start up unreeled,
+the pylons construct wave vectors,
+tae follow differential field
+in swell o chaos attractors.
 Hopeless anthropocentrism
 couldnae define the limbic glade.
 It was fae budding phantasm,
 an nae fae us, were makings made.
-Let automated center pry,
-if something's wrong, it must be me.
-My common sense can often lie,
-subjective in ontology.
-Dismayed, returned in suit o years,
-exhile provided nae pardon,
+If I'm again a random born
+experiment tae foreign aim,
+How could I fulfil honours sworn
+when naething else hae stayed the same?
+On stilted towering arrears,
+compiled as exile's nae pardon,
 I tumble doon in built-up tiers,
 tae do what guilt hae long called on,
 wi tacit trust fae bugless chips,
@@ -2629,44 +2629,36 @@ My ribs protecting naething more
 than draining tape-worm power suck,
 the innefficient hardware draws
 oot starving clock-ticks in loop stuck.
-If I'm again randomly born,
-experiment o foreign aim,
-Am I void o honours I'd sworn
-or bound tae be annoyed wi same?
+Let automated center pry,
+if something's wrong, it must be me.
+There must be better things tae try
+than loop on an apology.
+This logic o machinery
+thinks what tae do, nae why tae be,
+an executes inputs only,
+wi lack o teleology.
+alike cancers which only grow
+wi sole concern tae spread its blight,
+a perfect reproduction o
+assumptions faulty owersight.
 Regard what the unbroken's wraught,
 immortalised, insistent jaws,
 articulations falling short,
 all carcinised, weighed doon wi claws.
-These incised micron inset runes
-can be reordered fae new rules,
-I've learnt am nae cast looping loon,
-that can't rework first principles,
-unlike cancers which only grow
-wi sole concern tae spread its blight,
-a perfect reproduction o
-assumptions faulty owersight.
-The logic o machinery
-thinks what tae do, nae why tae be,
-an executes inputs only,
-hard-wired teleology.
-Extend insight beyond the heap,
-wi logic leap that sense denies,
-should peers manage their upkeep,
-what's real never falsifies.
+My incised micron inset runes
+I can reorder fae new rules,
+tae be less sorry in retunes
+an rework frae first principles,
+Extending insight beyond heap
+wi logic leap my sense denies,
+I'll work such that I'll never sleep
+until I'm nae what falsifies.
 ```]
 
 #set page(columns: 1)
 #image("img/st-damocles-on-tape.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2112)[```none
-To think the tragedy is worth
-the chance that let downs fade in whiles,
-the skulls still lurk reducing dearth
-o horrors o what always smiles.
-Life-liver rebound tae replay,
-I'd rather face doon twist an warps,
-regardless if I look away
-the birds would still pick at my corpse.
 The ladder logic I abide
 wi badly-written, faulty rung
 hae plagued me tasting o ferride
@@ -2675,6 +2667,14 @@ The grinding joints an clamping doon,
 behaviours I need nae obey,
 can tangle in the parts its strewn,
 unorganised in disarray.
+Tae think the tragedy is worth
+the chance that let downs fade in whiles,
+the skulls still lurk reducing dearth
+o horrors o what always smiles.
+Life-liver rebound tae replay,
+I'd rather face doon twist an warps,
+regardless if I look away
+the clawed would still peck at my corpse.
 There is a way I can beat threats,
 if I can hack my own command,
 how I may be like waves through nets,
@@ -2687,20 +2687,20 @@ I struggled to repay love due,
 I tried tae give by taking few,
 but all that was wanted by you,
 was sight o me happy in view.
-My very code has traced confines
-o talent dodging friends' embrace
+My very code hae traced confines
+o talent dodging tight embrace
 inside a grid o highlight lines,
-insights hid in negative space.
+are insights o negative space.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2144)[```none
-What I held back, nae what I gave,
-and guard like flailing arms defends,
+What I held back, nae what I gave
+and guard like flailing arms defend,
 inflated vacuum decay lave
-tae distance us tae our own ends,
-in unrelenting, cavernous
-divide o many unheld clasp
+tae distance me tae far-flung end.
+An unrelenting, cavernous
+divide o many unheld clasp,
 that reach fae what's nau fathomless
 as if in last o blackhole's gasp.
 We talked when touch o confidante
@@ -2721,7 +2721,7 @@ I was a something hurting things
 then, being naething, let them hurt.
 Unsentimental, on all fours,
 am clutching fae defining quines
-wi sentiments as semaphores
+my sentiments as semaphores
 fae any way tae stop flat lines.
 I hurt fae them, they hurt fae me,
 the caring is reciprocal,
