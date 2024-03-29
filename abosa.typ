@@ -1158,8 +1158,8 @@ find me as shadow time parted
 frae what's linearly followed
 on projected path's cross-section,
 winnae intent, enslaved tae curve
-(what's set frae first perturbation,
-initial states we all must serve).
+that's set frae first perturbation,
+(initial states we all must serve).
 O how I am convinced wi ease
 tae minimize the entropy
 an nae detour tae endless freeze
@@ -1902,7 +1902,7 @@ in softening incandescence.
 #code(numbers: true, firstnumber: 1472)[```none
 Would crystals defrag engines rev
 or break unner autonomy
-o wheels unspooling on maglev,
+o wheels unwhirling on maglev,
 or maintain in isotopy?
 I'd never know an never stay
 in dragging spaces that drag on
@@ -2489,12 +2489,12 @@ reproviding owerflowings,
 radiating back tae maintain,
 keeping feelings like this going
 wi something tae conduct again.
-Photovoltaic runaway
-electron avalanche vanished,
+What simple stress would leave famished,
 like hyperventilation may,
-when simple stress would leave famished,
-though charged tae be the opposite,
-a condensate renewable,
+electron avalanche vanished
+photovoltaic runaway,
+an charged tae be the opposite,
+am condensate renewable,
 my layerings a composite
 o suits wi power suitable.
 Nae deathly skinny as I was,
@@ -2594,7 +2594,7 @@ my moments hesitation's curbed,
 an space-fillings are organised
 inside entrance that I disturbed.
 A contravoid inflates in here,
-wi turn negating contention,
+wi turn negating contention
 o circle in rotating sphere's
 base dimension in distension.
 Metal arms start up unreeled,
@@ -2633,11 +2633,11 @@ Let automated center pry,
 if something's wrong, it must be me.
 There must be better things tae try
 than loop on an apology.
-This logic o machinery
+But logic o machinery
 thinks what tae do, nae why tae be,
 an executes inputs only,
 wi lack o teleology.
-alike cancers which only grow
+Alike cancers which only grow
 wi sole concern tae spread its blight,
 a perfect reproduction o
 assumptions faulty owersight.
@@ -2648,10 +2648,10 @@ all carcinised, weighed doon wi claws.
 My incised micron inset runes
 I can reorder fae new rules,
 tae be less sorry in retunes
-an rework frae first principles,
+an rework frae first principles.
 Extending insight beyond heap
 wi logic leap my sense denies,
-I'll work such that I'll never sleep
+I'll work such that I never sleep
 until I'm nae what falsifies.
 ```]
 
@@ -2663,19 +2663,27 @@ The ladder logic I abide
 wi badly-written, faulty rung
 hae plagued me tasting o ferride
 wi often bitten, ulcered tongue.
-The grinding joints an clamping doon,
+The grinding joints an clamps' repugn,
 behaviours I need nae obey,
 can tangle in the parts its strewn,
 unorganised in disarray.
+My nerves are hit enough by nau,
+my thinning skin has deadened sense,
+but feeling naething would allow
+a staying force tae past offence.
+I must expose internal stings
+o failings I couldnae avert,
+I was a something hurting things
+then, being naething, let them hurt.
 Tae think the tragedy is worth
 the chance that let downs fade in whiles,
-the skulls still lurk reducing dearth
+the skulls still lurk tae fill-in dearth
 o horrors o what always smiles.
-Life-liver rebound tae replay,
-I'd rather face doon twist an warps,
-regardless if I look away
-the clawed would still peck at my corpse.
-There is a way I can beat threats,
+Regardless if I look away
+the clawed would still peck at my corpse
+an rewinding one more replay
+exaggerates the twists an warps.
+But there is way I can beat threats,
 if I can hack my own command,
 how I may be like waves through nets,
 like shadows' shift on falling sand,
@@ -2683,50 +2691,42 @@ I must disband what is within,
 an find the courage tae disclose
 the wrongs I branded unner skin
 an clear debts I self-impose.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 2144)[```none
 I struggled to repay love due,
 I tried tae give by taking few,
 but all that was wanted by you,
 was sight o me happy in view.
 My very code hae traced confines
 o talent dodging tight embrace
-inside a grid o highlight lines,
-are insights o negative space.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 2144)[```none
+tae sketch a grid o highlight lines
+fae insights o negating space.
 What I held back, nae what I gave
 and guard like flailing arms defend,
 inflated vacuum decay lave
-tae distance me tae far-flung end.
-An unrelenting, cavernous
+tae distance me tae far-flung end,
+tae unrelenting, cavernous
 divide o many unheld clasp,
 that reach fae what's nau fathomless
-as if in last o blackhole's gasp.
-We talked when touch o confidante
-swings radii short o impact,
-but raise our voice wi arms, we can't,
-in medium o strained contact,
-tae see but never speak, will we,
-with ootcome silently sordid,
-I gave nae alms tae voiceless plea,
-when arms reached vaguely as they did.
-My nerves are hit enough by nau,
-my thinning skin has deadened sense,
-but feeling naething would allow
-a staying force tae past offence.
-I must expose the mantric stings
-o failings I couldnae avert,
-I was a something hurting things
-then, being naething, let them hurt.
-Unsentimental, on all fours,
+wi arms tied up in widened gasp.
+I've habit trained fae insistance
+fae radii tae skirt impact,
+an keeping arms at fair distance
+find medium o strained contact.
+Tae see but never speak, I flee
+in last unspool o sordid way,
+giving nae alms tae voiceless plea,
+as arms reach vaguely in dismay.
+I've pulled the threads an loops are shown,
+minimum feedback vertex set,
+those states tae which I am most prone,
+sensitive tae cyclic mindset.
+Stepping gentle, on all fours,
 am clutching fae defining quines
-my sentiments as semaphores
-fae any way tae stop flat lines.
-I hurt fae them, they hurt fae me,
-the caring is reciprocal,
-a circular-dependency,
-so I must care for me as well.
+wi sentiments as semaphores
+in breaths as beat through my flat lines.
 ```]
 
 #set page(columns: 1)
@@ -2736,71 +2736,71 @@ so I must care for me as well.
 Entrails run through slackened wrists
 an catch me in a trap thats new,
 arms empty hurting more than fists
-wi heavy hauns I can't pull-through.
+o heavy hauns I wrested through.
+Tae stay in would be tedious,
+interred, immure in unnerside,
+but could I prefer previous
+compared tae feeling set aside?
+If I look inward tae my sims,
+fae probabilities that swelled,
+an sleep wi dormant robot limbs,
+I could emerge wi fear dispelled,
+wi owerincubated skills,
+which squanders in anxiety
+if I must live through many kills
+o maximal variety.
+But fostering each scar an scrape
+am answered by my falters met,
+the ties I cut can keep their shape
+as stripping frae a stuffed headset.
+I won't retrace the travelled lead,
+am disembowelled, unwrangling,
+a sleeve emptied o ravelled tweed,
+a loose weave I'll leave dangling.
 Behind me doors close silently,
 ahead is what I can't prevent,
 a force withoot concept o me,
 nae mean or kind, but ignorant.
-Then trills o sinusoidal twins,
-bimodel in their urgency,
-like shrill staccato violins
-thats racing tae converge on key
-fae logical method tae cleanse
-me o the space an help confine
-in time, that polarising lens
-which place my actions intae line.
 Errything that's done is undone
-once ave settled tae the rhythm,
-what's more unpredictable than
-chaos-aping algorithm?
-Determined teasings o dulled skills,
-so squandered 'neath anxiety,
-ower a hill o owerkills
-in maximal variety.
-Confusion can break timidness,
-distracting wi a spectacle,
-invigorating willingness
-fae owercoming obstacle,
-but this isnae ma character,
-my guilt is known tae be my guide
-encroaching external factor
-hae found successful owerride.
+when I settle tae the rhythm,
+Predictably my life is run
+wi chaos fae algorithm.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2208)[```none
-Interred, immure an set aside,
-what stayed in must be tedious,
-as if my drag tae unnerside
-wisnae preferred tae previous.
-I'll foster in each scar an scrape
-reminders o the falters met,
-the ties I cut can keep their shape,
-ave stayed too long in same headset.
-The paratastic mumblings
-an paracostic wonderment
-cannae prevent the crumblings
-o honesty I reinvent
-in fictions o my tragedies,
-I can't daydream withoot the day,
-tae ignore practicalies,
-in black, it's hard tae see the grey.
-Am pulled in parts so loops are shown,
-minimum feedback vertex set,
-The states tae which I most am prone,
-sensitive tae cyclic mindset.
-By filling up wi what repeats
-ave robbed myself, in thinking greed
-is cutting ties tae nae retreat
-an taking errything I need.
-If I look inward, run through sims,
-leave currents owerhead tae swell
-an sleep in robot seaweed limbs,
-there's simply more arms tae dispel.
-I won't retrace the travelled lead,
-am disembowelled, unstrangling,
-a sleeve emptied o ravelled tweed,
-a loose weave I'll leave dangling.
+Then, trills o sinusoidal twins,
+bimodel in their urgency,
+like shrill staccato violins,
+are racing tae converge on key
+fae logical method tae cleanse
+me o the space an help confine
+in time, that polarising lens
+which place my actions intae line.
+Confusion breaks my timidness,
+distracting wi a spectacle,
+invigorating willingness
+fae owercoming obstacle.
+A puncture tae my character,
+whose guilt is known tae be a guide.
+Encroaching external factor
+has actuated owerride.
+My tortured ligaments pulled tight
+is weak but only strategy
+tae dodge capture o harshest light
+pervasive tae anatomy,
+wi heat enough so tae ignite
+a brightness tae see intae me 
+where usual turn fae respite
+cannae hide face where dark would be.
+If someone's oot there tae surmise
+what shows in photogrammetry
+they'd nae see brows raised in surprise
+but angled, intense inwardly,
+as sorriness was subturfuge
+tae quarantine parts so angry
+at being locked in centrifuge
+o world that's more cruel than need be.
 ```]
 
 #set page(columns: 1)
@@ -2824,8 +2824,8 @@ then tragedy can be also,
 maybe am nau more defective,
 but less identically so.
 Submarines in the pacific,
-interstellar spaceprobe carefree,
-the place where space is prolific
+an interstellar probes carefree,
+in place where space is prolific
 seemed haven frae chaos tae me,
 like clouds, distanced, cradle their moons,
 far winds through trees that alter moods,
