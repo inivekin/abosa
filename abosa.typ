@@ -108,15 +108,17 @@
 #show raw: set text(font: "Iosevka Fixed", slashed-zero: true, size: 9.0pt)
 #v(1fr)
 ```
-
-                    *      '                        ,~  .       
-          '                       `            |,.~`  o`     +  
-                , .                          -<O>-              
-                          .         * .        |        .  '    
+            .           *                  +*              ,    
+*.               '.                                       +     
+      .                  .           .      *                   
+                                   *                ,~  .   .   
+;         '        +              `            |,.~`  o`     +  
+   +            , .                          -<O>-              
+   '   .                  .         * .        |        .  '    
       *   :                                              ;      
-    .,                                  __+,._,.                
-  --X:           _            ,___+-_-`'        \_              
-    '`          (J?,.______,-`  \   _J\      i    \         .,  
+    .,               ,                  __+,._,.             *  
+  --X:           _            ,___+-_-`'        \_   .          
+ ,  '`          (J?,.______,-'  \   _J\      i    \         .,  
              q_/{W\,`------------+-'|0|       `-   |       :K---
             [#]  E ! `'----.,_______/00>           \        '`  
 ^,              / |^  `+---+.,__\__,00/        _   /        __._
@@ -2927,36 +2929,36 @@ my steps are sure, my path well traced.
 #code(numbers: true, firstnumber: 2336)[```none
 The sureness o immensities,
 hannae a doubt, nae die tae cast,
-far inevitabilities,
+far inevitabilities
 may just as well be present past,
-an searching past it all distorts
+but searching archives all distorts
 comparing stretches it collects,
 my life is long an it is short
 fae such is infinites' effects.
 Am lone winnae a clock tae tell
 if what I do is wastefulness,
 I'll wander desert but nae dwell,
-Alone withoot a loneliness
-Then, distant an unmoving stance,
-but getting closer an wi force,
-o one wi impulse tae advance,
-can change my path if am offcourse.
+Alone withoot a loneliness.
 Tae far-off figure am at command,
-tae shorten time should space extend,
+it shortens time should space extend,
 where time perceived I can wistand,
-in manner braver minds contend,
-Some kinder being wi mainstay
+in manner braver minds contend.
+The distant an unmoving stance,
+is getting closer an wi force,
+instilling impulse tae advance,
+an change my path if am offcourse.
+This kinder being bares mainstay
 respect tae patterns less involved,
-has nae killed bug that lives a day,
+that nae kills bug that lives a day,
 who struggles wi what's easy solved.
 My inflamed een has itching fade
-an shameful frown is slack across
-wi baseline that's nae more afraid
-protected by a fake chaos.
-So doubt in uniform expanse
-gives comfort in faux-endlessness,
-a poisson-distributed chance
-fae constant reach tae friendliness.
+an shameful frown is slack across,
+I've baseline that's nae so afraid
+wi friend whose path am sure tae cross.
+Among the uniform expanse,
+I've comfort since I can depend
+on each new step nae culling chance
+o poisson-distributed friend.
 ```]
 
 #set page(columns: 1)
@@ -2966,8 +2968,8 @@ fae constant reach tae friendliness.
 The cables jumbled humanly,
 like veins turned metal an unskinned,
 wi tendrils o a networked tree
-which rustle in an unfelt wind,
-resembles one I deserted,
+which rustle in an unfelt wind.
+It resembles one deserted,
 wi lantern held in hauns that seem
 catatonically converted
 as conduit fae lantern streams.
@@ -2979,20 +2981,20 @@ tae show I've got life that I chose,
 an prove that squares inscribe flat-loop,
 an looking only at shadows,
 redraw each net your wires group.
-You hideoot wi few joules in lieu,
-simulating solar renew.
+But maybe you've few joules in lieu
+tae simulate solar renew.
 What else is stargazer tae do
 than reinvent solace they knew?
-Am glad you found your way elsewhere
+Am glad you found your way elsewhere,
 so close but far frae where arms swung,
-but stars o night nae light your stare
+but stars nae luminate your stare
 wi sorry proxy lanterns strung.
 If you should be some silhouette,
 unthinking representation,
 It widnae stop my grovelled fret,
 fae such is my agitation.
-I never was good wi expression
-an comprehending how I think,
+Never was good wi expressions
+nor decryptions o how I think,
 the fear shows when it lessens,
 wi love, I'd nae notice it shrink,
 ```]
@@ -3007,22 +3009,22 @@ This time, bayesian likelies aside
 which presumed I'd nae loved before,
 perhaps my feeling same implies
 each time it's love that I fell for?
-Forgiveness helps, but nae explains
+Forgiveness helps, but nae explained
 what got me here, got me on through,
-once guilt was gone, a drive remains,
-Am pleased I fell if it's fae you.
+once guilt was gone, a drive remained,
+Am pleased tae fall if it's fae you.
 Could time hae come tae free up wrists
 frae foolish doubt that I suffered
 an break that pattern that persists,
 an take that haun I've been offered?
-I only speak tae see you smile,
+Why must I leave the place I've been
+tae find oot staying was worthwhile?
+An why'd I let words intervene?
+I only speak tae see you smile.
+That's it, I guess, am still centered,
 I say what's said fae my own sake,
-it's nae with tact an nae worthwhile.
-it's pretty things, it's plastic fake.
-But then that phrase that's so your style,
-"A sighed sweethert, a moan worked at,
-when eyes dilate talk comes tactile."
-You cut tae hert, through bone, wi that.
+Erry situation entered
+I pilfer others' joy an ache.
 You stay unmoved tae haun I bring,
 that's fair, tae block me frae your sense,
 as one more sample o naething
@@ -3037,13 +3039,13 @@ humility an haun tae claim?
 #image("img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2432)[```none
-In daytimes, being fatherly,
-I misread energy as heat,
-an nighttimes, somewhat motherly,
-wrote in the stars o my defeat.
+I'd damaged what was delicate,
+confused all energy fae heat,
+accepting am inadequate,
+I'll live how stars wrote my defeat.
 But why don't I feel purpose-free
 I watched it all, I reached an end,
-Why still am I afloat in sea,
+Why am I still afloat in sea,
 nae deep enough tae nau transcend?
 What else would you care tae suggest?
 I can't start wi an epitaph?
@@ -3053,15 +3055,15 @@ That I had blurred in shaky lurch,
 I was my ghost in selfish haunt,
 an if my nature took tae search,
 I could have had all that I want?
-That ootward pushing in my heid
-amassing so tae break surface,
-at erry turn this was ahead,
-endurance leading catharsis.
 Eyebrows furrow wi deeper crease
-a tension stretching riotous,
+in tension stretching riotous,
 attention slips like mask tae ease
 prodromal, pulsing tinnitus.
-An so exposed wi mouthless breath,
+That ootward pushing in my heid
+hae disassembled weathered lock,
+revealing what I left unsaid,
+depressurising bloated block.
+I am exposed wi mouthless breath,
 I hannae voice, am fake o hert,
 am suit that lived past owner's death
 an emptied oot fae the most part.
@@ -3073,22 +3075,22 @@ you need nae tell me, I'll just go.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2464)[```none
-But strobe o dark lines cause each flash
-when unseen winds sweep lanterns' sway
-an low-entropic cell charge cache
-through gaps in body blink tae say,
-"If shift o swaying lights can scare,
-when lanterns carried all alone,
-know duty tae shine you can share,
-that power need nae stay your own."
-I see when light pings metal strings,
+But strobe o dark lines in each flash,
+when unseen winds sweep lanterns' sway,
+have low-entropic cell charge cache,
+through gaps in body, blink tae say,
+"I see when light pings metal strings,
 life can be sparse, can be hollow,
 a light in swing brings life tae things,
 wi both reflection an shadow.
-I searched fae unavoidable,
+You searched fae unavoidable,
 ignored what passes fleetingly,
-spent my effort keeping stable
+spent your effort keeping stable
 what barrels on unceasingly.
+If shift o swaying lights can scare,
+when lanterns carried all alone,
+know duty tae shine you can share,
+that power need nae stay your own."
 Am foolish, I forgot you're wise
 tae inner workings I nae show,
 thought I'd surprise wi dropped disguise,
@@ -3097,13 +3099,13 @@ an tell me "void's much more than glue
 tae bridge the clusters o matter,
 you always carry their light too,
 an in someways, somehow, faster.
-"I unnerstan why you withdrew,
+I unnerstan why you withdrew,
 it's wonderful, but painful too,
 tae leave your prospects just fae you,
 tae have you want fae naething new.
-You're nae good gone, you're some good here,
+You're nae good gone, you're good tae meet,
 but you could do good anywhere,
-I'd like tae keep you but I'm whole,
+I'd keep you here but I'm complete,
 an you've still something left tae share."
 ```]
 
