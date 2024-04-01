@@ -1548,7 +1548,7 @@ o shifting plates an sun's remains
 yelping predictions' parity.
 In seismic rarities unstuck
 the heisenbugs o genes I spliced,
-I recognize in shakes you tuck
+I recognise in shakes you tuck
 between your posturing as feist.
 I too would bark at empty void
 when I'd nae ken whose hurting me,
@@ -1996,7 +1996,7 @@ suns detritus, wilted litter.
 Spurred in torrenting dense vapour
 through the dent, quiescent currents
 o bright an airy elixir,
-whose last evapouration vents,
+whose last evaporation vents,
 eagerly filling oot nothing
 til something can match the flavours
 o withdrawals intae frothing,
@@ -2800,81 +2800,81 @@ but angled, intense inwardly,
 as sorriness was subturfuge
 tae quarantine parts so angry
 at being locked in centrifuge
-o world that's more cruel than need be.
+o world that's crueller than need be.
 ```]
 
 #set page(columns: 1)
 #image("img/st-damocles-rides-a-pulse.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2240)[```none
-Rejecting noise fae lithely core,
-I find a truth by forgoing,
-as all too late I see the flaw,
-that empty space may keep growing
-Unsure, wobbling, backing doon,
-knees too hobbled tae bravely dive
-I feed survival slimming doon,
-tae try endure instead o thrive.
-Nae passers by, when matter-bound,
-is duplicating what I shade,
-nae observation frae surrounds
-sees one-way optical blockade.
-Suppose errything's perspective
-then tragedy can be also,
-maybe am nau more defective,
+Tinged wi darker tint perspective
+as bombardment densities grow,
+my attention's more defective,
 but less identically so.
-Submarines in the pacific,
-an interstellar probes carefree,
-in place where space is prolific
-seemed haven frae chaos tae me,
-like clouds, distanced, cradle their moons,
-far winds through trees that alter moods,
-quiescence gently forming tunes
-in kindness frae infinitudes.
-I thought that peace alone can bring
-what desert-dwellers think is wise
-but they just run frae errything,
-an know only what fright supplies.
-Integration, isolation,
-extremes aren't where the learnings lie,
-lack o yearning fae elation
-can never extricate mind's eye.
+All observation frae surrounds
+won't breach new optical blockade,
+the passers by nae matter-bound
+can't penetrate my strengthened shade.
+This aggravated cancelling,
+I've power nau tae energise,
+what can't be blocked am scrambling,
+I've nae hunger tae analyse,
+my will o thought's focused tae crush -
+by gushed onslaught o resentment
+an rapid cycles o bloodrush -
+enemy tae all contentment.
+External sounds dinnae subsist,
+wi isolating vaccuum tech
+my snarling hastened breaths should mist,
+but I've nae bending light tae check,
+fae just neutrinos wriggle through,
+am sealed tae high hermetics,
+but seethings ease wi naught tae do,
+if seen I would seem pathetic.
+How quick my angst evaporates
+When sparing thought tae recognise
+how badly body regulates
+the hate on which I agonise.
+Gloom's dark enough, I'd make it worse,
+tae park albedo in domain
+o umbra, halting my traverse,
+wi final act o mine tae wane.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2272)[```none
-A heavy mind's a grounding force.
-Intelligence withoot intent
-relies on chance tae solve fae cause -
-I must engage present event,
-if there is hope fae my amends
-tae soften sharpening o drones,
-which tapers bindings at the bends,
-those bandaged ruins, crooked bones.
-You didnae let me take the shame
-an let me live as my own bane,
-perhaps am nae always tae blame
-an shouldnae tried so hard tae wane.
-A crescent o a quarter seen
+A crescent o a quarter seen,
 libration hiding cratered flaws
 that only offers concrete sheen
-in tidal-lock o molten cores.
-I winnae try recede in vain,
-times winnae alter me the same,
+on tidal-lock o molten cores.
+I can't ignore what I abhor,
+an live in peace by forgoing,
+as all too late I'd repeat flaw,
+let empty space keep on growing.
+I shouldnae try recede in vain,
+times cannae alter me the same,
 I ken its nae only my pain,
-should falters linger oot o frame.
-A new found day will come up soon
+tae linger stranger oot o frame.
+A new found day is rising soon
 I'll try reflect auspiciously,
 tae shine fae someone as full moon,
 an turn tae face them gibbously.
+But ominous, on lifted veil
+are vacant sockets bathed in white,
+a skeleton o peeling scales,
+an inarticulated kite,
+a death o wish tae resurrect,
+it softens sharpening o drones,
+which tapers binding disconnect
+o bandaged ruins an crooked bones.
 Limits tae degrees o freedom
 are inversely proportional
 agin added continuums
-involving an orthogonal
-which curves back in so tae encase
-an guide me back tae what I knew,
-since straight, in hyperbolic space,
-will point right angles back tae you.
+where am writhing contortional
+tae curve back in so tae encase
+an show me else frae what I knew,
+but straight, in hyperbolic space,
+just points right angles back at you.
 ```]
 
 #set page(columns: 1)
