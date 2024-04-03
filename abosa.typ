@@ -785,13 +785,13 @@ an circulatory beats slow,
 respiratory dulls tae moan
 as muscles cannae stow airflow.
 Skeletal sags as jelly mass
-fae I'm easy tae make shakened,
-nae mystery hides my bypass
-fae exhaustion, though just wakened.
+fae I'm easy tae make shaken,
+resumed exhaustion winnae pass,
+I want fae sleep though just woken.
 "Cover me in reeds an river,
 an bury me in humbled glen,"
 speaks my soft wee voice aquiver,
-words o beaten, stumbling men,
+the words o beaten, stumbling men,
 My reddened een an bagging spine
 an quaking lower lips o cry,
 would see less pain should birch an pine
@@ -3117,63 +3117,63 @@ I'd nae confidence in distance
 where the lights hit interference,
 despite this you keep coherence,
 tae then reach winnae resistance,
-In leaning frame o reference,
 feeling afar but looking close,
-wi seeming deep-felt deference,
-you cut loose star like atropos.
+In leaning frame o reference,
+you cut loose star like atropos,
+wi seeming deep-felt deference.
 Am drained tae last o volt-ampere
-an empty o what was installed,
+emptied oot o all installed,
 what shell I have, I volunteer,
 am pinned insect, in glass, enthralled.
 Internalising thunderbolt,
 I hold my heid wi hauns unshook,
-but writhed, a worm on hot asphalt,
+but writhed like worm on hot asphalt,
 tae be a sun, at which, you'd look,
 Until illuminated room
 beneath my suit hae falsehoods burn
 amid a filter set tae bloom
 fae possibles o true return.
 A wingless buzz o wattage whirs,
-humming flicker o charge at ear,
+that hum an flicker charge at ear,
 Am flea which glass again inters,
-fooled by looking past what's clear.
+but unfooled looking at what's clear.
 Jabs o light reflexes parried,
-bypass what's agreed upon:
+bypass right through checks agreed on:
 what I left an what I carried,
 what has me fall, what drives me on.
 So much I've come tae unnerstaun,
-In my lowered expectations,
+unner battered expectations,
 the truth is naething made by haun,
-it's made by random negations.
+it's born in random negations.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2528)[```none
-Be wary o the shameful ones
+Heroes are the broken losers
+that do good then get forgotten,
+took on errors caused by others,
+ever giving love they'd gotten.
+but forgive absent-minded ways
+o one awash in what they weren't,
+they never knew those kinder days,
+the love they'd get is how they'd learnt.
+Be wary o the shamed an numb
 who don't love all in sympathy,
-but earnestly meet eyes that comes
+but earnestly meet eyes that come
 wi gratitude, humility.
+Should named an few nae more exist,
+I'd easy find some substitutes,
+in names that never made a list,
+nae clamouring fae attributes.
 An don't be so immutable
 you meet change wi hostility,
 but don't be so predictable
-in unpredictability.
-An knowing physics pursues mess
+in unpredictability,
+fae knowing physics pursues mess
 totally unpreventable
 will never hae me feeling less
 personally responsible.
-Forgive those absent-minded days
-o one awash in what they weren't,
-they never knew these kinder ways
-the love they'd get is how they'd learnt.
-Heroes are poor, broken losers
-that do good then get forgotten,
-suffered errors caused by others,
-consumed before turning rotten.
-You'll easy find your substitutes,
-should named an few nae more exist,
-helped up by hunchback destitutes,
-wi names that never made your list.
-What modest knowledge I allow
+What modest knowledge I'll allow
 tae glimpse my mediocrity,
 shows flashes where - I see it nau -
 how little we could mean tae be.
