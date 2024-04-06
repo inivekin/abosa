@@ -3061,7 +3061,7 @@ attention slips like mask tae ease
 prodromal, pulsing tinnitus.
 That ootward pushing in my heid
 hae disassembled weathered lock,
-revealing what I left unsaid,
+unsealing what I left unsaid,
 depressurising bloated block.
 I am exposed wi mouthless breath,
 I hannae voice, am fake o hert,
@@ -3103,9 +3103,9 @@ I unnerstan why you withdrew,
 it's wonderful, but painful too,
 tae leave your prospects just fae you,
 tae have you want fae naething new.
-You're nae good gone, you're good tae meet,
+You'd best be gone, it's good we meet,
 but you could do good anywhere,
-I'd keep you here but I'm complete,
+I'd like you here but I'm complete,
 an you've still something left tae share."
 ```]
 
@@ -3142,8 +3142,8 @@ bypass right through checks agreed on:
 what I left an what I carried,
 what has me fall, what drives me on.
 So much I've come tae unnerstaun,
-unner battered expectations,
-the truth is naething made by haun,
+battered unner expectations,
+as truth is naething made by haun,
 it's born in random negations.
 ```]
 
@@ -3151,9 +3151,9 @@ it's born in random negations.
 #code(numbers: true, firstnumber: 2528)[```none
 Heroes are the broken losers
 that do good then get forgotten,
-took on errors caused by others,
+owning errors caused by others,
 ever giving love they'd gotten.
-but forgive absent-minded ways
+Forgive the absent-minded ways
 o one awash in what they weren't,
 they never knew those kinder days,
 the love they'd get is how they'd learnt.
@@ -3187,6 +3187,30 @@ these nights you leave lights on fae me.
 #image("img/st-damocles-written-out.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2560)[```none
+Though all I do is languish since
+you've slivered back tae plasmasphere,
+though I hannae the diligence
+as limited interpreter,
+I'll try lay doon symbols on plates
+that gate a power inherent,
+nae knowing if it compilates,
+nor what it does if aberrant.
+I would that words in lines amassed,
+will narrow doon the thoughts silenced,
+these hidden concepts I looked past,
+unnamed, ignored, unpreferenced,
+interaction-free measurements,
+paths that photons didnae travel,
+knowledge I indirectly sense,
+the noumena nae named tae tell.
+Then information density
+may explicate ingrained reveal,
+congealing off-mark tensity
+wi boilerplate that could anneal,
+should I contain the burning white
+nae melting intae slate carcass,
+so face o glass reflects starlight
+an nae the inbetween darkness.
 Like negatives an positives
 all summed tae zero are equal,
 anodic role prerogative
@@ -3195,64 +3219,40 @@ covering the nerves transfixes,
 passive unner nervous twitches,
 better fae it wi these fixes,
 healed scars wi golden stitches.
-Guess I could hae been much kinder,
-an done more than I could recall,
-Accepted I'd be far blinder
-tae good I've done than my downfall,
-as erry hurt an surrender
-is perceived ower aid unmet,
-doing good I won't remember,
-an others surely will forget.
-I'll write you words frae lines amassed,
-tae narrow doon the thoughts silenced,
-these hidden concepts we look past,
-unnamed, ignored, unpreferenced,
-interaction-free measurements,
-paths that photons dinnae travel,
-the knowledge nae directly sensed,
-the noumena nae known tae tell.
-But spelling oot tae represent
-as byte-code fae instruction set,
-hae memory leak frae intent
-(tae ensure naething is null set).
-Wi symbols laid oot uncompiled
-at breakdoon o high energy
-my words did naething, still you smiled
-at incomplete draft elegy.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2592)[```none
-Do I lack needed diligence
-as limited interpreter?
-Does it resist acknowledgements
-fae timid is unknowns' nature?
-Nae, it's as you said before
-there's naught tae to do when at the end
-but, faced wi ruin, go explore
-where those unknowns hae time tae lend.
-So edge o letters scraped an scored
-hae ruptured wi poked at panels,
-then floor rips up like rug decor,
+Guessing I could hae been kinder,
+an done more than I could recall,
+owerlooked I'd be far blinder
+tae good I've done than my downfall,
+I'll dislocate far oot o center,
+nae acknowledging aid tae net,
+doing good I won't remember,
+an others surely will forget.
+I've scabbed the letters, scraped an scored,
+they ruptured in poked at panels,
+the floor rips up like rug decor,
 unmooring plasma frae channels
 in some extended aperture,
 bright dots are tracing arcing lines,
 o some concerning centerer,
-though my mind it nae more confines.
+but I am nae what it confines.
 I feel but don't suffer effects,
 as fulcrum buckles unner strain,
 a twist on axis then ejects
 this balanced world as plasma rain.
 Circles arc tae parabolics,
-clumping material inclines
-the gradients o metabolics
+materials clump wi inclines,
+gradients o metabolics
 spacetime's burning as enzymes.
-I lived at crest o wave the width
+I cross the crest o wave the width
 o universe observing me
 an as its breaking tae fault with
-nae halt I debug mistake in
-declaring ends computable,
-it would evolve, it nae concludes.
+nae halt, debugs mistakenly
+declared the ends computable,
+but it evolves, it nae concludes.
 Built stars were nae less beautiful
 tae die again in multitudes.
 ```]
