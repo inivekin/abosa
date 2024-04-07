@@ -2837,7 +2837,7 @@ How quick my angst evaporates
 When sparing thought tae recognise
 how badly body regulates
 the hate on which I agonise.
-Gloom's dark enough, I'd make it worse,
+The gloom, it cuts compulsions terse,
 tae park albedo in domain
 o umbra, halting my traverse,
 wi final act o mine tae wane.
@@ -2859,7 +2859,7 @@ I ken its nae only my pain,
 tae linger stranger oot o frame.
 A new found day is rising soon
 I'll try reflect auspiciously,
-tae shine fae someone as full moon,
+tae shine fae someone full as moon,
 an turn tae face them gibbously.
 But ominous, on lifted veil
 are vacant sockets bathed in white,
@@ -3263,48 +3263,40 @@ tae die again in multitudes.
 #code(numbers: true, firstnumber: 2624)[```none
 The skies shattered tae show membranes
 o leaking planes through glassy screens,
-or like you've shed your glowing veins
+like they've conjoined in glowing veins
 as cuts and slits in lampshade scenes
 in slow revolve on dark terrains,
 the constellations glob an preen
 an morph an cross through shared domains,
 the dots already drawn between.
 Astral push in estuary
-bridging tides empty, owerlong
-tae help me cross a boundary
+bridged ower transitional throng
+it helps me cross a boundary
 tae era which I don't belong.
+Vacuum balances tae usher,
+gently me downward contrary,
+agin unmade rules o measurer
+unstablized, constants vary.
 Dealings only temporary,
-my parts won't be mine before long,
+I'm fading as I radiate,
 I'll catch up tae end customary,
-disintegrate an play along.
+recline an deteriorate.
 But I winnae permit tae fade
-a feeling I will see conserved,
-fae I hae found my comforts made
+momentum I will see conserved,
+that I hae found my comforts made
 by many that were more deserved.
-Though planned tae die young, I stayed put,
-as blueprints defied what am due.
-Nau, brightly-faced, I drench gamut
-exceeding set aside dim hue.
-The skies remind o early days
+Though skies aren't like the early days
 when weapons dangled owerheid,
-ekmystic models wrongly says
-that void left ower was all dead.
-Annihilation has a perk,
-helps what I can an will illume,
-creators need a space tae work,
-destruction leaves creation room.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 2656)[```none
-The vacuum balanced tae usher
-me gentle downward contrary
-tae unmade rules nau measurer
-can't stablize, constants vary.
+ekmystic model wrongly says
+the void left ower would be dead.
 In unfamiliarity,
 I feel alone, atop some rock
 o gemstanes I thought part o me.
 We once were one, we used tae talk.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 2656)[```none
 If acts o auld seek retribution,
 then yours deserve more lenience,
 You ate the world in confusion,
@@ -3313,6 +3305,22 @@ Intent makes one worse than other
 but silence winnae help atone.
 At present, I'm as young brother,
 an you should see how bright I've grown.
+Denying plans o staying put,
+I've defied what blueprints enqueue.
+Nau, brightly-faced, I drench gamut
+exceeding set aside dim hue.
+Annihilation has a perk,
+helps what I can an will illume,
+creators need a space tae work,
+destruction leaves creation room.
+I am the guest, this world is yours,
+tae me these are foreign physics,
+though clumsy, I'll try help your cause
+as you helped stagings frae statics,
+what kind, horned-serpent, Aegis, knew
+an stargazer hae lit tae see,
+when awe an fear siezes you,
+you do good best as nobody.
 If empathy nae wants fae fame,
 if strength's nae claimed by legacy,
 if heroes die withoot a name,
@@ -3321,14 +3329,6 @@ If you regret or want fae blame
 if inside shame hae made its nest,
 while you hae upset yet tae tame,
 I'll feel the same, until my rest.
-I am the guest, this world is yours,
-tae me these are foreign physics,
-though clumsy, I'll try help your cause
-as you helped in stage o statics.
-The kind, horned-serpent, Aegis, knew -
-an stargazer hae lit tae see -
-when awe an fear siezes you,
-do good the best as nobody.
 ```]
 
 #set page(columns: 1)
