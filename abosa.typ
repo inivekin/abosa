@@ -828,13 +828,13 @@ save soaking up the aftermath,
 once all my limbs are laid tae ground,
 an am exhausted o all wrath
 that keeps me frae that patient mound.
-My staff does creek unner the force
+My staff does creek unner the weight
 o weakened frame I've well-burdened,
-I weakly seek ma wayward course
-tae scarce treeline o woodland end.
+I weakly seek on wayward straight
+a scarce treeline o woodland end.
 I mount what could become heidstane,
 tae find I look back where I came
-an erry pathway thus bygane
+an erry pathway thus bygane,
 at once, I see all look the same.
 An frae all sides it seems tae me -
 a joke frae auld an weary japes -
@@ -1111,7 +1111,7 @@ a flashed mem barren o footprints,
 where I retread the steps I made,
 an random walk regenerates
 tae be waylaid by next cascade
-o tandem load an counterweight.
+o tandem load an counterweights.
 ```]
 
 #colbreak()
@@ -1558,7 +1558,7 @@ I am nae guide fae paranoid
 but I can keep you company.
 The trailing sleet am glad tae shed
 wi flailing feats o selfish plead,
-we fledgling fleet hae nae yet said
+we fledgling fleet hannae yet said
 our last o which we still hae need.
 But casting doon, submerged in deep
 expanse which laps at heaped collapse,
@@ -2177,9 +2177,9 @@ I needed crystal carry-on
 but it had never needed me.
 Taking little bodily care,
 am taken by the more able,
-wi rememberings o wetware,
+rememberings a rogue malware,
 unnergoing a removal,
-an dropping what I hae nae gripped,
+an dropping what I hannae gripped,
 wi purpose, nau volitional,
 an having naething else equipped
 am prepped fae whats transitional.
@@ -3343,30 +3343,30 @@ I'll feel the same, until my rest.
 #image("img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2688)[```none
-May hesitancy be recused,
-it's hard tae pin-point the absurd,
-when born upon a time suffused
-wi ways tae speak withoot a word.
-In phrases thought already used
-an thoughts assumed already heard,
-I blabbered, was insane, bemused,
-wi purpose clumsily transferred.
+My halo wi outdated hints,
+predicting things historical,
+tredding footprints frae pre-imprints -
+Heuristics As Loop Oracle -
+it makes me slant an reminisce
+in crooked path o helios,
+tae veer intae a dark abyss
+that lifetimes cannae stretch across.
+There's benefit when things equate
+when small an large share rules far-spanned,
+like dust an planets will collate,
+an mountains ridge like grains of sand.
 Unsure if small or titanly,
 where light dies barely beyond me,
 I recall how congruency
 can resolve such despondency.
-The rule when small and large equate
-is it should nae break what you planned,
-both dust an planets will collate,
-an mountains ridge like grains of sand.
-A halo wi outdated hints,
-predicting things historical,
-tredding footprints frae pre-imprints,
-Heuristics As Loop Oracle,
-makes me slant an reminisce
-in crooked path o helios,
-tae veer intae a dark abyss
-that lifetimes cannae stretch across.
+An identity's subtraction
+multiplied by eigenvectors
+fae diagonalisation
+may shape nodes among connectors
+tae reduce errors in feedback,
+directing wi dampening slope,
+the slides that glean nae meaning back
+unless seen unner microscope.
 The sharpened drop wi random crag
 is cliff-face that reminds o mood,
 when cheeks would sink an eyes would bag
@@ -3393,7 +3393,7 @@ replacing drained adrenaline,
 nae braced fae impact sure tae come,
 nae scared if muscle promptly bends
 as folding o a silken cloth,
-unner the judgement gems resends
+unner the judgement gem resends
 like blinking een frae wings o moth.
 In many ways I see myself
 in many faceted returns.
@@ -3402,15 +3402,15 @@ as diamonds cut tae light patterns,
 an bare a face o tragedy
 but at an angle more obtuse
 show common triviality,
-a comedy that's in misuse
-A bright ootlook's erasing bleach,
+a comedy that's in misuse.
+My bright ootlook's erasing bleach,
 wi hindsight, highlights irony,
-it takes anither fog tae breach
-the blinding, bright translucency.
-A better light nae stops the fright
+o yet anither fog tae breach
+wi blinding, bright translucency,
+an better lights nae stops the fright
 a thought might conjure up fae me,
-As silhouette stuck in the white,
-the dark parts, too, are company.
+but silhouettes stuck in the white
+as dark parts, too, are company.
 ```]
 
 #set page(columns: 1)
@@ -3433,26 +3433,14 @@ I lower in withoot report,
 myopic tae forward thinking,
 remembering those falls I fought,
 but nae nostalgically sinking.
-Fae all the panic that I had
-an all the fighting that I did
-the manic hope I thought would add
-control tae sort recourse amid
-the multi-faceted crisis
-would simply serve tae disappoint,
-leaving suit tae its devices
-would lead tae same critical point.
-I lose a greater time righted
+I've lost a greater time righted
 in struggle tae owerextend,
 tae lay a straighter spine tae bed
 wi posture unbent tae each end.
-Yet I'd grind doon that same auld tread,
+I'd rather grind that same auld tread,
 wi toes tae teeth all chipped an bent,
 tae never lend, but give till dead.
 A suit unused hae unseen dent.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 2784)[```none
 There is a glint o disrepair
 that biases survivorhood,
 Tae scrutinise the wear an tear
@@ -3461,14 +3449,26 @@ Too often are the untouched praised,
 when what's at work is demonised,
 those in the dirt are rarely raised
 fae cleaning by the galvanised.
-Behold the pristine wi disgust,
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 2784)[```none
+I behold pristine wi disgust,
 we share if we can ionise,
 while we can give things free o rust,
 when base components oxidise.
-So break me doon an use the parts
+Please break me doon an use the parts
 if what I am disnae suffice,
 they've proven well in pumping hert
 o owersensitive device.
+Fae all the panic that I had
+an all the fighting that I did
+the manic hope I thought would add
+control tae sort recourse amid
+the multi-faceted crisis
+would simply serve tae disappoint,
+leaving suit tae its devices
+would lead tae same critical point.
 Once am less than dust on lashes
 irritating, frae eye, a tear,
 that looks ower the spread ashes,
@@ -3481,33 +3481,33 @@ What information hae dust laid?
 Some far-off thought caught on defer?
 Is it just that, in what I wade?
 A constant calculating stir?
-Seas' executions pool canals,
-constellations channel power,
-nightspore statements rush fae eval,
-crystals storing state in structure.
+Seas' executing pooled canals?
+Constellations channel power?
+Nightspore bus statements fae eval?
+Crystals storing states in structure?
 ```]
 
 #set page(columns: 1)
 #image("img/st-damocles-diving.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2816)[```none
-My energy drips viscous wynn
-in flow distinctly laminar,
+My energy drips viscous in
+a flow distinctly laminar,
 a blood that seeps as sweat on skin
 tae recombine wi summoner,
 this druid born frae erry star
-tae speak in air an seas an gems,
+tae speak in gems an seas an air,
 where fluid is a reservoir,
-fae mass o flowing branelink stems.
+communicational wetware.
+Mixing sea wi exalt spirit
+reconciling forms a vortex,
+Auld, pre-emptive me would fear it,
+flailing wi rejective reflex.
 Prior knowledge uses finished,
 I was long since drawing tae it,
 as logician now diminished,
 withoot reason, I intuit.
-Mixing sea wi exult spirit
-reconciling forms a vortex,
-Auld, pre-emptive me would fear it,
-flail wi rejective reflex.
-But in switch between weightings dense
+Switches between the weighted dense
 an sleeps within a lofty prow,
 (tae reckon ways tae banish tense
 an flatten impulse spike o nau),
@@ -3520,37 +3520,37 @@ discarding all fae much intake
 the turbulance would then confine
 me tae nae stop or brave my wake.
 Wi last o many given chance,
-I'd be as this mediation,
+I'd emulate mediation,
 nae rushed or busied countenance,
-an pass time by intuition.
+but pass time by intuition.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2848)[```none
-The grain find calm in hurricane
-at pommel o the thresher loop,
+I follow grain o hurricane
+tae pommel o the thresher loop,
 am pummelled helical in drain
 'til terminus o funnelled stoop,
-tae foaming orb like flooded dawn,
+tae foaming orb that's drenched in dawn,
 a dream o morn in shades o blue,
 Why secret it where I'd be drawn,
 in purposeful an plainest view?
 I guess ave noticed common clue,
-expression often colours truth,
+expression often colours you,
 like blush when reassessing rue,
-on doon-turned face o pardoned youth.
-Any expecting mind averts
-this fact that's felt by erry beast -
+an doon-turned face nae hides this too.
+It's commonplace, what I assert,
+an wish was known by erry beast:
 you need nae be heard, tae be hurt,
-an dinnae need hope tae feel fleeced.
-Inside an airy gash I tore
+an dinnae need death tae feel ceased.
+Inside the airy gash I tore
 in weak-guard o the bubbles' case
-hide gadgets that guide ships tae shore
+tae gadgets that guide ships tae shore
 providing means fae interface.
-We both know language o commands
-that chain tae find place that we knew,
+We both share language commonground
+required fae frontier crew,
 you hide on path where you'd be found,
-I'll always go, looking fae you.
+an I'll always go look fae you.
 Before I reach fae sigils sought -
 I've only faint thoughts what tae say,
 But... maybe that's nae o import,
@@ -3566,46 +3566,54 @@ as I gie my remaining days
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2880)[```none
 Suspended, seemingly noticed
-the tempest flash boils away
+the tempest flash boils away,
 as if frae quick drawn breath focused
-on strong connection o relay
+on strong connection o relay,
 conveying twitch in knuckles locked
 an any defect in the way
 my rate o speech, when owerclocked,
 can melt in thermal runaway.
+I've phrases thought already used
+an thoughts assumed already heard,
+Am blabbering insane, bemused,
+wi purpose clumsily transferred.
 Typical degrade o diction
 tends tae trigger disengages,
-wordlessness wi dropped cognition,
-sudden winds hae turned my pages.
-Paging throughoot uncaching states,
-am absent o all else but this:
-tae hope my instinct nae vacates
-in last traversals o abyss.
-Teeming dictionaries suffer
-lack in means by which tae forage
-meaning frae what gets nae namer,
-learnings o a solo voyage.
-The plotting course o spatial ride
-wi tangent strides in glide preserved,
-wi gravitations guiding tide,
-nae energy need be reserved.
-Some think the universal aim
-is movement o least resistance,
-distracted frae the true endgame,
-o low energy existance.
-That's nae intended tae despair,
+wordlessness o dropped cognition
+when the winds hae turned my pages.
+Filled an teeming dictionary
+isnae listing the description
+o refined words necessary,
+it's a chaos in transcription.
+Wi diction very much suffused
+in nuances tae point absurd,
+may hesitancy be recused
+wi ways tae speak wi erry word?
+Some think it universal aim,
+fae least resistance interchange -
+that's symptom o the likely game,
+where energies just disarrange.
+That's nae intended as despair,
 the journey managed tae impel
 me tae want those, fae which, tae care
-an be taken care of as well
+an be taken care of as well.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2912)[```none
-Am nae the worst I've ever done,
-an definitely nae the best,
-still I'd nae guessed I'd end my run
-assured o hopes I'd long suppressed,
-Tae take my place in your headspace
+Those particles, they arc widely,
+nae motivated nor as smart,
+if we're tae go where most likely, 
+I'd nae imagine us apart.
+My plotting through time-spatial ride
+used tangent strides fae glide preserved
+in gravitations guiding tide,
+nae extra energy reserved.
+I've naewhere else, this is me done,
+I live an die at your behest,
+though I'd nae guessed at end o run
+that you've same wants that I'd suppressed,
+that I take place in your headspace
 an rest wi friends that are nae more,
 wi rising Aegis tae embrace
 in crystal reaches I'd forbore.
@@ -3617,15 +3625,7 @@ Examples (set by me) were fits
 an bouts agin what I can't beat,
 nau, though you break me intae bits,
 am feeling more an more complete.
-Wi identity subtraction
-multiplied tae eigenvectors
-fae diagonalisation
-tae shape nodes among connectors
-fae reduction in the feedback,
-these directions dampen a slope,
-tae slides that glean nae meaning back
-when sitting unner microscope.
-So what's the means o free torso?
+But what's it mean, this free torso?
 Tae force a dying diaphragm?
 You dinnae need tae let me go
 But you can't keep me as I am.
@@ -3765,10 +3765,6 @@ Nae even stars explosion can
 perturb reused atoms disowned,
 it's nae more strange tae sky I'd scan,
 wi how much naething I condoned.
-The dust is thick winnae shepherds,
-the rock grows quick, bug weaves an darts,
-both blocks o time a lifetime girds,
-through cathode the current departs.
 The clustering forms pendant drop
 like slow congeal at tipped pipette
 fae teary shapes that fell nonstop,
@@ -3781,6 +3777,10 @@ an I won't suffer where am laid
 wi new experience abreast,
 tae nae be constantly afraid,
 winnae distress, wi time tae rest.
+The dust is thick winnae shepherds,
+the rock grows quick, bug weaves an darts,
+both blocks o time a lifetime girds,
+through cathode the current departs.
 ```]
 
 
