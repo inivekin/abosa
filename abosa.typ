@@ -1322,8 +1322,8 @@ The empty parts will help define
 the points in space which I call home,
 the quiet times connect a line
 that moments are permit tae roam.
-Lantern flare shot as a bullet,
-casting last light lobbed wi sorrow,
+the lantern flares when shot as bullet,
+an the cast light says tae sorrow,
 ship adrifting is nae done yet,
 am nae dooned by flaming arrow.
 Were I nae born tae stay alive,
@@ -3625,88 +3625,88 @@ Examples (set by me) were fits
 an bouts agin what I can't beat,
 nau, though you break me intae bits,
 am feeling more an more complete.
-But what's it mean, this free torso?
-Tae force a dying diaphragm?
-You dinnae need tae let me go
-But you can't keep me as I am.
-I won't remain accessary
-tae limiting your field o view.
-I can't be more than memory
-if you're tae want fae something new.
+Does space still stretch or stretch anew?
+Is this final dissolution?
+Ifnae I'll have a start ensue
+at ending o this transmission.
+On decommission I'll hae you steer,
+fae you tae move aways frae me,
+I was always tae be here,
+Here I am always tae be.
 ```]
 
 #set page(columns: 1)
 #image("img/st-damocles-powered-down.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2944)[```none
-As echo o my ship since downed,
-my powered glow's diminishing,
-the substrate joins a short tae ground
-an hangs fine strung unfinishings.
-Extremities hae fast dissolved,
-subsumed in changing quality,
-fae conflicts in one way resolve,
-replete, total calamity.
-A speeding roon the close-by spheres
-was feeble run that shows I fleed,
-in yore, apocalyptic fears,
-an worked tae war fae baseless creed:
-that if I last anither year
-I might give more than what's given,
-ignoring at each new frontier
-nae road tae give is undriven.
-Nae hiding, this is recension
-o DNA tae editor,
-organs offered fae extension
-o crystalline siphonophore.
-Yet, encoded in the borders
-in informations' stagnancy,
-Orderer o things so orders
-my minimal variety.
-I am, as well as my body,
-a reingesting o ootcomes,
-Am node connected to many
-wi self far stretched ower spectrum.
-Fae node cutoff, where could one crop
-while claiming self disconnective,
-if growing empty space nae stops
-conciousness being collective.
+But what's it mean, this free torso?
+Tae force a dying diaphragm?
+You dinnae need tae let me go
+But you can't keep me as I am.
+I'm hanging stretched in stagnancy,
+unfinishings are strung sordid,
+my minimal variety
+the orderer o things ordered.
+What could hae caused this inflection
+o crystalline siphonophore?
+I don't want pain o rejection
+o DNA frae editor.
+I can't remain accessary
+as limit tae your field o view.
+I can't be more than memory
+if you're tae want fae something new.
+By gracing me wi space so near,
+I fear the risk that a misplace
+in error costs me further years
+unpowered an rolling in space.
+There's nae a harsher death in store
+than breakdoon that's forever seen -
+reuse transistors, scavenge more,
+recycle me an strip me clean.
+What isnae used, you set alight,
+I beg my wish isnae denied,
+tae let me burn intae the night
+an share what warmth I can provide.
+I am at peace tae be disposed
+fae reingestings o ootcome
+wi unanswered questions unclosed,
+nae knowing what you may become.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2976)[```none
-There isnae plans nor can be ploys
-fae chaos tae then culminate,
-I'll simply merge intae the noise
-an never cleanly terminate,
-continue dreaming vivid dreams,
-unanswered questions up til close,
-winnae such worry tae sew seams,
-I am at peace tae be disposed.
-As pile o angled heap that can't
-unset in sequence what is scribed,
-I'll try an cleave departing slant
-beside symbols thus far imbibed,
-though look askance is proof journey
-was means tae end wi neck askew,
-a means, I muse, meant much tae me,
-an I hope weren't naething tae you.
-A love destroyed destroys you back,
-There isnae harsher death I've wore,
-fae in a suit wi many cracks
-I lack integrity fae more.
-Tae buckle unner greatest stress
-until a quiet lie so still
-in yearn fae pains nae meaningless,
-I'll die by what I love, nae kill.
-Does space still stretch or stretch anew?
-Is this final dissolution?
-If nae, I'll have a start ensue
-at the end o this transmission.
-On decommission I'll hae you steer,
-fae you tae move aways frae me.
-I was always tae be here,
-Here I am always tae be.
+But what cutoff is there tae crop
+an claim the self disconnective,
+the life I love, it winnae stop,
+consciousness being collective.
+I nae resent the lucky who
+hasnae prophecy tae fulfill,
+a curse I've brought ower tae you,
+tae die by what you love, or kill.
+Sure, I am nae the killing sort,
+but if I was, it's circled track,
+fae love isnae a sure support
+an love destroyed destroys you back.
+As instruments, we're uninformed
+a lower order tae what's planned,
+fae love hae killed me when you formed
+an when am breathed by it's demand.
+At this a shock runs through us two,
+an eager tae keep me around
+you pull me tight til neck's askew
+an substrate joins a short tae ground.
+Extremities are liquified,
+I dinnae clearly terminate,
+an though your grip's intensified,
+at fingertips, I culminate.
+am clustered intae pendant drop,
+like slow congeal frae tipped pipette
+in teary shapes that fall non-stop
+titrations topped-up last burette,
+like mask, each flask shatters combined
+tae lay in mess o angled heap,
+it rains on roof ower my mind
+an wi the noise I'm soothed tae sleep.
 ```]
 
 #set page(columns: 1)
