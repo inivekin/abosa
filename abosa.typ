@@ -317,7 +317,7 @@ o lustful molten rock an seas.
 When clouded chaos quiets some,
 approaching shores o placid dunes,
 I ken the cause when that plight come,
-a deserts' sinking, flacid croons.
+a deserts' dry, decrepit croons.
 ```]
 
 #set page(columns: 1)
@@ -1198,9 +1198,9 @@ My ray cast light wi inverse square
 intensifies in gemstane roots
 o unnerground, that squirm aware,
 wi wild an luminesced offshoots.
-The skirt o night that drags the floor,
-seducing dimming lantern's rim,
-holds all that I cannae ignore,
+The fringe o night that drags the floor
+retreats frae dimming lantern's rim,
+an wi it, all I can't ignore,
 the possibles ootside my whim.
 The universe observable
 is stretching oot frae unner me,
