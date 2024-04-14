@@ -143,7 +143,7 @@ V  V \|/ V\                  "
   image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 25%),
   image("img/st-damocles-helmet-impaled.png",width: 100%, height: 25%),
 )
-#place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "S I G N A L - E A T E R "),v(25%),highlight(fill: rgb("1d1f21"), "T O R O I D - F O R E S T "),v(35%),highlight(fill: rgb("1d1f21"), "N U L L I N G - L A T T I C E "),v(65%),highlight(fill: rgb("1d1f21"), "S U N K E N - M O U N T A I N "),))
+#place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "S I G N A L - E A T E R "),v(20%),highlight(fill: rgb("1d1f21"), "T O R O I D - F O R E S T "),v(20%),highlight(fill: rgb("1d1f21"), "N U L L I N G - L A T T I C E "),v(20%),highlight(fill: rgb("1d1f21"), "S U N K E N - M O U N T A I N "),))
 #set page( fill: rgb("#1d1f21"))
 #stack(
   dir: ltr,
@@ -152,7 +152,7 @@ V  V \|/ V\                  "
   image("img/st-damocles-helmet-tied-up.jpg", height: 100%, width: 25%),
   image("img/st-damocles-helmet-open.png", height: 100%, width: 25%),
 )
-#place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "G R A D I E N T  D E S C E N T "),v(25%),highlight(fill: rgb("1d1f21"), "C O N F O R M A L  C O L L A P S E "),v(35%),highlight(fill: rgb("1d1f21"), "M A G N E T I C  C O N F I N E M E N T "),v(65%),highlight(fill: rgb("1d1f21"), "P O C K E T  T O K A M A K "),))
+#place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "G R A D I E N T  D E S C E N T "),v(20%),highlight(fill: rgb("1d1f21"), "C O N F O R M A L  C O L L A P S E "),v(20%),highlight(fill: rgb("1d1f21"), "M A G N E T I C  C O N F I N E M E N T "),v(20%),highlight(fill: rgb("1d1f21"), "P O C K E T  T O K A M A K "),))
 #set page(footer: locate(
   loc => if calc.even(loc.page()) {
     align(left, counter(page).display("1"));

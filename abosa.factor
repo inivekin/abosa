@@ -5,8 +5,7 @@ IN: abosa
     8 <iota> [ number>string xml swap get-id children>> second last ] map
     ;
 
-: chapter-paths-ordered ( xml -- str )
-contents-list
+: chapter-paths-ordered-imgs ( -- seq )
 {
     "img/mr.spaceman.png"
     "img/st-damocles-abloom.png"
@@ -17,6 +16,11 @@ contents-list
     "img/st-damocles-helmet-tied-up.jpg"
     "img/st-damocles-helmet-open.png"
 }
+    ;
+
+: chapter-paths-ordered ( xml -- str )
+contents-list
+chapter-paths-ordered-imgs
 zip
     ;
 
@@ -232,7 +236,7 @@ xml chapter-list 4 cut
 [
 [ rest "highlight(fill: rgb(\"1d1f21\"), \"" "\")" surround ] map
 first4
-'[ "#place(top + center, stack(dir: ttb" , "v(15%)" , _ , "v(25%)" , _ , "v(35%)" , _ , "v(65%)" , _ , "))" ,
+'[ "#place(top + center, stack(dir: ttb" , "v(15%)" , _ , "v(20%)" , _ , "v(20%)" , _ , "v(20%)" , _ , "))" ,
 ] { } make "," join
 ] bi@
 
@@ -383,8 +387,15 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
          8 <iota> [ "item" swap number>string dup '[ "segment" _ append "id" ,, _ ".xhtml" append "href" ,, "application/xhtml+xml" "media-type" ,, ] V{ } make V{ } <tag> ] map append
          "item" V{ { "id" "back" } { "href" "back.xhtml" } { "media-type" "application/xhtml+xml" } } V{ } <tag> suffix
 
-        image-paths-ordered <enumerated> [ first2 '[ "image" _ number>string append "id" ,, "OEBPS/" _ append "href" ,, "image/jpeg" "media-type" ,, ] V{ } make [ "item" ] dip V{ } <tag> ] map
+        image-paths-ordered <enumerated> [ first2 '[ "image" _ number>string append "id" ,, _ "href" ,, "image/jpeg" "media-type" ,, ] V{ } make [ "item" ] dip V{ } <tag> ] map
         append
+
+        chapter-paths-ordered-imgs <enumerated> [ first2 '[ "chapter-image" _ number>string append "id" ,, _ "href" ,, "image/png" "media-type" ,, ] V{ } make [ "item" ] dip V{ } <tag> ] map
+        append
+
+         "item" V{ { "id" "backimage" } { "href" "img/self-abosa-mapped.jpg" } { "media-type" "image/jpeg" } } V{ } <tag> suffix
+
+         "item" V{ { "id" "stylesheet" } { "href" "stylesheet.css" } { "media-type" "text/css" } } V{ } <tag> suffix
 
     <tag> suffix
     append
@@ -438,7 +449,9 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     string>xml
     dup dup
     children>>
-    V{ } "head" V{ } V{ } <tag> suffix
+    V{ } "head" V{ } V{ }
+         "link" V{ { "href" "stylesheet.css" } { "rel" "stylesheet" } { "type" "text/css" } } V{ } <tag> suffix
+         <tag> suffix
     append
     >>children
     drop
@@ -448,15 +461,15 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     gen-toc-head dup dup children>>
     load-html-poem chapter-paths-ordered 8 <iota> zip 
     [
-        [ first second '[ _ "src" ,, ] V{ } make [ "img" ] dip V{ } <tag> ]
+        [ first second '[ _ "src" ,, "toc-img" "class" ,, ] V{ } make [ "img" ] dip V{ } <tag> ]
         [ second "a" swap '[ _ number>string ".xhtml" append "href" ,, ] V{ } make ]
         [ first first 3 head* V{ } swap suffix ]
         tri
         <tag>
-        [ "li" V{ } V{ } ] dip suffix <tag>
-        2array
-    ] map concat
-    V{ } like [ "ol" V{ { "class" "contents" } } ] dip <tag>
+        [ "li" V{ { "class" "toc-entry" } } V{ } ] dip suffix <tag>
+        swap over children>> swap suffix >>children V{ } swap suffix
+    ] map
+    [ "ol" V{ { "class" "contents" } } ] dip <tag>
     [ "nav" V{ { "id" "toc" } { "epub:type" "toc" } } V{ } ] dip suffix <tag>
     [ "body" V{ } V{ } ] dip suffix <tag>
     suffix
@@ -516,6 +529,7 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     dup dup
     children>>
     V{ } "title" V{ } [ chapter-head first , ] V{ } make <tag> suffix
+         "link" V{ { "href" "stylesheet.css" } { "rel" "stylesheet" } { "type" "text/css" } } V{ } <tag> suffix
     [ "head" V{ } V{ } ] dip suffix <tag> suffix
     >>children
     drop
@@ -565,6 +579,7 @@ INITIALIZED-SYMBOL: :^) [ 0 ]
     dup dup
     children>>
     V{ } "title" V{ } V{ "ABOSA" } <tag> suffix
+         "link" V{ { "href" "stylesheet.css" } { "rel" "stylesheet" } { "type" "text/css" } } V{ } <tag> suffix
     [ "head" V{ } V{ } ] dip suffix <tag> suffix
     >>children
     drop
@@ -572,7 +587,7 @@ INITIALIZED-SYMBOL: :^) [ 0 ]
 
 : gen-cover ( str -- xml )
     [ gen-cover-head dup dup children>>
-      "body" V{ { "epub:type" "frontmatter" } } V{ } "section" V{ { "epub:type" "titlepage" } { "class " "titlepage" } } V{ }
+      "body" V{ { "epub:type" "frontmatter" } } V{ } "section" V{ { "epub:type" "titlepage" } { "class" "titlepage" } } V{ }
      "pre" V{ } V{ } ] dip
     suffix <tag> suffix <tag> suffix <tag>
     suffix >>children drop
@@ -589,6 +604,7 @@ INITIALIZED-SYMBOL: :^) [ 0 ]
     dup dup
     children>>
     V{ } "title" V{ } V{ } <tag> suffix
+         "link" V{ { "href" "stylesheet.css" } { "rel" "stylesheet" } { "type" "text/css" } } V{ } <tag> suffix
     [ "head" V{ } V{ } ] dip suffix <tag> suffix
     >>children
     drop
@@ -611,6 +627,19 @@ INITIALIZED-SYMBOL: :^) [ 0 ]
 ]] string>xml
     ;
 
+: gen-stylesheet ( -- str )
+[[
+.titlepage { font-family: monospace; text-align: center; margin: auto; overflow: hidden; }
+
+.toc-img { width:100%; height: 20%; object-fit: cover; }
+
+body { line-height: 1.5; }
+
+body * { line-height: inherit; }
+
+]]
+    ;
+
 : gen-epub ( -- )
     P" /home/inivekin/art/abosa/" current-directory set
     { P" epub/OEBPS/"
@@ -628,7 +657,9 @@ INITIALIZED-SYMBOL: :^) [ 0 ]
     P" epub/OEBPS/cover.xhtml" utf8 [ load-html-poem first-comment gen-cover xml>string write ] with-file-writer
     P" epub/OEBPS/back.xhtml" utf8 [ gen-back pprint-xml ] with-file-writer
 
+    P" epub/OEBPS/stylesheet.css" utf8 [ gen-stylesheet write ] with-file-writer
+
     "cd ~/art/abosa/epub; zip ../abosa.epub -r *" system drop
 
-    ! P" epub/" delete-tree
+    P" epub/" delete-tree
     ;
