@@ -326,7 +326,7 @@ a deserts' sinking, flacid croons.
 #code(numbers: true, firstnumber: 128)[```none
 Sea clad o glass is forming rift
 tae vast periphery skyline.
-A quaking shift in sands may sift
+an quaking shift in sands would sift
 an ebb this heavy heid o mine.
 But edged where grains can fall both ways,
 atop a point langrangian,
@@ -479,7 +479,7 @@ tae explore parts I can squeeze in.
 While translating branching pathways
 tae a stack o cornered maze tree,
 I try nae see lazy delays,
-in repeats o sierpinski.
+in repeating sierpinski.
 Uncivil sorts o architects,
 made halls inside all bent and creased,
 so navigation's made complex,
@@ -588,7 +588,7 @@ nae more enduring violent pain,
 nae poke nor stab, nae prod nor pin.
 Some would think it grim, the moments
 it slips my mind that you did go,
-but simulacra holds remnant,
+but simulacra holds remnants,
 like sticker stars on ceilings glow.
 Enduring phospheresences
 saving sensory connection,
@@ -684,7 +684,7 @@ Greener parts am trusting ower
 intimmers o machine spirit,
 frae unner its focussed hover
 I better the grasp an quick flit
-wi worrying misgivings run,
+where worrying misgivings run,
 ignorant o destinations,
 suns are irrevocably spun
 tae strange new orientations.
@@ -816,10 +816,10 @@ Ave reached again a lower best
 in failure tae truely assess,
 inconsequence o me tae rest,
 an dominance o due process.
-Wi vain flinch o vocal whimper,
-that flared signal local spoken,
+Wi vocal flinch o vain whimper,
+my local signal's loud spoken,
 am gasping roach that crawls naewhere,
-branch in wait, am tae be broken.
+am branch in wait tae be broken.
 If nature isnae stopping me,
 a bug on lens an magnified,
 a simple pest then I must be,
@@ -865,7 +865,7 @@ some such measure tae sum fractions,
 typical when forked an scattered
 in diffractions o internal
 deflections reversed an mirrored
-an sends distractions external.
+sending distractions external.
 Lurching, displaced frae conventions
 perceptions in sight unbending
 an stretching oot in directions
@@ -948,22 +948,22 @@ Mass ejection sent suspending,
 weighing heaviness dishertens,
 lessens momentum defending
 egressing o what enlightens.
-At last expelled oot frae deep well,
-effects postponed in distant blast
-fae lone zombie in extant shell,
-wi knell o binary nau past.
-What hell tae which I wend below,
-like feather aff a burning wing,
-isnae likely tae help resew
-the loose ends I've left dangling.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 672)[```none
 Nae the kind that's dying tae fight,
 nor in search o fight tae die in,
 I nae mind this entropic flight,
 beyon recall, nae use trying.
+At last expelled oot frae deep well,
+effects postponed in distant blast,
+am lone zombie in extant shell
+wi knell o binary nau past.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 672)[```none
+What hell tae which I wend below,
+like feather aff a burning wing,
+isnae likely tae help resew
+the loose ends I've left dangling.
 The emptiest have eased impact,
 so I replace, wi spaciousness,
 the sensors tae which I react,
@@ -983,7 +983,7 @@ tae check diagnostic sentry).
 Nae grass tae touch, nae unformer,
 wi cracks that joints absorbed unkind,
 What breaks doon toroid transformer?
-What becomes o coil untwined,
+What could become o coil untwined,
 like string pulled far frae line o sight,
 left unstrung on this frozen glen,
 ablow a sky quartered by light,
@@ -1316,13 +1316,13 @@ like automata, sums tae more,
 pigment, binder, mattifier
 diffuses harm o nodes alone,
 in absences an vacancies,
-wi painting perspectives unknown,
+by painting perspectives unshown,
 horizons new tae vertices.
 The empty parts will help define
 the points in space which I call home,
 the quiet times connect a line
 that moments are permit tae roam.
-the lantern flares when shot as bullet,
+The lantern flares when shot as bullet,
 an the cast light says tae sorrow,
 ship adrifting is nae done yet,
 am nae dooned by flaming arrow.
@@ -1653,7 +1653,7 @@ a horror seen by what's nae seen.
 A dark displaces frae the bounds,
 an sun is tunnelled in vision.
 Has it consumed all that surrounds
-or excised us wi precision?
+or excised me wi precision?
 Naive delusions do entice,
 but I am nae o note nor knew
 leviathans tae be precise,
@@ -1662,10 +1662,10 @@ A wish tae these uncaring things
 when inattention's evident,
 are ties in theoretic strings
 that won't permit experiment.
-But bugs hae buzzed an I made choice
+Though bugs hae buzzed, an I made choice
 tae help them ower obstacle,
-though I'd need terraforming voice
-if heighest o lines must tremble.
+I'd need a terraforming voice
+if heighest o throats must tremble.
 Wi weight am made virtiginous
 an lack climbing propensities,
 but am more scared my villainous
@@ -1777,7 +1777,7 @@ wi structure constants' sweet affine -
 the twinned mirage o how it was
 an where its nae has chaperones,
 there's more effect than there is cause
-there's nae just light in these light cones.
+there's nae just light in these lightcones.
 The gravity gets duplicates
 wi nae triage fae which is first
 an pulls us tae coordinates
@@ -1840,12 +1840,12 @@ Attempting temptation towards
 suspension ower infections,
 descending the obstructing chords
 tae self-destructive directions,
-I meet mech in crystal chasm
+meeting mech in crystal chasm
 tae halt chronic resurrection,
 on offset wi untimed schism
 crystals an me make connection.
 The flux o fields which I reap
-frae lack o faradaic cage
+frae holes in faradaic cage
 permits a fermi level leap
 frae age-auld weeps an cries an rage,
 an what I don't attenuate,
@@ -1923,9 +1923,9 @@ wi sheets o wiry trims tucked tight,
 the morning swept day upon yawn
 before I could adjust tae light.
 Wi yearned, diurnal vestiges
-my retinas hae sun's burn seared,
+the sun tae retina is seared,
 in tattoo that colours ridges
-an stains tightened eyelids afeared.
+staining tightened eyelids afeared.
 Had spurned deferrals so wary
 be worry o schizoid station
 an this intermediary
@@ -2015,7 +2015,7 @@ I stretched oot space but found trap in
 my shrink frae what's most intimate:
 finding ways tae make things happen
 an changing parts inadequate.
-In impetus, I'd sleep non-stop
+In impetus, I'd sleep oncall
 in metastable quietude,
 fae synthesis o us was all
 tae me, am yours in servitude.
@@ -2023,10 +2023,10 @@ tae me, am yours in servitude.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1568)[```none
-Inference frae growls engender
+But interring in black splendour
+wisnae what I hae promised you,
+inference frae growls engender
 interest in fissive renew,
-interring in blackened splendour
-wisnae what I hae promised you.
 As opts o kelvin minima
 are limited tae what is thrown,
 am proffering what's insular,
@@ -2100,7 +2100,7 @@ wi answer nae right, but less wrong.
 Wi shouting shorn tae drift in drawn
 charonic pull doon acheron,
 where bystanders would stoop tae mourn
-I'll shun your oot o kilter yawn,
+I shun your oot o kilter yawn,
 pretend that orpheus regards
 eurydice as safe in tow,
 an daedulus attached safeguards
@@ -2109,9 +2109,9 @@ Am accepting execution
 fae defending my specifics
 ower general solution,
 I'll stop fighting parasitics.
-Mistakes o flesh is then adsorbed,
+Wi mess o flesh mistakes adsorb,
 on rolling up my too-long sleeves,
-by probing microbotic orbs,
+the probing microbotic orbs,
 exotic an dispersing thieves.
 We're all responsible save who
 is unawake intelligence,
@@ -2236,11 +2236,11 @@ where points in memory segment.
 Modals wrap the undetected,
 whispy threadings jittered absurd,
 actions map tae unexpected
-lisping unconditioned keyword.
-Nausea that's promulgating
-crosstalk prophecy organised,
-typifies a agitating
-inner illness actualised.
+lisping unconditioned keyword,
+parametric macros sizing
+owersteps the bound'ry boding
+only path tae stablising,
+a rewrite o wrongful coding.
 ```]
 
 #colbreak()
@@ -2249,18 +2249,18 @@ Erry thought expands reprising,
 tightstrung rimecrafting reloading,
 information pressures rising,
 massful timekeepers imploding,
-Parametric macros sizing
-owersteps the bound'ry boding
-only path tae stablising,
-is a rewrite o wrong coding.
+but iterating infinite
+it keeps me frae the heap in reach,
+I'd never know am owerfit
+tae simple task that winnae teach.
 Inside me I swirl vortices
 that counts on furling burgeoning
 o galaxies, am sore tae see
 the lives unlived an ongoing.
-But iterating infinite
-it keeps me frae the heap in reach,
-I'd never know am owerfit
-tae simple task that winnae teach.
+typified by agitating
+inner illness undisguised,
+nausea o promulgating
+schizotypal actualised.
 Complacent tae in-code virals,
 I've ciphered sickness virtual,
 convulsions an spiking vitals,
@@ -2406,7 +2406,7 @@ an frequency, temporal count,
 if constants had the decency
 tae change I'd mount my own account,
 wi frigid taciturnity,
-nae on an off phenomenon,
+nae off an on phenomenon,
 exemplar tae eternity
 nae needing any epsilon.
 Less symmetry that simplifies,
@@ -2574,10 +2574,10 @@ like dip in photosynthetics
 when cloud or dust obstruct the beam
 an shrouds me intae paretics?
 Exploring positivities,
-along tae barge frae which hae surged
+along tae barge frae which is surge
 umbilicord delivery,
-wi dirges o the owercharged
-on verge o lockoot volt release
+wi dirges o approaching verge
+o lockoot-limit volt release
 frae fault o dry-joint weaning stress,
 am starting simple search fae peace
 tae make the auld pains meaningless.
@@ -2638,8 +2638,8 @@ than loop on an apology.
 But logic o machinery
 thinks what tae do, nae why tae be,
 an executes inputs only,
-wi lack o teleology.
-Alike cancers which only grow
+wi lack o teleology,
+alike cancers which only grow
 wi sole concern tae spread its blight,
 a perfect reproduction o
 assumptions faulty owersight.
@@ -2718,8 +2718,8 @@ fae radii tae skirt impact,
 an keeping arms at fair distance
 find medium o strained contact.
 Tae see but never speak, I flee
-in last unspool o sordid way,
-giving nae alms tae voiceless plea,
+in last unspool o ghoulish way,
+tae give nae alms tae voiceless plea,
 as arms reach vaguely in dismay.
 I've pulled the threads an loops are shown,
 minimum feedback vertex set,
@@ -2876,7 +2876,7 @@ where am writhing contortional
 tae curve back in so tae encase
 an show me else frae what I knew,
 but straight, in hyperbolic space,
-just points right angles back at you.
+just points right angles back tae you.
 ```]
 
 #set page(columns: 1)
@@ -3127,7 +3127,7 @@ what shell I have, I volunteer,
 am pinned insect, in glass, enthralled.
 Internalising thunderbolt,
 I hold my heid wi hauns unshook,
-but writhed like worm on hot asphalt,
+but writhe like worm on hot asphalt,
 tae be a sun, at which, you'd look,
 Until illuminated room
 beneath my suit hae falsehoods burn
@@ -3223,7 +3223,7 @@ healed scars wi golden stitches.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2592)[```none
-Guessing I could hae been kinder,
+I guess I could hae been kinder,
 an done more than I could recall,
 owerlooked I'd be far blinder
 tae good I've done than my downfall,
@@ -3507,7 +3507,7 @@ Prior knowledge uses finished,
 I was long since drawing tae it,
 as logician now diminished,
 withoot reason, I intuit.
-Switches between the weighted dense
+In switch between the weighted dense
 an sleeps within a lofty prow,
 (tae reckon ways tae banish tense
 an flatten impulse spike o nau),
@@ -3649,9 +3649,9 @@ my minimal variety
 the orderer o things ordered.
 What could hae caused this inflection
 o crystalline siphonophore?
-I don't want pain o rejection
-o DNA frae editor.
-I can't remain accessary
+I rasp through pain o rejection
+o DNA frae editor,
+"I can't remain accessary
 as limit tae your field o view.
 I can't be more than memory
 if you're tae want fae something new.
@@ -3675,22 +3675,22 @@ nae knowing what you may become.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2976)[```none
-But what cutoff is there tae crop
-an claim the self disconnective,
-the life I love, it winnae stop,
+Fae what cutoff is there tae crop
+an claim the self disconnective?
+The life I love, it winnae stop,
 consciousness being collective.
-I nae resent the lucky who
-hasnae prophecy tae fulfill,
-a curse I've brought ower tae you,
-tae die by what you love, or kill.
-Sure, I am nae the killing sort,
-but if I was, it's circled track,
-fae love isnae a sure support
-an love destroyed destroys you back.
 As instruments, we're uninformed
 a lower order tae what's planned,
 fae love hae killed me when you formed
-an when am breathed by it's demand.
+an when I breathed by it's demand.
+But still, I've one thing left tae do
+I've prophecy tae self-fulfil
+a cursed belief wiheld frae you,
+tae die by what I love, or kill.
+Sure, I am nae the killing sort,
+but if I was, it's circled track,
+as love isnae a sure support
+an love destroyed destroys you back."
 At this a shock runs through us two,
 an eager tae keep me around
 you pull me tight til neck's askew
@@ -3713,71 +3713,71 @@ an wi the noise I'm soothed tae sleep.
 #image("img/dragonfly-remains.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 3008)[```none
-I'd nae laugh in others presence,
-Unmoving features, I'd rare speak,
-but secreting frae face fragments
+Was it just hypochondria?
+Always felt sick, but never was.
+it must hae been millenia
+in bandage o grey-metal gauze,
+restricting laughs in your presence,
+unmoving features, I'd rare speak,
+nau secreting frae face fragments
 a flitter's beating at my cheek,
-A vision o wings' vibration
-oot frae a fleshless lie in heap,
-I'd hazard hallucination,
-but rarely does one dream o sleep.
-Was this the fluttering o why
+A vision o wings' vibration,
+iridescent opacity.
+I'd hazard hallucination
+considering the battery.
+Ifnae, could fluttering be why
 a spectral flicker haunted face,
 caught in a mask wi cause tae fly
-at astral taunt oot glassy case?
-Might individuality
-be needing a transformation
-as prison o anatomy
-is prelude? or incubation?
-When born inside a hospice ward
-where shadows watch each corridor,
-flights find stars line the halls taeward
-nae exit, hallways winnae door.
-Despite ootside alluding tales
+tae astral taunt oot glassy case?
+Despite ootside alluding tales,
 nae feet wi many callouses
 nor blood unner my fingernails
 bore break in second chrysalis.
-It took random distribution
-divved wi standard deviations
-wi the lucky in dilution
-intersecting permutations.
-I happened upon tools that boasts
-reorienting starry sea,
-configuring the nights' lampposts
-tae picture what means most tae me.
+I couldnae forge wormhole frae hoard
+o negative energy store,
+my flights found stars line halls taeward
+nae exit, hallways winnae door.
+At what point did I then adapt
+accepting life wi barriers
+an why did I get so enrapt
+wi information carriers
+but leave my data as cargo
+in unrepairable vessel,
+obsessed wi holographic show
+o packaging ower parcel?
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 3040)[```none
-Wi auld adage, our sky's the same,
-frae homesun, I've been deviant
-tae average that's drawn tae flame
-am short a shared ingredient,
-content wi bland low bedding planes,
-an dimming auld an distant shine.
-But if there's sun that still remains
-I'd urge: live life lighter than mine.
+Wi time I took tae calibrate
+using only necessaries,
+it's simple tae recalculate
+frae tightly defined boundaries
+the contents o suit's fortitude
+it hae been there since construction,
+as all things seem tae hold prelude
+their sprouting seed o destruction.
+Am regretful o spite misspent,
+an how I kept on corroding,
+I admit my disappointment
+was because I kept on hoping,
+though hope had hidden an upside,
+when broken it freed bug infused,
+or else I'd find them once they've died,
+I'm glad they fly still badly bruised.
 But dinnae weep on higher soil,
-there's expectations it subverts,
+fae expectations it subverts,
 isnae like creature drenched in oil,
 or breathing through a mouth o dirt.
 Nae even stars explosion can
 perturb reused atoms disowned,
-it's nae more strange tae sky I'd scan,
+it's just as strange tae sky I'd scan,
 wi how much naething I condoned.
-The clustering forms pendant drop
-like slow congeal at tipped pipette
-fae teary shapes that fell nonstop,
-titration fills the last burette.
-Like mask, each flask shatters combined,
-in wide-band fast frequency sweep,
-It rains ower roof o my mind,
-an with the noise, am soothed tae sleep,
-an I won't suffer where am laid
+An I won't suffer where am laid
 wi new experience abreast,
 tae nae be constantly afraid,
 winnae distress, wi time tae rest.
-The dust is thick winnae shepherds,
+The dust falls thick winnae shepherds,
 the rock grows quick, bug weaves an darts,
 both blocks o time a lifetime girds,
 through cathode the current departs.
