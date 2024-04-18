@@ -179,11 +179,11 @@ V  V \|/ V\                  "
 Crystalline vines wi latticed lines
 at briefest reef follow my feet,
 refracting shines in eyes o mine,
-then bucks an birls me tae stane seat.
+tae buck an birl me tae stane seat.
 Am sullen tae ken yon sea drift
-is more o current observing,
+does further current I observe,
 I lay ma heid tae never lift
-an hope fae rest am deserving.
+an hope fae rest I must deserve.
 An staring at both ailing suns,
 a loathsome, middae blue dulls stars
 owre obtainable spectrums,
@@ -192,17 +192,17 @@ nor horns o serpent runaway
 that streekt frae freak hollows that cracked
 in ooter airms o nebulae,
 which cradled me when more intact.
-Where'd the void go? I dinnae ken.
+Where go the void? I dinnae ken.
 Am lost afloat sea asimmer.
 Devoid o most copernican
-o sentiments, am set center,
+o sentiments, am set center -
 as per tycho-modelled cycle,
 muddled scribes o prideful mindings,
 unfit tae find archetypal
 humbled vibes frae spaceward sightings.
 Cause: my nightspore test in falter,
 effect: broke spatial symmetries
-an higher ord cosmographer
+an high order cosmographer
 buckled tae basic binaries,
 where empties' roam wi keen beckon
 an loom wi lensing bend in gleams
@@ -216,10 +216,10 @@ A solar lightnings' carving stun,
 hae waxing feathered in aether,
 post-klaxon hum o trauma done,
 prunes galactic blooms tae wither.
-Hither struggled an struggle still,
-heid weighed down by gravitation,
-bothered nane but shrugged by winds shrill,
-kite wavers wi restless motion.
+Hither struggled, struggling still,
+heid weighing frae gravitation,
+bothers more than shrugging winds shrill
+wavering o kite in motion.
 Then, low orbit imitations,
 stellations o tetrahedrands,
 aglow raw grit scintillations,
@@ -233,9 +233,9 @@ I cut anchored familiar
 which sank me near instantly,
 consigning lapsed inferior
 tae briny, planetary churn
-o oceans laconic an tame,
+o tame oceans' laconic soak,
 tugging parachute taciturn,
-unordered, aphonic an lame.
+wi lame, aphonic, coastal choke.
 In silent scream absorbed in grasp
 o black, long left befare the fall,
 my mouth agape emits nae rasp
@@ -254,11 +254,11 @@ Nae rest there was, I would nae keep
 oot there because exosuits leak
 cool air tae heat wi quick'ning beep,
 those caught who want exit ought seek.
+Bursting steam clouds my panoptics,
+I toe the streams I dare wade through.
 Putting trust in field magnetics,
 my rusting armour pays its due.
-Bursting steam clouds my panoptics,
-I toe streams daring me "wade through".
-In metal-wrap an high-grade gloves,
+Wi metal-wrap an high-grade gloves,
 am nervous thing on offhand lam,
 puir chap jaded an strayed frae love,
 far oot o reach o friends an fam,
@@ -299,9 +299,9 @@ o bugs in ears an fungus grown,
 are all thats left in coward caves,
 I've chosen tae suffer the known.
 ... 'til worry o higher degrees
-start wearing awa fissured plates,
-swapping odds o bayesian lieklies
-that's pressuring tae unknown fates.
+is wearing at my fissured plates,
+tae swap the odds o bayes' lieklies,
+inciting me tae unknown fates.
 Befriending shadows on the wall,
 pretending comfort's what I felt
 nae stopped the magma curtain call
@@ -316,18 +316,18 @@ were more a run frae painful grave
 o lustful molten rock an seas.
 When clouded chaos quiets some,
 approaching shores o placid dunes,
-I ken the cause when that plight come,
-a deserts' dry, decrepit croons.
+I ken the cause when that plight come
+o deserts' dry, decrepit croons.
 ```]
 
 #set page(columns: 1)
 #image("img/st-damocles-jumps.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 128)[```none
-Sea clad o glass is forming rift
-tae vast periphery skyline.
-an quaking shift in sands would sift
-an ebb this heavy heid o mine.
+The sea o glass is forming rift
+tae vast periphery skyline
+wi quaking shift o sands in sift
+tae ebb this heavy heid o mine.
 But edged where grains can fall both ways,
 atop a point langrangian,
 am safe as last man o blank bays,
@@ -344,18 +344,18 @@ Bevy o antennas wired,
 rhizomes strafing past afloating,
 adjoint tae roaming ore spired
 via hanging mast it's toting.
-Forlorn hoverer owerdrawn,
+Forlorn hoverer, owerdrawn,
 does fawn ower a gaping black,
 seems tired wi yawn held upon,
 does it drag hole or hole drag back?
-Wi frantic swiping at the sands
-ignored among acoustic seas,
-surrounding resonating bands
-eternally returns unease.
-It seems my hauns are ill-defined,
-exclusion principles resign,
-Am swimming in space undefined
-nae pull tae which I can align.
+Commands o ancient echelon,
+back then were instrumental,
+nau march o progress marches on
+where monument went tangential.
+How could I jam noise an combat
+approach so slow I'd nae notice,
+when this is strong evidence that
+what was designs again what is?
 ```]
 
 #colbreak()
@@ -368,14 +368,22 @@ whose worn an crappy shell would split
 like licks o flame in dry biome,
 like origami delicate
 frae war-torn, age-auld, langsyne tome.
-Commands o ancient echelon,
-back then were instrumental,
-nau march o progress marches on
-where monument went tangential.
-How could I jam noise an combat
-approach so slow I'd nae notice,
-when this is strong evidence that
-what was designs again what is?
+My frantic swiping at the sands
+ignored among acoustic seas,
+surrounding resonating bands
+eternally returns unease.
+It seems my hauns are ill-defined,
+exclusion principles resign,
+Am swimming in space undefined
+nae pull tae which I can align.
+'Neath unpermitting monolith,
+I peer intae unlit pit
+which swallows tight-knit regolith,
+uplifting what's hid frae suns hit,
+it brings tae light a slighter thrust
+tae take the loss upon the chin,
+unloosened kite I need nae trust,
+one up or doon must take me in.
 I haven't strength tae fight the flow,
 nae option but surrendering,
 but smart conceding can help show,
@@ -384,14 +392,6 @@ nae it nor I is all tae know,
 there is nae point o origin,
 its relative tae say I'm low
 wi deeper parts tae forage in.
-'Neath unpermitting monolith
-that peers intae unlit pit
-an swallows tight-knit regolith,
-uplifting what's hid frae suns hit,
-it brings tae light a slighter thrust
-tae take the loss upon the chin,
-unloosened kite I need nae trust,
-one up or doon must take me in.
 ```]
 
 #set page(columns: 1)
@@ -416,20 +416,20 @@ kinetic lack is what I bring,
 rescinding potential I loan.
 I spot the interlocks tae thread,
 the ratchets cranking obstinate,
-my 'chute nau covering my heid,
-pronounced me deadlocked, doomed fae pit,
+my 'chute nau covers up my heid,
+pronouncing me deadlocked dimwit,
 an I'd nae argue when entranced
 wi rhythmic happenings that spin
 an winnae asking hae advanced
 tae do wi me what they hae been.
-In that fall, categorical
-o all the ones that came before,
-I dodged the steps historical
-and found a way I could withdraw.
 In cybernetics take ower,
 unner mechanical descent,
 nae help tae ken parabola,
-the lack o choice disnae relent.
+a trip I've nae hope tae augment.
+But in fall, categorical
+o all the ones that came before,
+I'll dodge the steps historical
+by letting cognisance withdraw.
 ```]
 
 #colbreak()
@@ -438,7 +438,7 @@ I hide awa wi shame I learnt,
 behind replay o muscle logs,
 an accept humility earnt
 as gear caught in cosmic cogs,
-but lingered in the cavity,
+though lingered in the cavity,
 nae longer than a blink tae see,
 a reversing o gravity
 returning myself back tae me.
@@ -446,7 +446,7 @@ A siphoning hae strings near snap
 in plane non-orientable
 wi transformation o flat map
 frae surface low-dimensional,
-the stresses flipped in changing draft
+the stresses flip in changing draft
 tae scene nae representable,
 dilating unner dome-like shaft
 where straight lines seem more bendable.
@@ -475,11 +475,11 @@ frae cynic dive tae inert slough.
 Letting lack o cause by nature
 indicate a fleeting reason,
 I take slack an rouse tae future,
-tae explore parts I can squeeze in.
-While translating branching pathways
-tae a stack o cornered maze tree,
+tae explore what life can squeeze in,
+while translating branching pathways
+tae a stack o cornered maze tree.
 I try nae see lazy delays,
-in repeating sierpinski.
+in repeats o sierpinski.
 Uncivil sorts o architects,
 made halls inside all bent and creased,
 so navigation's made complex,
@@ -550,18 +550,14 @@ Losing footing on carapace
 an distancing frae what I've said,
 all words unheard would far ootpace
 those of me own that I'd re-read.
-Wi sudden silent hope then dread
+Wi sudden, silent hope then dread
 as whirring stop leads unsteading,
 the pyramid descends on thread
 in blurring drop wi circled heading.
 Shifting forces makes sand syrup,
-moving land tae stable new state.
-Though my beacon's nae more corrupt,
+moving land tae stable new state;
+though my beacon's nae more corrupt,
 am caught in sands an nau must wait.
-Constant loudness seemed so massive,
-rampant shrewdness o racous breaths,
-sets like sun nau, less oppressive,
-lurking down in vacuous depths.
 Like desert dripped through fingers slipped
 that's stranding me in sorry place,
 In dropping what I hannae gripped
@@ -570,29 +566,33 @@ you racing others unsated,
 whose needing mare than I can serve
 allowed, fae me, what's awaited -
 a rest that I may nae deserve.
-In pretense, if you had nae gane,
-I play that you lay at surface,
-suspending thoughts tae keep me sane,
-that clay animate serves purpose.
+Constant loudness seemed so massive,
+rampant shrewdness o racous breaths,
+sets like suns nau, less oppressive,
+lurking down in vacuous depths.
 I'd tried hard wi kernel o code,
 in each part you were embedded,
 may not prompt recursive download,
 but at least am clear-heided.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 352)[```none
 Nae din in brooding, silent reign,
 my bones repose unner my skin,
 nae more enduring violent pain,
 nae poke nor stab, nae prod nor pin.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 352)[```none
+In pretense, if you were nae gane,
+I play that you lay at surface,
+suspending thoughts tae keep me sane,
+that clay animate serves purpose.
 Some would think it grim, the moments
 it slips my mind that you did go,
 but simulacra holds remnants,
 like sticker stars on ceilings glow.
 Enduring phospheresences
 saving sensory connection,
-cautioned o risk tae defenses
+cautioning risk tae defenses
 I air one more choice dejection,
 sending signal that won't diffuse,
 aboot more than a long tae rest,
@@ -637,7 +637,7 @@ Nae ambling in the trail left,
 an rambling dinnae draw oot talk,
 implies concern fae me bereft.
 Its heft externally unmoved,
-affixed but shears its essence
+affixed but shearing essence
 tae shrink its stern an grow saw-toothed
 as propagates wave-like presence,
 while deflty roon ferritic steel,
@@ -668,9 +668,9 @@ I spy athort much birk an bush
 that sprout frae seeds that sunward crawl,
 tae mask my being unner lush
 might take tae task that cornered sprawl.
-A nobler act would be assess
-an find tae where, or what, am drawn,
-but nimbler flight's skill I possess,
+Were I nobler, I'd hae assessed
+an found tae where, or what, am drawn,
+but nimbler flight's lone skill possessed,
 am spaceborne who's nae built fae brawn.
 Trees seemed greener agin greying
 workings o impatient other,
@@ -812,7 +812,7 @@ wi chirping o lonely crickets.
 
 #colbreak()
 #code(numbers: true, firstnumber: 544)[```none
-Ave reached again a lower best
+I've reached again a lower best
 in failure tae truely assess,
 inconsequence o me tae rest,
 an dominance o due process.
@@ -839,8 +839,8 @@ at once, I see all look the same.
 An frae all sides it seems tae me -
 a joke frae auld an weary japes -
 tae me floats that geometry
-o manifold flickering shapes.
-Since in ma panic I still screamed
+o manifold, flickering shapes,
+since in ma panic I still screamed
 in waves o radioed distress,
 so that ma place tae all is beamed,
 so only me is lost in mess.
