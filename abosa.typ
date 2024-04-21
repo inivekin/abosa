@@ -181,9 +181,9 @@ at briefest reef follow my feet,
 refracting shines in eyes o mine,
 tae buck an birl me tae stane seat.
 Am sullen tae ken yon sea drift
-extends the currently observed,
+extends the current observing,
 I lay ma heid tae never lift
-an hope fae rest I've long deserved.
+an hope fae rest I'm deserving.
 An staring at both ailing suns,
 a loathsome, middae blue dulls stars
 owre obtainable spectrums,
