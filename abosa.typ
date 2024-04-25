@@ -576,7 +576,7 @@ may not prompt recursive download,
 but at least am clear-heided.
 Nae din in brooding, silent reign,
 my bones repose unner my skin,
-nae more enduring violent pain,
+nae more enduring absent pain,
 nae poke nor stab, nae prod nor pin.
 ```]
 
@@ -934,11 +934,11 @@ these apertures in lang dead space,
 wi parallax, parambulate.
 Specks o stars start switching off then
 as moth-filled void ootstrips my trance.
-Foremost orbs orbit held brisken
+Foremost orbs' orbit held brisken
 three-body game caught me in dance.
-Two around, bound tightly, revolved,
+Two around, bound tight, revolving,
 One which lacks accretes frae other
-spinning disk riskily dissolved,
+spinning disk, risked on dissolving,
 leaving husk post-starcrossed nova.
 Last leg fusion rebeginning,
 unremitting until fatal
@@ -1041,7 +1041,7 @@ I hide my smile that then grew
 frae truth I keep deep in my throat
 there's nothing that I'd rather see
 than distant shine, that tiny mote,
-o someone oot lookin fae me.
+o someone oot looking fae me.
 But during kit's stalling reboot,
 inoperable wi glitched fallbacks,
 the latency o instinct suit
@@ -3565,7 +3565,7 @@ as I gie my remaining days
 #image("img/st-damocles-impaled.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2880)[```none
-Suspended, seemingly noticed
+Suspended, seemingly noticed,
 the tempest flash boils away,
 as if frae quick drawn breath focused
 on strong connection o relay,
@@ -3573,19 +3573,19 @@ conveying twitch in knuckles locked
 an any defect in the way
 my rate o speech, when owerclocked,
 can melt in thermal runaway.
-I've phrases thought already used
-an thoughts assumed already heard,
-Am blabbering insane, bemused,
-wi purpose clumsily transferred.
-Typical degrade o diction
-tends tae trigger disengages,
-wordlessness o dropped cognition
-when the winds hae turned my pages.
+Wi thoughts assumed already heard,
+in phrase o sorts already used,
+wi purpose clumsily transferred,
+I blabber insane an bemused.
 Filled an teeming dictionary
 isnae listing the description
 o refined words necessary,
 it's a chaos in transcription.
-Wi diction very much suffused
+This is when degrade o diction
+tends tae trigger disengages,
+wordlessness o dropped cognition
+as if winds hae turned my pages.
+Uncaching paging words suffused
 in nuances tae point absurd,
 may hesitancy be recused
 wi ways tae speak wi erry word?
@@ -3593,26 +3593,26 @@ Some think it universal aim,
 fae least resistance interchange -
 that's symptom o the likely game,
 where energies just disarrange.
-That's nae intended as despair,
-the journey managed tae impel
-me tae want those, fae which, tae care
-an be taken care of as well.
+By gravitating guiding tide
+I'd tangent slides frae glide preserved
+an cumulate unclarified,
+corrections will take what's reserved.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2912)[```none
-Those particles, they arc widely,
+That's nae intended as despair,
+the journey managed tae impel
+me tae want those, fae which, tae care
+an be taken care of as well.
+Weak particles, they arc widely,
 nae motivated nor as smart,
-if we're tae go where most likely, 
+if we're tae go where most likely,
 I'd nae imagine us apart.
-My plotting through time-spatial ride
-used tangent strides fae glide preserved
-in gravitations guiding tide,
-nae extra energy reserved.
 I've naewhere else, this is me done,
 I live an die at your behest,
 though I'd nae guessed at end o run
-that you've same wants that I'd suppressed,
+you share the wants that I'd suppressed,
 that I take place in your headspace
 an rest wi friends that are nae more,
 wi rising Aegis tae embrace
@@ -3625,14 +3625,14 @@ Examples (set by me) were fits
 an bouts agin what I can't beat,
 nau, though you break me intae bits,
 am feeling more an more complete.
-Does space still stretch or stretch anew?
-Is this final dissolution?
+Does space still stretch or stretch anew,
+still trending tae dissolution?
 Ifnae I'll have a start ensue
 at ending o this transmission.
 On decommission I'll hae you steer,
 fae you tae move aways frae me,
-I was always tae be here,
-Here I am always tae be.
+I was always tae be here
+an here I am always tae be.
 ```]
 
 #set page(columns: 1)
@@ -3647,8 +3647,8 @@ I'm hanging stretched in stagnancy,
 unfinishings are strung sordid,
 my minimal variety
 the orderer o things ordered.
-What could hae caused this inflection
-o crystalline siphonophore?
+"What could hae caused this inflection,
+O crystalline siphonophore?"
 I rasp through pain o rejection
 o DNA frae editor,
 "I can't remain accessary
@@ -3658,7 +3658,7 @@ if you're tae want fae something new.
 By gracing me wi space so near,
 I fear the risk that a misplace
 in error costs me further years
-unpowered an rolling in space.
+unpowered, rolling, lost tae space.
 There's nae a harsher death in store
 than breakdoon that's forever seen -
 reuse transistors, scavenge more,
@@ -3683,13 +3683,13 @@ As instruments, we're uninformed
 a lower order tae what's planned,
 fae love hae killed me when you formed
 an when I breathed by it's demand.
-But still, I've one thing left tae do
+It's that one thing I've left tae do
 I've prophecy tae self-fulfil
-a cursed belief wiheld frae you,
+my cursed belief wiheld frae you,
 tae die by what I love, or kill.
-Sure, I am nae the killing sort,
+You know I'm nae the killing sort,
 but if I was, it's circled track,
-as love isnae a sure support
+I'd love too much or cut it short,
 an love destroyed destroys you back."
 At this a shock runs through us two,
 an eager tae keep me around
@@ -3699,12 +3699,12 @@ Extremities are liquified,
 I dinnae clearly terminate,
 an though your grip's intensified,
 at fingertips, I culminate.
-am clustered intae pendant drop,
-like slow congeal frae tipped pipette
+Am clustered intae pendant drop,
+like slow congeal frae tipped pipette,
 in teary shapes that fall non-stop
-titrations topped-up last burette,
+titrations top-up last burette,
 like mask, each flask shatters combined
-tae lay in mess o angled heap,
+tae lay in messy, angled heap,
 it rains on roof ower my mind
 an wi the noise I'm soothed tae sleep.
 ```]
@@ -3713,59 +3713,55 @@ an wi the noise I'm soothed tae sleep.
 #image("img/dragonfly-remains.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 3008)[```none
-Was it just hypochondria?
-Always felt sick, but never was.
-it must hae been millenia
-in bandage o grey-metal gauze,
-restricting laughs in your presence,
-unmoving features, I'd rare speak,
-nau secreting frae face fragments
-a flitter's beating at my cheek,
-A vision o wings' vibration,
-iridescent opacity.
+A vision o wings' vibration.
+Iridescent opacity.
 I'd hazard hallucination
 considering the battery.
-Ifnae, could fluttering be why
+Was it just hypochondria?
+I'd always felt sick - never was.
+I must hae spent millenia
+in bandage o grey-metal gauze.
+A mask restricting laughs presence,
+unmoving features, I'd rare speak.
+Nau secreting frae face fragments
+a flitter's beating at my cheek.
+Could this be fluttering o why
 a spectral flicker haunted face,
 caught in a mask wi cause tae fly
 tae astral taunt oot glassy case?
-Despite ootside alluding tales,
-nae feet wi many callouses
+I'd heard o extraplanar tales,
+but feet wi many callouses
 nor blood unner my fingernails
 bore break in second chrysalis.
-I couldnae forge wormhole frae hoard
-o negative energy store,
+My negative energy hoard
+was gone before wormholes were saw,
 my flights found stars line halls taeward
 nae exit, hallways winnae door.
-At what point did I then adapt
-accepting life wi barriers
-an why did I get so enrapt
-wi information carriers
-but leave my data as cargo
-in unrepairable vessel,
-obsessed wi holographic show
-o packaging ower parcel?
+In all that time tae calibrate
+that nightspore work o centuries,
+tae organise an obviate
+the tightly defined boundaries,
+my contents in suit's fortitude
+secluded during construction,
+but served tae be only prelude
+tae sprouting seed o destruction.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 3040)[```none
-Wi time I took tae calibrate
-using only necessaries,
-it's simple tae recalculate
-frae tightly defined boundaries
-the contents o suit's fortitude
-it hae been there since construction,
-as all things seem tae hold prelude
-their sprouting seed o destruction.
-Am regretful o spite misspent,
-an how I kept on corroding,
-I admit my disappointment
-was because I kept on hoping,
-though hope had hidden an upside,
-when broken it freed bug infused,
-or else I'd find them once they've died,
-I'm glad they fly still badly bruised.
-But dinnae weep on higher soil,
+At what point did I then adapt
+the contents tae my carriers,
+obsessive, equally enrapt
+wi information barriers,
+an take as data the cargo
+frae unrepairable vessel,
+tae pattern holographic show
+o packaging withoot parcel?
+When broken, it freed bugs infused,
+I hurt by herding them inside,
+I'm glad they fly off badly bruised,
+I'd rather that than if they died.
+But I don't weep on higher soil,
 fae expectations it subverts,
 isnae like creature drenched in oil,
 or breathing through a mouth o dirt.
@@ -3777,8 +3773,12 @@ An I won't suffer where am laid
 wi new experience abreast,
 tae nae be constantly afraid,
 winnae distress, wi time tae rest.
-The dust falls thick winnae shepherds,
-the rock grows quick, bug weaves an darts,
+Perpetuating inky bleed
+nae longer serves utility,
+my petrol leak won't drown oot creed
+that toggles switch: "Unfasten thee".
+I shutdoon quick at these few words,
+rock covers thick, bug weaves an darts,
 both blocks o time a lifetime girds,
 through cathode the current departs.
 ```]
