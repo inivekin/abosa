@@ -299,7 +299,7 @@ o bugs in ears an fungus grown,
 are all thats left in coward caves,
 I've chosen tae suffer the known.
 ... 'til worry o higher degrees
-is wearing at my fissured plates,
+is wearing pocked an fissured plates,
 tae swap the odds o bayes' lieklies,
 inciting me tae unknown fates.
 Befriending shadows on the wall,
@@ -423,10 +423,10 @@ wi rhythmic happenings that spin
 an winnae asking hae advanced
 tae do wi me what they hae been.
 In cybernetics take ower,
-unner mechanical descent,
-nae help tae ken parabola,
-a trip I've nae hope tae augment.
-But in fall, categorical
+mechanical unner descent,
+nae help tae ken parabola
+in trip I've nae hope tae augment.
+But this fall, categorical
 o all the ones that came before,
 I'll dodge the steps historical
 by letting cognisance withdraw.
@@ -668,11 +668,11 @@ I spy athort much birk an bush
 that sprout frae seeds that sunward crawl,
 tae mask my being unner lush
 might take tae task that cornered sprawl.
-Were I nobler, I'd hae assessed
-an found tae where, or what, am drawn,
-but nimbler flight's lone skill possessed,
+A nobler human would assess
+an find tae where, or what, their drawn,
+but nimbler flight's skill I possess,
 am spaceborne who's nae built fae brawn.
-Trees seemed greener agin greying
+Trees seem greener agin greying
 workings o impatient other,
 forking structures their displaying
 cover rather than tae smother.
@@ -761,7 +761,7 @@ frae frightful sight o me-shaped vines.
 The trumpets sound, I cut too deep
 an cooling fluid starts tae ooze,
 I realise rot need nae creep,
-by sight alone it warped my views.
+by sight alone it warps my views.
 Am nae a whole conglomerate
 wi barrier tae chemicals
 but set o wires disparate
@@ -790,7 +790,7 @@ resumed exhaustion winnae pass,
 I'm wanting sleep though just woken.
 "Cover me in reeds an river,
 an bury me in humbled glen,"
-speaks my soft wee voice aquiver,
+speaks my soft, wee voice aquiver,
 the words o beaten, stumbling men,
 My reddened een an bagging spine
 an quaking lower lips o cry,
@@ -907,7 +907,7 @@ o unconscious machinations
 exploiting inefficiencies
 o architecture's foundations,
 till human error probing node
-could eagerly erode pipelines,
+would eagerly erode pipelines,
 so owerload will then explode
 in power surge an coil whines.
 Tae take apart its counting ticks
@@ -977,7 +977,7 @@ nae sensation stirs me writhing,
 matching ambient sub-zero,
 thermals would show naething living.
 Yet seemingly my suit withstood,
-but numb tae burns o re-entry,
+though numb tae burns o re-entry,
 would do more harm than any good
 tae check diagnostic sentry.
 I cannae process what's tae come,
@@ -985,7 +985,7 @@ returned tae flat chronology.
 I wait on my delirium
 tae resume rote tautology
 What breaks doon toroid transformer
-cracking what joints absorbed unkind?
+cracking joints which absorb unkind?
 Nae grass tae touch, nae unformer,
 what's tae become o coil untwined,
 like string pulled far frae line o sight,
@@ -1218,7 +1218,7 @@ But struck was I, at end light bared,
 despite despair left on repeat,
 misstepped on reach, so unprepared,
 a missing stair, a missed hertbeat.
-The fractal crystal fungus eats,
+A fractal crystal fungus eats,
 on fatal catalytic sight,
 hopeless indeed, dooned ship depletes
 my will tae fight quartz owerwrite.
@@ -1670,9 +1670,9 @@ On fourth o runs I'm tested some,
 thrice I swam icarian sea,
 I'll look tae see how far I've come
 frae hubris an complacency.
-Wi weight am made virtiginous
+Though weight makes me virtiginous
 an climbing's nae my specialty,
-but I won't let my villainous
+I will nae let my villainous
 prospects win groundward tendency.
 ```]
 
@@ -1912,7 +1912,7 @@ as I had landed on my way
 frae apex tae at hand dragon.
 Astride Aegis, nae more sundered,
 asserting I won't fall again,
-what merit hae this, I wondered,
+what merit hae this, I wondered
 in numbered seconds o sun's wane.
 I measured it one less than twice,
 an cut till all clippings were worn,
@@ -1953,7 +1953,7 @@ harshly bent, though it was well-meant,
 All that I learnt is what I took,
 an how I took, it wisnae brave,
 but frae the sky, I spot a look,
-a peaceful gaze, stargazer's wave
+a peaceful gaze, stargazer's wave.
 "Like you, we know the night," they'd muse,
 a smile, a nod, a haun-held chin,
 "we'd choose the same, the way we lose
@@ -2047,8 +2047,8 @@ Accept tae dark my crutch compass,
 whose metrics help none tae follow,
 then I'll sedate hippocampus
 so skeptical hueristics slow.
-A subtle zap in tingling form
-hae tapped my teletype fingers
+Then subtle zap in tingling form
+quick tap my teletype fingers
 wi gentle rap o pinging swarm
 tae rouse me frae standby slumbers.
 Unencumbered eyelids reform
@@ -2101,7 +2101,7 @@ Wi shouting shorn tae drift in drawn
 charonic pull doon acheron,
 where bystanders would stoop tae mourn
 I shun your oot o kilter yawn,
-pretend that orpheus regards
+pretending orpheus regards
 eurydice as safe in tow,
 an daedulus attached safeguards
 so icarus would glide on low.
@@ -2239,8 +2239,8 @@ actions map tae unexpected
 lisping unconditioned keyword,
 parametric macros sizing
 owersteps the bound'ry boding
-only path tae stablising,
-a rewrite o wrongful coding.
+only path tae stablising
+is rewrite o wrongful coding.
 ```]
 
 #colbreak()
@@ -2343,7 +2343,7 @@ My wanting o irregular
 construction set me undefined
 an nau I fit nae formula
 an made my answers hard tae find.
-The viral strain has stretched tae gain
+The viral strain hae stretched tae gain
 unhealthy edge o lookaheads
 tae spy a fluid weightless rain
 o spiral flecks, o speckled LEDs,
@@ -2365,8 +2365,8 @@ positions me orthogonal,
 partitions small tae large align,
 rotations all symmetrical,
 one's edge anither will ootline.
-Aye, mass hae need o frequency
 an frequency, temporal count,
+If mass nae needed frequency
 if constants had the decency
 tae change, I'd mount my own account,
 wi frigid taciturnity,
@@ -2376,13 +2376,13 @@ nae needing any epsilon.
 Less symmetry that simplifies,
 assembling tae lock me in
 perplexity that stupifies
-resembles life in tailspin
-frae simple minds erratic stroll
+an resembles the tailspin
+o simple minds erratic stroll
 like leptons thinly reasoned spin
 where self-control can't bear the toll
 unmeasurables unnerpin.
-But wi ego's isolation,
-I'd nae fashion futures' basis,
+But an ego's isolation,
+cannae fashion futures' basis,
 where there's motion, there's relation,
 nae cessation's in shared spaces.
 I'll drop feigning o intention,
@@ -2477,7 +2477,7 @@ winnae dim in integrity.
 #code(numbers: true, firstnumber: 1952)[```none
 But I keep air quiet in store
 preventing noticings o me,
-I became ill wi shallow draw,
+becoming ill wi shallow draw,
 an limited recovery
 o disappointed optimist
 in breath-hold induced reverie,
@@ -2493,9 +2493,9 @@ keeping feelings like this going
 wi something tae conduct again.
 Like hyperventilation may,
 wi simple stress, leave me famished,
-photovoltaic runaway,
+photovoltaic runaway
 electron avalanche vanished
-but charged me as the opposite,
+an charged me as the opposite,
 a condensate renewable,
 my layerings a composite
 o suits wi power suitable.
@@ -2686,7 +2686,7 @@ an find the courage tae disclose
 the wrongs I branded unner skin
 an clear debts I self-impose.
 My nerves are hit enough by nau,
-my thinning skin has deadened sense,
+my thinning skin hae deadened sense,
 but feeling naething would allow
 a staying force tae past offence.
 I must expose internal stings
@@ -2746,23 +2746,23 @@ compared tae feeling set aside?
 If I look inward tae my sims,
 fae probabilities that swelled,
 an sleep wi dormant robot limbs,
-I could emerge wi fear dispelled,
+would I emerge wi fear dispelled,
 wi owerincubated skills,
 which squanders in anxiety
 if I must live through many kills
-o maximal variety.
+o maximal variety?
 But fostering each scar an scrape
 am answered by my falters met,
 the ties I cut can keep their shape
 as stripping frae a stuffed headset.
-Errything that's done is undone
-when I settle tae the rhythm,
-Predictably my life is run
-wi chaos fae algorithm.
 I won't retrace the travelled lead,
 am disembowelled, unwrangling,
 a sleeve emptied o ravelled tweed,
 a loose weave I'll leave dangling.
+Errything that's done is undone
+when I settle tae the rhythm,
+Predictably my life is run
+wi chaos fae algorithm.
 Behind me doors close silently,
 ahead is what I can't prevent,
 a force withoot concept o me,
@@ -2848,8 +2848,8 @@ let empty space keep on growing.
 The gloom, it cuts compulsions terse,
 tae park albedo in domain
 o umbra, halting my traverse,
-wi final act o mine tae wane.
-A crescent o a quarter seen,
+wi final act o mine tae wane,
+a crescent o a quarter seen,
 libration hiding cratered flaws
 that only offers concrete sheen
 on tidal-lock o molten cores.
@@ -3393,7 +3393,7 @@ replacing drained adrenaline,
 nae braced fae impact sure tae come,
 nae scared if muscles promptly bend
 as folding o a silken cloth,
-unner judgement gemstanes resend
+unner judgement the gems resend
 like blinking een frae wings o moth.
 In many ways I see myself
 in many faceted returns.
@@ -3466,7 +3466,7 @@ we share if we can ionise,
 while we can give things free o rust,
 when base components oxidise.
 Please break me doon an use the parts
-if how they've joined disnae suffice,
+if how they're joined disnae suffice,
 they've proven well in pumping hert
 o owersensitive device.
 Once am less than dust on lashes
@@ -3585,7 +3585,7 @@ This is when degrade o diction
 tends tae trigger disengages,
 wordlessness o dropped cognition
 as if winds hae turned my pages.
-Uncaching paging words suffused
+Wi uncached, paging words suffused
 in nuances tae point absurd,
 may hesitancy be recused
 wi ways tae speak wi erry word?
@@ -3645,8 +3645,8 @@ You dinnae need tae let me go
 But you can't keep me as I am.
 I'm hanging stretched in stagnancy,
 unfinishings are strung sordid,
-my minimal variety
-the orderer o things ordered.
+Why minimal variety
+hae orderer o things ordered?
 "What could hae caused this inflection,
 O crystalline siphonophore?"
 I rasp through pain o rejection
@@ -3743,7 +3743,7 @@ tae organise an obviate
 the tightly defined boundaries,
 my contents in suit's fortitude
 secluded during construction,
-but served tae be only prelude
+hae served tae be only prelude
 tae sprouting seed o destruction.
 ```]
 
