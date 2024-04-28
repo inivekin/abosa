@@ -800,7 +800,7 @@ erasing all humility
 an hiding shame within the tree,
 replacing this futility
 o subsets tae biology.
-Drink up tears an drain thin shell,
+Drink my tears an drain thin shell,
 leave only bones so nane may tell,
 an please keep what you secret well,
 how surely defeated I fell."
@@ -3357,8 +3357,8 @@ an o survival slimming doon,
 when I'd endure an never thrive,
 I feel my futures always fed
 wi ever more a steeper slope,
-on slide where someone owerheid
-is laughing ower microscope.
+in slide where if I'm owerheid
+would laugh ower the microscope.
 Unsure if small or titanly,
 where light dies barely beyond me,
 I recall how congruency
