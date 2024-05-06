@@ -2365,8 +2365,8 @@ positions me orthogonal,
 partitions small tae large align,
 rotations all symmetrical,
 one's edge anither will ootline.
-an frequency, temporal count,
 If mass nae needed frequency
+an frequency, temporal count,
 if constants had the decency
 tae change, I'd mount my own account,
 wi frigid taciturnity,
