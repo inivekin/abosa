@@ -3157,14 +3157,6 @@ Forgive the absent-minded ways
 o one awash in what they weren't,
 they never knew those kinder days,
 the love they'd get is how they'd learnt.
-An don't be so immutable
-you meet change wi hostility,
-but don't be so predictable
-in unpredictability,
-fae knowing physics pursues mess
-totally unpreventable
-will never hae me feeling less
-personally responsible.
 Be wary o the shamed an numb
 who don't love all in sympathy,
 but earnestly meet eyes that come
@@ -3173,6 +3165,14 @@ Should named an few nae more exist,
 I'd easy find some substitutes,
 in names that never made a list,
 nae clamouring fae attributes.
+An don't be so immutable
+you meet change wi hostility,
+but don't be so predictable
+in unpredictability,
+fae knowing physics pursues mess
+totally unpreventable
+will never hae me feeling less
+personally responsible.
 I guess I could hae been kinder,
 an done more than I could recall,
 owerlooked I'd be far blinder
