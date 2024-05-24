@@ -255,9 +255,9 @@ oot there because exosuits leak
 cool air tae heat wi quick'ning beep,
 those caught who want exit ought seek.
 Bursting steam clouds my panoptics,
-I toe the streams I dare wade through.
-Putting trust in field magnetics,
-my rusting armour pays its due.
+I toe streams I dare tae wade through,
+putting trust in field magnetics,
+though rusting armour pays its due.
 Wi metal-wrap an high-grade gloves,
 am nervous thing on offhand lam,
 puir chap jaded an strayed frae love,
@@ -348,18 +348,6 @@ Forlorn hoverer, owerdrawn,
 does fawn ower a gaping black,
 seems tired wi yawn held upon,
 does it drag hole or hole drag back?
-Commands o ancient echelon,
-back then were instrumental,
-nau march o progress marches on
-where monument went tangential.
-How could I jam noise an combat
-approach so slow I'd nae notice,
-when this is strong evidence that
-what was designs again what is?
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 160)[```none
 I'm sick o this, I jus want home,
 I've nae the form tae face the dawn
 o tricks o light nor migraine chrome,
@@ -368,19 +356,31 @@ whose worn an crappy shell would split
 like licks o flame in dry biome,
 like origami delicate
 frae war-torn, age-auld, langsyne tome.
-My frantic swiping at the sands
-ignored among acoustic seas,
-surrounding resonating bands
-eternally returns unease.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 160)[```none
 It seems my hauns are ill-defined,
 exclusion principles resign,
 Am swimming in space undefined
 nae pull tae which I can align.
+Wi frantic swiping at the sands
+ignored among acoustic seas,
+surrounding resonating bands
+eternally returns unease.
+How could I jam noise an combat
+approach so slow I'd nae notice,
+when this is strong evidence that
+what was designs again what is?
+Commands o ancient echelon,
+back then were instrumental,
+nau march o progress marches on
+where monument moves tangential.
 'Neath unpermitting monolith,
 I peer intae unlit pit
 which swallows tight-knit regolith,
-uplifting what's hid frae suns hit,
-it brings tae light a slighter thrust
+uplifting what's hid frae suns hit.
+It brings tae light a slighter thrust
 tae take the loss upon the chin,
 unloosened kite I need nae trust,
 one up or doon must take me in.
@@ -422,14 +422,14 @@ an I'd nae argue when entranced
 wi rhythmic happenings that spin
 an winnae asking hae advanced
 tae do wi me what they hae been.
-In cybernetics take ower,
-mechanical unner descent,
-nae help tae ken parabola
-in trip I've nae hope tae augment.
-But this fall, categorical
+In a fall categorical
 o all the ones that came before,
-I'll dodge the steps historical
-by letting cognisance withdraw.
+why relearn what's historical?
+I'd rather cognisance withdraw.
+In cybernetics take ower,
+mechanical in my descent,
+nae help's knowing parabola
+in trip I've nae hope tae augment.
 ```]
 
 #colbreak()
@@ -438,7 +438,7 @@ I hide awa wi shame I learnt,
 behind replay o muscle logs,
 an accept humility earnt
 as gear caught in cosmic cogs,
-though lingered in the cavity,
+but lingered in the cavity,
 nae longer than a blink tae see,
 a reversing o gravity
 returning myself back tae me.
@@ -479,7 +479,7 @@ tae explore what life can squeeze in,
 while translating branching pathways
 tae a stack o cornered maze tree.
 I try nae see lazy delays,
-in repeats o sierpinski.
+in repeating sierpinski.
 Uncivil sorts o architects,
 made halls inside all bent and creased,
 so navigation's made complex,
@@ -492,10 +492,10 @@ The turn-arounds in labyrinth
 hae ground-up plans like knotted rings
 tae cluster carbons knelt at plinth
 that supplicate engineering,
-"please, keep the minotaur frae me",
-but ruminations' ox-heid fey
-redundantly time heeds tae he,
-in byzantines o dread, I stray.
+"Please keep the minotaur frae me."
+In byzantines o dread I stray,
+redundantly heeding tae he,
+my ruminations' ox-heid fey.
 Scrutinizing route unwinding,
 how I searched fae centroid secret,
 I'd nae get there without finding,
@@ -550,6 +550,10 @@ Losing footing on carapace
 an distancing frae what I've said,
 all words unheard would far ootpace
 those of me own that I'd re-read.
+I'd tried hard wi kernel o code,
+in each part you were embedded,
+may not prompt recursive download,
+but at least am clear-heided.
 Wi sudden, silent hope then dread
 as whirring stop leads unsteading,
 the pyramid descends on thread
@@ -570,10 +574,6 @@ Constant loudness seemed so massive,
 rampant shrewdness o racous breaths,
 sets like suns nau, less oppressive,
 lurking down in vacuous depths.
-I'd tried hard wi kernel o code,
-in each part you were embedded,
-may not prompt recursive download,
-but at least am clear-heided.
 Nae din in brooding, silent reign,
 my bones repose unner my skin,
 nae more enduring absent pain,
@@ -582,14 +582,14 @@ nae poke nor stab, nae prod nor pin.
 
 #colbreak()
 #code(numbers: true, firstnumber: 352)[```none
-In pretense, if you were nae gane,
-I play that you lay at surface,
-suspending thoughts tae keep me sane,
-that clay animate serves purpose.
 Some would think it grim, the moments
 it slips my mind that you did go,
 but simulacra holds remnants,
 like sticker stars on ceilings glow.
+In pretense that you stayed unslain,
+I play that you lay at surface,
+suspending thoughts tae keep me sane,
+that clay animate serves purpose.
 Enduring phospheresences
 saving sensory connection,
 cautioning risk tae defenses
@@ -1728,9 +1728,9 @@ you might try find in absent light,
 an in vibrations sense a route,
 tae actions that revive the night
 before these stars will peter out.
-Should sorry sight o drone unslain,
-which you have heard an wi self crowned,
-be signal you've flown wi disdain,
+It's sorry sight you entertain
+what you have heard an wi self crowned,
+if this means you've flown wi disdain,
 I'll ripple doon tae rocks since drowned.
 But should this be withholding sun,
 at coda o coronal lyre,
