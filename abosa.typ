@@ -637,7 +637,7 @@ Nae ambling in the trail left,
 an rambling dinnae draw oot talk,
 implies concern fae me bereft.
 Its heft externally unmoved,
-affixed but shearing essence
+affixed but shearing through essence,
 tae shrink its stern an grow saw-toothed
 as propagates wave-like presence,
 while deflty roon ferritic steel,
@@ -792,7 +792,7 @@ I'm wanting sleep though just woken.
 an bury me in humbled glen,"
 speaks my soft, wee voice aquiver,
 the words o beaten, stumbling men,
-My reddened een an bagging spine
+"My reddened een an bagging spine
 an quaking lower lips o cry,
 would see less pain should birch an pine
 emerge tae split an rip thereby
