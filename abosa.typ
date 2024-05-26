@@ -1106,10 +1106,10 @@ Nae blister bleedin at my toe,
 salt whip-stung eyes an lips stane-dry.
 Unlearning laying doons o yore
 on blanking blanket unmoved since
-erasure o what storms restore,
-a flashed mem barren o footprints,
-where I retread the steps I made,
-my random walk regenerates
+erasure o what storms restore -
+a flashed mem barren o footprints -
+there I retread the steps unmade,
+an random walk regenerates
 tae be waylaid by next cascade
 o tandem load an counterweights.
 ```]
@@ -1160,7 +1160,7 @@ find me as shadow time parted
 frae what's linearly followed
 on projected path's cross-section,
 winnae intent, enslaved tae curve
-that's set frae first perturbation,
+that's set frae first perturbation
 (initial states we all must serve).
 O how I am convinced wi ease
 tae minimize the entropy
@@ -1231,8 +1231,8 @@ my will tae fight quartz owerwrite.
 I cannae tell where am going
 beginnings far frae my falling
 in chaos pendulum's hinge-swing
-wi turgid, charted stumbling,
-still, unit circle circumscribes,
+wi turgid, charted stumbling.
+Still, unit circle circumscribes,
 sufficiently checks conforming,
 nae variance in time describes,
 all in all, a stalled transforming.
@@ -1469,10 +1469,10 @@ exhuming what should stay entombed.
 The ashen grey nae washed away,
 fae soot o loving protection,
 I let the dust on visor lay
-tae ration love fae inspection,
-occluding thoughts that you'd convey,
-I think kindness works best unseen,
-concluding it helps tae betray,
+tae ration love fae inspection.
+Occluding thoughts that you'd convey
+I think kindness works best unseen.
+Concluding it helps tae betray,
 I wipe my haun across the screen.
 You turn your heid, an tilt tae think,
 uncertain, but nae unwisely,
