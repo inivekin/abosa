@@ -1613,7 +1613,7 @@ a broadcast playback frae no-one
 but nightspore killing suns wi wrung
 insulting, atonal assault
 on frequencies the orbits sung,
-an sing despite the lines at fault.
+an sing despite the lines o fault.
 Wi planets' song I try arrange
 tae foolishly sing low along
 in melodies far oot my range
@@ -1621,7 +1621,7 @@ an breathless choke tae try belong,
 but I can't charge the particles
 nor hold the worlds in ringing lock.
 Nae solar winds nor orbitals
-means endless road fae quiet rock.
+leaves endless road fae quiet rock.
 A prince once claimed unprovable,
 o asteroid B-six-twelve's queen,
 that stars are made more beautiful
@@ -1642,7 +1642,7 @@ just globes in spin directionless.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1248)[```none
-The frictionless picturing took
+My picturing o this hae took
 tae creature grown tae size obscene
 wi mouth closing on my outlook,
 a horror seen by what's nae seen.
@@ -1658,22 +1658,22 @@ Naive delusions do entice,
 but I am nae o note nor knew
 leviathans tae be precise,
 that any may mind me or you.
-But bugs hae buzzed, an I made choice
-tae help them ower obstacle,
-still, I'd need terraforming voice
-fae throats o that height tae tremble.
 A wish tae these uncaring things
 when inattention's evident,
 is tie in theoretic strings
 that don't lend tae experiment.
-On fourth o runs I'm tested some,
-thrice I swam icarian sea,
-I'll look tae see how far I've come
-frae hubris an complacency.
+Yet bugs hae buzzed, an I made choice
+tae help them ower obstacle,
+though I'd need terraforming voice
+fae throats o that height tae tremble.
 Though weight makes me virtiginous
 an climbing's nae my specialty,
 I will nae let my villainous
 prospects win groundward tendency.
+On fourth o runs I'm tested some,
+thrice I swam icarian sea,
+I'll look tae see how far I've come
+frae hubris an complacency.
 ```]
 
 #set page(columns: 1)
@@ -1769,15 +1769,7 @@ frae the contraction o the prime.
 Elastic snaps, the poles rotate,
 a rushed embrace tae path more sure,
 the falls we fell were nae innate
-but side-effect o law obscure:
-at edges light accumulates,
-an futures seem tae staun in line,
-null geodesic unabates
-wi structure constant far too fine -
-the twinned mirage o how it was
-an where its nae has chaperones,
-there's more effect than there is cause,
-there's nae just light in these lightcones.
+but side-effect o law obscure.
 The gravities give duplicates
 wi nae triage fae which is first
 an pulls us tae coordinates
@@ -1786,6 +1778,14 @@ I'll fight the fall tae where you seemed
 an move in actuality
 tae where that light o you had beamed,
 tae reach a simultaniety.
+This edge where light accumulates,
+an futures seem tae staun in line,
+null geodesic unabates
+wi structure constant far too fine,
+if twinned mirage o how it was
+an where its nae have chaperones,
+there's more effect than there is cause,
+there's nae just light in these lightcones.
 ```]
 
 #colbreak()
@@ -1840,8 +1840,8 @@ Attempting temptation towards
 suspension ower infections,
 descending the obstructing chords
 o self-destructive directions,
-on offset wi untimed schism
-crystals an me make connection
+on offset untimed wi schism
+I, wi crystals, make connection
 meeting mech in crystal chasm
 tae halt chronic resurrection.
 The flux o fields which I reap
@@ -1904,7 +1904,7 @@ in softening incandescence.
 #code(numbers: true, firstnumber: 1472)[```none
 Would crystals defrag engines rev
 an break machine autonomy
-or would wheels unwhirling maglev
+or wheels unwhirling wi maglev
 try maintain in isotopy?
 I'd never know an never stay
 in dragging spaces that drag on
@@ -1949,7 +1949,7 @@ o segment displays broke violent,
 repents fae my mistakes so rash
 would nae suffice an nae prevent
 a lake laden wi silicon trash,
-harshly bent, though it was well-meant,
+harshly bent, though it was well-meant.
 All that I learnt is what I took,
 an how I took, it wisnae brave,
 but frae the sky, I spot a look,
