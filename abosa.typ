@@ -1995,14 +1995,6 @@ This is how I'll spend the hours
 listless winnae lilt or jitter,
 sleeping through the dustly showers,
 suns detritus, wilted litter. 
-Spurred in torrenting dense vapour
-through the dent, quiescent currents
-o bright an airy elixir,
-whose last evaporation vents,
-eagerly filling oot nothing
-til something can match the flavours
-o withdrawals intae frothing,
-fluctuating chance behaviours.
 Nae more need I rooms o darkness
 an nae more can I blame my nerves,
 the will tae stifle spark tae less
@@ -2011,44 +2003,52 @@ wi hunger pains tae which pertains
 easiness o disengaging
 an actions I - bewitched - retain,
 living less than I've been aging.
-I'd sleep in impetus o stall
-in metastable quietude,
-fae synthesis o us was all
-tae me, am yours in servitude.
-But tae inter in black splendour
-wisnae what I hae promised you,
-inference frae growls engender
-interest in fissive renew.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 1568)[```none
 Between fixating search fae blame
-an anorectic disregard
+an anorectic disregard,
 I've darks about my eyes tae frame
-my narcoleptical saccade
+my narcoleptical saccade,
 expounding that the deadened flame
 hae floundered frae the fatal flaw,
 the killing trait o the selfsame
 that keeps inactive as before.
 I stretched oot space an found trap in
-my shrink frae role I venerate:
-finding ways tae make things happen
-an changing parts inadequate.
+my shrink tae role I cannae quit,
+letting likelies always happen
+an living life inadequate.
+I'd sleep in impetus o stall
+in metastable quietude,
+fae synthesis o us was all
+tae me. Am yours in servitude.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 1568)[```none
+But tae inter in black splendour
+wisnae what I hae promised you,
+inference frae growls engender
+interest in fissive renew.
 As opts o kelvin minima
 are limited tae what is thrown,
-am proffering what's insular,
+I proffer what is insular,
 meandering tae warmth last known.
 I leave, tae dark, canvas unpatched
 (that packs less air than lungs contain),
 so too, these stanzas are attached,
 (wi tracks tae take, if some remain).
 Accept tae dark my crutch compass,
-whose metrics help none tae follow,
-then I'll sedate hippocampus
-so skeptical hueristics slow.
-Then subtle zap in tingling form
-quick tap my teletype fingers
+it lacks metrics in lightless lane,
+then I sedate hippocampus,
+slows hueristics o skeptic brain.
+Spurring, torrenting dense vapours
+through a dent, quiescent currents
+o bright an airy elixirs,
+whose last evaporation vents,
+eagerly fills oot the nothing
+til something can match the flavours
+o withdrawals intae frothing,
+fluctuating chance behaviours.
+Then subtle zaps in tingling form
+quick taps my teletype fingers,
 wi gentle rap o pinging swarm
 tae rouse me frae standby slumbers.
 Unencumbered eyelids reform
@@ -2069,6 +2069,14 @@ assures one will, should that one can,
 an so ave found sunenders' dregs
 where filled-oot space structure began
 tae bend back both my arms an legs.
+The mess o flesh mistakes adsorb,
+on rolling up my too-long sleeves
+the probing microbotic orbs,
+exotic an dispersing thieves.
+Am accepting execution
+fae defending my specifics
+ower general solution,
+I'll stop fighting parasitics.
 My wanting nae tae win given
 the threat that I may also lose,
 is lean in favour tae give in,
@@ -2081,10 +2089,14 @@ Notorious, my ways are rife
 wi declaration I'm tae end,
 it followed through each afterlife,
 enduring autophagic trend,
-but this was ruse o thinnest veils,
+but this is ruse o thinnest veils,
 that I refuse tae be who's left,
 wi all the duty that entails,
 how could I live so deeply cleft?
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 1632)[```none
 There's gruesome flaying o the skin,
 despite my crying violently,
 you'd rather lose wi chance tae win
@@ -2093,26 +2105,6 @@ Stochastic gradient descents,
 correcting errors owerstrong,
 resolves you tae impermanence
 wi answer nae right, but less wrong.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 1632)[```none
-Wi shouting shorn tae drift in drawn
-charonic pull doon acheron,
-where bystanders would stoop tae mourn
-I shun your oot o kilter yawn,
-pretending orpheus regards
-eurydice as safe in tow,
-an daedulus attached safeguards
-so icarus would glide on low.
-The mess o flesh mistakes adsorb,
-on rolling up my too-long sleeves
-the probing microbotic orbs,
-exotic an dispersing thieves.
-Am accepting execution
-fae defending my specifics
-ower general solution,
-I'll stop fighting parasitics.
 We're all responsible save who
 is unawake intelligence,
 I'm what I've done an what I do
@@ -2121,6 +2113,14 @@ Should consciousness nae carry through
 replacing o constituents,
 it could be nice tae be brand new
 by realigning spry contents.
+Wi shouting shorn tae drift in drawn
+charonic pull doon acheron,
+where bystanders would stoop tae mourn
+I shun your oot o kilter yawn,
+pretending orpheus regards
+eurydice as safe in tow,
+an daedulus attached safeguards
+so icarus would glide on low.
 In lowered temp an frozen grime
 am spending what's left immobile,
 an rest my bloodshot eyes wi rime
@@ -2162,7 +2162,7 @@ less likely tae hate own program.
 Taking little bodily care,
 am taken by the more able,
 rememberings a rogue malware,
-unnergoing a removal,
+unnergoing a removal.
 The thoughts I can't improve upon
 I nae dispose but set them free,
 I needed crystal carry-on
@@ -2319,6 +2319,14 @@ wi brute chance as my supressor.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1824)[```none
+Wi unbefitting matrices
+am withoot numbered condition
+tae nae resort tae fallacies,
+I regard rules winnae reason.
+My wanting o irregular
+construction set me undefined
+an nau I fit nae formula
+an made my answers hard tae find.
 Where am settled on the ootside
 leftside shoulder agin my right,
 I've filled oot curving o inside,
@@ -2335,14 +2343,6 @@ an prompts themselves tae give service,
 clumsy fumbling o digits
 find themselves another purpose
 other than their nervous fidgets.
-Wi unbefitting matrices
-am withoot numbered condition,
-tae nae resort tae fallacies
-an regard rules winnae reason.
-My wanting o irregular
-construction set me undefined
-an nau I fit nae formula
-an made my answers hard tae find.
 The viral strain hae stretched tae gain
 unhealthy edge o lookaheads
 tae spy a fluid weightless rain
