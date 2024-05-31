@@ -2445,7 +2445,7 @@ condense frae cloudy state o mind,
 stepping nearer foggy mirror.
 Brought on back frae fourier view,
 (thought lost when less my complex parts)
-am thrown wi herts unrest anew.
+am thrown wi herts unrest anew,
 accosting me frae hard restart.
 Wi haun tae chest in damped precess,
 exposure high but focusing,
@@ -2462,26 +2462,26 @@ nae signifies rising pressures
 fae which it was reliable
 in times o nervous dithering,
 when per-square-inch was pliable
-wi self-inflicted fissuring.
-My calcifying circuitry,
-it dessicates unemmisive.
+wi self-inflicted fissuring,
+when my hyperventilations'
+stunning stress would leave me famished,
+urging don o deprivations,
+til the troubled pressures vanished,
+calcified in circuitry,
+tae dessicate on each missive.
 A little is a lot fae me,
-an I've much less than that tae give.
-Could that I give an nae run dry -
-a giving wi stability -
-I'd love tae learn tae give fae aye
-winnae dim in integrity.
+an I'd much less than that tae give.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1952)[```none
-But I keep air quiet in store
+But keeping air in quiet stores
 preventing noticings o me,
-becoming ill wi shallow draw,
+it made me ill wi shallow draws
 an limited recovery
-o disappointed optimist
-in breath-hold induced reverie,
-frae days am shamed I've freely missed.
+fae disappointed optimist
+in breath-hold induced reverie
+through days am shamed I've freely missed.
 As baby blue, I breathe deeply.
 In dissonance wi starvation,
 am breaking even wi excess,
@@ -2491,14 +2491,14 @@ reproviding owerflowings,
 radiating back tae maintain,
 keeping feelings like this going
 wi something tae conduct again.
-Like hyperventilation may,
-wi simple stress, leave me famished,
-photovoltaic runaway
-electron avalanche vanished
-an charged me as the opposite,
+I'm charged as what's my opposite,
 a condensate renewable,
 my layerings a composite
 o suits wi power suitable.
+Could that I give an nae run dry -
+a giving wi stability -
+I'd love tae learn tae give fae aye
+winnae dim in integrity.
 Nae deathly skinny as I was,
 less flimsy, limbs feel rightly fused,
 Nae whimsy frae some cosmic cause
@@ -2549,14 +2549,6 @@ just say it, I ken mien o mine.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2016)[```none
-Wi respect tae saving didact,
-I didnae consent tae present
-circumstance, should I interact
-am doomed tae ere long torment.
-Sorry I made a mess tae clean,
-I'd nae hae thought any would see
-nor care tae convalesce til genes
-precisely fit so I am me.
 But why am I so sure o guess
 provided outcomes end badly?
 an why imbue maliciousness
@@ -2564,7 +2556,7 @@ tae those who share their energy?
 Why does my love fae others seem
 like dip in photosynthetics
 when cloud or dust obstruct the beam
-an shrouds me intae paretics?
+tae shroud me intae paretics?
 Or should I doubt an dub worthless
 suspect re-emerged elation,
 being routed tae fraught mirthless
@@ -2573,13 +2565,21 @@ which could better serve the purpose
 o rebirth in dark that purges
 those left fettered wi a surplus
 dosage o the nightly scourges?
+Wi respect tae saving didact,
+I didnae consent tae present
+circumstance, should I interact
+am doomed tae ere long torment.
+Sorry I made a mess tae clean,
+I'd nae hae thought any would see
+nor care tae convalesce til genes
+precisely fit so I am me.
 Exploring positivities,
 along tae barge frae which is surge
 umbilicord delivery,
 wi dirges o approaching verge
 o lockoot-limit volt release
 frae fault o dry-joint weaning stress,
-am starting simple search fae peace
+am starting modest search fae peace
 tae make the auld pains meaningless.
 ```]
 
@@ -2611,8 +2611,8 @@ If I'm again a random born
 experiment tae foreign aim,
 How could I fulfil honours sworn
 when naething else hae stayed the same?
-On stilted towering arrears,
-compiled as exile's nae pardon,
+On stilted towering arrears -
+stockpiled as exile's nae pardon -
 I tumble doon in built-up tiers,
 tae do what guilt hae long called on,
 wi tacit trust fae bugless chips,
@@ -2661,22 +2661,26 @@ until I'm nae what falsifies.
 #image("img/st-damocles-on-tape.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2112)[```none
-Regardless if I look away
-the clawed would still peck at my corpse
-an rewinding one more replay
-exaggerates the twists an warps.
-The ladder logic I abide
-wi badly-written, faulty rung
-hae plagued me tasting o ferride
-wi often bitten, ulcered tongue.
-The grinding joints an clamps' repugn,
-behaviours I need nae obey,
-can tangle in the parts its strewn,
-unorganised in disarray.
 Tae think the tragedy is worth
 the chance that let downs fade in whiles,
 the skulls still lurk tae fill-in dearth
 wi horrors o what always smiles.
+Regardless if I look away
+the clawed would still peck at my corpse
+an rewinding one more replay
+exaggerates the twists an warps.
+The grinding joints an clamps' repugn,
+behaviours I need nae obey,
+can tangle in the parts its strewn,
+unorganised in disarray.
+The ladder logic I abide
+wi badly-written, faulty rung
+hae plagued me tasting o ferride
+wi often bitten, ulcered tongue.
+My nerves are hit enough by nau,
+my thinning skin hae deadened sense,
+but feeling naething would allow
+a staying force tae past offence.
 I know the way I can beat threats,
 if I can hack my own command,
 how I may be like waves through nets,
@@ -2685,10 +2689,6 @@ I must disband what is within,
 an find the courage tae disclose
 the wrongs I branded unner skin
 an clear debts I self-impose.
-My nerves are hit enough by nau,
-my thinning skin hae deadened sense,
-but feeling naething would allow
-a staying force tae past offence.
 I must expose internal stings
 o failings I couldnae avert,
 I was a something hurting things
@@ -2705,26 +2705,26 @@ What I held back, nae what I gave
 and guard like flailing arms defend,
 inflated vacuum decay lave
 tae distance me tae far-flung end.
+Discarding code, I trace confines
+wi talent dodging tight embrace
+tae sketch a grid o highlight lines
+fae insights o negating space.
 In unrelenting, cavernous
 divide o many unheld clasp,
 that reach fae what's nau fathomless,
 I've tied the arms in widened gasp.
-My very code hae traced confines
-o talent dodging tight embrace
-tae sketch a grid o highlight lines
-fae insights o negating space.
-I've habit training insistance
-fae radii that skirts impact,
-an keeping arms at fair distance
-find medium o strained contact.
-Tae see but never speak, I flee
-in last unspool o ghoulish way
-I give nae alms tae voiceless plea,
-as arms reach vaguely in dismay.
 I've pulled the threads an loops are shown -
 minimum feedback vertex set -
 those states tae which I am most prone,
 sensitive tae cyclic mindset.
+Wi habit trained by insistance
+fae radii that skirts impact,
+I'm keeping arms at fair distance
+in medium o strained contact.
+Tae see but never speak, I flee
+in last unspool o ghoulish way
+I give nae alms tae voiceless plea,
+as arms reach vaguely in dismay.
 Stepping gentle, on all fours,
 am clutching fae defining quines
 wi sentiments as semaphores
@@ -2744,25 +2744,25 @@ interred, immure in unnerside,
 but could I prefer previous
 compared tae feeling set aside?
 If I look inward tae my sims,
-fae probabilities that swelled,
-an sleep wi dormant robot limbs,
-would I emerge wi fear dispelled,
+fae probabilities that swell
+in sleep wi dormant robot limbs,
+would I emerge an fear dispel
 wi owerincubated skills,
 which squanders in anxiety
-if I must live through many kills
+that's cloaked a life through many kills
 o maximal variety?
 But fostering each scar an scrape
 am answered by my falters met,
 the ties I cut can keep their shape
-as stripping frae a stuffed headset.
+as strippings frae a stuffed headset.
 I won't retrace the travelled lead,
 am disembowelled, unwrangling,
 a sleeve emptied o ravelled tweed,
 a loose weave I'll leave dangling.
-Errything that's done is undone
+Erry fix I set is unjammed
 when I settle tae the rhythm,
-Predictably my life is run
-wi chaos fae algorithm.
+Predictably my life hae programmed
+chaos fae its algorithm.
 Behind me doors close silently,
 ahead is what I can't prevent,
 a force withoot concept o me,
