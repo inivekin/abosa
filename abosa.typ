@@ -2911,30 +2911,30 @@ The plasmoid ringlets recomposed
 as most expansive o my delves,
 am stood between mirrors opposed
 but nae blocked by reflected selves.
-The plane is quite familiar
-settled stricter in its structures,
-stature winnae any measure,
-stacking arrangements o fractures.
-Where previous I'd stay my sight,
-where glares seemed sourcelessly tae grow,
-bright fogs o day melted tae night
-tae trace the floors like doorframes' glow.
-Geometries nae imitates
-that vague estrangement that unplaced.
-My senses, it accommodates,
-my steps are sure, my path well traced.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 2336)[```none
 The sureness o immensities,
 hannae a doubt, nae die tae cast,
 far inevitabilities
 may just as well be present past.
-Wi search o archives all distorts
+The plane is quite familiar
+settled stricter in its structures,
+stature winnae any measure,
+stacking arrangements frae fractures.
+In search o archives all distorts
 comparing stretches it collects,
 my life is long an it is short
 fae such is infinites' effects.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 2336)[```none
+But senses, this accommodates,
+my steps are sure, my path well traced,
+geometries nae imitates
+that vague estrangement that unplaced.
+Where previous I'd stay my sight,
+where glares seemed sourcelessly tae grow,
+bright fogs o day melted tae night
+tae trace the floors like doorframes' glow.
 Am lone winnae a clock tae tell
 if what I do is wastefulness,
 I'll wander desert but nae dwell,
@@ -2968,8 +2968,8 @@ o poisson-distributed friend.
 The cables jumbled humanly,
 like veins turned metal an unskinned,
 wi tendrils o a networked tree
-which rustle in an unfelt wind.
-It resembles one deserted,
+which rustle in an unfelt wind,
+Resembles someone deserted,
 wi lantern held in hauns that seem
 catatonically converted
 as conduit fae lantern streams.
@@ -3023,7 +3023,7 @@ An why'd I let words intervene?
 I only speak tae see you smile.
 That's why, I guess, am still centered,
 I say what's said fae my own sake,
-Erry situation entered
+Erry situation entered,
 I pilfer others' joy an ache.
 You stay unmoved tae haun I bring,
 that's fair, tae block me frae your sense,
@@ -3039,14 +3039,14 @@ humility an haun tae claim?
 #image("img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%)
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2432)[```none
+I've searched fae unavoidables,
+ignored what passes fleetingly,
+spent my efforts keeping stable
+what barrels on unceasingly.
 I'd damaged what was delicate,
 confused all energy fae heat,
 accepting am inadequate,
 I'll live how stars wrote my defeat.
-But why don't I feel purpose-free
-I watched it all, I reached an end,
-Why am I still afloat in sea,
-nae deep enough tae nau transcend?
 What else would you care tae suggest?
 I can't start wi an epitaph?
 I swapped my best fae look tae rest,
@@ -3075,23 +3075,11 @@ you need nae tell me, I'll just go.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2464)[```none
-But strobe o dark lines in each flash,
-when unseen winds sweep lanterns' sway,
+But strobing binaries in flash,
+when unfelt winds sweep lanterns' sway,
 have low-entropic cell charge cache,
-through gaps in body, blink tae say,
-"I see when light pings metal strings,
-life can be sparse, can be hollow,
-a light in swing brings life tae things,
-wi both reflection an shadow.
-You searched fae unavoidable,
-ignored what passes fleetingly,
-spent your effort keeping stable
-what barrels on unceasingly.
-If shift o swaying lights can scare,
-when lanterns carried all alone,
-know duty tae shine you can share,
-that power need nae stay your own."
-Am foolish, I forgot you're wise
+through gaps in body, blink tae say
+am foolish tae forgot you're wise
 tae inner workings I nae show,
 thought I'd surprise wi dropped disguise,
 but you'd grin lightly, sigh "I know",
@@ -3099,11 +3087,23 @@ an tell me "void's much more than glue
 tae bridge the clusters o matter,
 you always carry their light too,
 an in someways, somehow, faster.
+Try watch my light ping metal strings,
+it can be sparse, can be hollow,
+but light in swing brings life tae things,
+wi both reflection an shadow.
+You ask why you're nae purpose-free,
+you watched it all, you reached an end,
+You ask why you still float in sea,
+nae deep enough tae nau transcend?
 I unnerstan why you withdrew,
 it's wonderful, but painful too,
 tae leave your prospects just fae you,
 tae have you want fae naething new.
-You'd best be gone, it's good we meet,
+If shift o swaying lights can scare,
+when lanterns carried all alone,
+know duty tae shine you can share,
+that power need nae stay your own.
+You'd best be gone, it's good we meet
 but you could do good anywhere,
 I'd like you here but I'm complete,
 an you've still something left tae share."
@@ -3128,7 +3128,7 @@ am pinned insect, in glass, enthralled.
 Internalising thunderbolt,
 I hold my heid wi hauns unshook,
 but writhe like worm on hot asphalt,
-tae be a sun, at which, you'd look,
+tae be a sun at which you'd look,
 Until illuminated room
 beneath my suit hae falsehoods burn
 amid a filter set tae bloom
@@ -3143,8 +3143,8 @@ what I left an what I carried,
 what has me fall, what drives me on.
 So much I've come tae unnerstaun,
 battered unner expectations,
-as truth is naething made by haun,
-it's born in random negations.
+great truths are naething made by haun,
+it's born in random negations:
 ```]
 
 #colbreak()
@@ -3157,21 +3157,21 @@ Forgive the absent-minded ways
 o one awash in what they weren't,
 they never knew those kinder days,
 the love they'd get is how they'd learnt.
-Be wary o the shamed an numb
-who don't love all in sympathy,
-but earnestly meet eyes that come
-wi gratitude, humility.
 Should named an few nae more exist,
 I'd easy find some substitutes,
 in names that never made a list,
 nae clamouring fae attributes.
+Be wary o unshamed an numb
+who don't love all in sympathy,
+but earnestly meet eyes that come
+wi gratitude, humility.
 An don't be so immutable
 you meet change wi hostility,
 but don't be so predictable
 in unpredictability,
 fae knowing physics pursues mess
 totally unpreventable
-will never hae me feeling less
+should never hae one feeling less
 personally responsible.
 I guess I could hae been kinder,
 an done more than I could recall,
@@ -3207,7 +3207,7 @@ So information density
 may explicate ingrained reveal,
 congealing off-mark tensity
 wi boilerplate that could anneal,
-should I contain the burning white
+such that I contain burning white
 an nae melt intae slate carcass,
 so face o glass reflects starlight
 an nae the inbetween darkness.
@@ -3270,33 +3270,41 @@ the constellations glob an preen
 an morph an cross through shared domains,
 the dots already drawn between.
 Astral push in estuary
-bridged ower transitional throng,
-it helps me cross a boundary
+bridged ower transitional throng
+an helps me cross a boundary
 tae era which I don't belong.
 Vacuum balances tae usher,
-gently me downward contrary,
-agin unmade rules o measurer
-unstablized, constants vary.
-Dealings only temporary,
-I'm fading as I radiate,
-I'll catch up tae end customary,
-recline an deteriorate.
-But I winnae permit tae fade
-momentum I will see conserved,
-that I hae found my comforts made
-by many that were more deserved.
-Though skies aren't like the early days
-when weapons dangled owerheid,
-ekmystic model wrongly says
+gently, me downward contrary,
+agin unmade rules o measurer,
+unstable new constants vary.
+Ekmystic model wrongly says
 the void left ower would be dead.
-In unfamiliarity,
-I feel alone, atop some rock
-o gemstanes I thought part o me.
-We once were one, we used tae talk.
+These skies aren't like the early days
+when weapons dangled owerheid.
+Annihilation has a perk,
+helps what I can an will illume,
+creators need a space tae work,
+destruction leaves creation room.
+Denying plans o staying put,
+I've defied my blueprints in queue.
+Nau, brightly-faced, I drench gamut
+exceeding set aside dim hue.
+Dealings only temporary,
+am fading as I radiate,
+soon tae cede as customary,
+recline an deteriorate.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 2656)[```none
+But I winnae permit tae fade
+momentum I will see conserved,
+that I hae found my comforts made
+by many that were more deserved.
+In unfamiliarity,
+I feel alone, atop some rock
+o gemstanes I thought part o me.
+We once were one, we used tae talk.
 If acts o auld seek retribution,
 then yours deserve more lenience,
 You ate my world in confusion,
@@ -3305,14 +3313,6 @@ Intent makes one worse than other
 but silence winnae help atone.
 At present, I'm as young brother,
 an you should see how bright I've grown.
-Denying plans o staying put,
-I've defied what blueprints enqueue.
-Nau, brightly-faced, I drench gamut
-exceeding set aside dim hue.
-Annihilation has a perk,
-helps what I can an will illume,
-creators need a space tae work,
-destruction leaves creation room.
 I am the guest, this world is yours,
 tae me these are foreign physics,
 though clumsy, I'll try help your cause
