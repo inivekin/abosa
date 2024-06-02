@@ -609,7 +609,7 @@ a skin nae lived in, life laid bare.
 Longer was I not an won't be
 than ever do I patient wait,
 but pulsar clocks time not mem'ry
-am holding through the oors late.
+am holding through the hours late.
 I'll leave my haun above an free,
 tae grow like seeds take time tae wake,
 an know I can be company,
@@ -3316,7 +3316,7 @@ an you should see how bright I've grown.
 I am the guest, this world is yours,
 tae me these are foreign physics,
 though clumsy, I'll try help your cause
-as you helped stagings frae statics,
+as you helped reinforce an fix,
 what kind, horned-serpent, Aegis, knew
 an stargazer hae lit tae see,
 when awe an fear siezes you,
@@ -3350,12 +3350,12 @@ an treds footprints frae pre-imprints -
 it makes me slant an reminisce
 in crooked path o helios,
 tae veer up tae a dark abyss
-my lifetimes dinnae stretch across.
+which lifetimes cannae stretch across.
 Unsure, wobbling, backing doon,
 I think o hobbled knees frae dive
 an o survival slimming doon,
-when I'd endure an never thrive,
-I feel my futures always fed
+when I'd endure an never thrive
+on feeling futures always fed
 wi ever more a steeper slope,
 in slide where if I'm owerheid
 would laugh ower the microscope.
@@ -3366,7 +3366,7 @@ can resolve such despondency.
 There's benefit when things equate
 when small an large share rules that spanned
 frae dust tae planets, both collate,
-an mountains ridge like grains of sand.
+the mountains ridge like grains of sand.
 The sharpened drop wi random crag
 is cliff-face that reminds o mood,
 when cheeks would sink an eyes would bag
@@ -3385,21 +3385,21 @@ ironically, there's better grip
 when living dies in staggered pace.
 It has it seem lives nae tie-in
 wi cold an dark tae intersperse,
-but know, if we share warmth within,
-it's nae unfeeling universe.
+I know nau, sharing warmth within,
+reforms unfeeling universe.
 In borrowed time, I feel a zen,
 wi periodic glowing thrum,
 replacing drained adrenaline,
 nae braced fae impact sure tae come,
 nae scared if muscles promptly bend
 as folding o a silken cloth,
-unner judgement the gems resend
+unner the judgement gems resend
 like blinking een frae wings o moth.
 In many ways I see myself
 in many faceted returns.
-Would that my eyes do same themself,
+I would my eyes do same themself,
 like diamonds cut tae light patterns,
-an bare a face o tragedy,
+tae bare a face o tragedy,
 but at an angle more obtuse
 show common triviality,
 a comedy that's in misuse.
@@ -3420,8 +3420,8 @@ or dark part in a darker sea.
 In lowest o my verticals,
 droplets couple unner pressures,
 as weakly-bonded particles
-collect in creasing suit's weathers.
-but dinnae amass as impasse,
+collect in creasing suit's weathers,
+but disnae amass as impasse,
 fae one mare inaccessible,
 it's turned frae vapour tae some gas
 that fringes supercriticals.
@@ -3447,7 +3447,7 @@ tae lay a straighter spine tae bed
 wi posture unbent tae each end.
 I'd rather grind that same auld tread,
 wi toes tae teeth all chipped an bent,
-tae never lend, but give till dead.
+tae nae just lend, but give till dead.
 A suit unused hae unseen dent.
 ```]
 
@@ -3455,13 +3455,13 @@ A suit unused hae unseen dent.
 #code(numbers: true, firstnumber: 2784)[```none
 There is a glint o disrepair
 that biases survivorhood,
-Tae scrutinise the wear an tear
-though they are hint tae what's withstood.
+tae scrutinise the wear an tear
+though this is hint tae what's withstood.
 Too often are the untouched praised,
 when what's at work is demonised,
 those in the dirt are rarely raised
 fae cleaning by the galvanised.
-I behold pristine wi disgust -
+Behold the pristine wi disgust,
 we share if we can ionise,
 while we can give things free o rust,
 when base components oxidise.
@@ -3475,7 +3475,7 @@ that looks ower the spread ashes,
 an blinks until one's sight is clear,
 I'd wish they'd see as nightspore sees
 my shuffling aboot a peer
-tae trifling scattered galaxies,
+tae trifling, scattered galaxies,
 both congruent as dusty smear.
 What information hae dust laid?
 Some far-off thought caught on defer?
@@ -3483,7 +3483,7 @@ Is it just that, in what I wade?
 A constant calculating stir?
 Seas' executing pooled canals?
 Constellations channel power?
-Nightspore bus statements fae eval?
+Nightspore statements bussed fae eval?
 Crystals storing states in structure?
 ```]
 
@@ -3549,7 +3549,7 @@ tae gadgets that guide ships tae shore
 providing means fae interface.
 We both share language commonground
 required fae all frontier crew,
-you hide on path where you'd be found,
+you hide on path where you'd be found
 an I'll always go look fae you.
 Before I reach fae sigils sought -
 I've only faint thoughts what tae say,
@@ -3574,18 +3574,18 @@ an any defect in the way
 my rate o speech, when owerclocked,
 can melt in thermal runaway.
 Wi thoughts assumed already heard,
-in phrase o sorts already used,
-wi purpose clumsily transferred,
+in phrase o sorts already used
+an purpose clumsily transferred,
 I blabber insane an bemused.
-Filled an teeming dictionary
+It's a chaos in transcription,
+filled an teeming dictionary
 isnae listing the description
-o refined words necessary,
-it's a chaos in transcription.
+o refined words necessary.
 This is when degrade o diction
 tends tae trigger disengages,
 wordlessness o dropped cognition
 as if winds hae turned my pages.
-Wi uncached, paging words suffused
+Uncached, paging, wordless, suffused
 in nuances tae point absurd,
 may hesitancy be recused
 wi ways tae speak wi erry word?
@@ -3608,7 +3608,7 @@ an be taken care of as well.
 Weak particles, they arc widely,
 nae motivated nor as smart,
 if we're tae go where most likely,
-I'd nae imagine us apart.
+I'd nae imagine life apart.
 I've naewhere else, this is me done,
 I live an die at your behest,
 though I'd nae guessed at end o run
@@ -3644,7 +3644,7 @@ Tae force a dying diaphragm?
 You dinnae need tae let me go
 But you can't keep me as I am.
 I'm hanging stretched in stagnancy,
-unfinishings are strung sordid,
+unfinishings are strung sordid.
 Why minimal variety
 hae orderer o things ordered?
 "What could hae caused this inflection,
@@ -3668,7 +3668,7 @@ I beg my wish isnae denied,
 tae let me burn intae the night
 an share what warmth I can provide.
 I am at peace tae be disposed
-fae reingestings o ootcome
+fae reingestings o ootcome,
 wi unanswered questions unclosed,
 nae knowing what you may become.
 ```]
@@ -3683,8 +3683,8 @@ As instruments, we're uninformed
 a lower order tae what's planned,
 fae love hae killed me when you formed
 an when I breathed by it's demand.
-It's that one thing I've left tae do
-I've prophecy tae self-fulfil
+There's but one thing I've left tae do,
+I've prophecy tae self-fulfil,
 my cursed belief wiheld frae you,
 tae die by what I love, or kill.
 You know I'm nae the killing sort,
