@@ -514,7 +514,7 @@ reducing blits to local time
 missed universal state unseen.
 No matter if you're standing near,
 or scatter as you're no more seen,
-know always you were to be here
+know you were always to be here
 and here you will always have been."
 In map of roads I'd rush to take
 from angled, firmamental look
