@@ -418,7 +418,7 @@ I spot the interlocks to thread,
 the ratchets cranking obstinate,
 my 'chute now covers up my head,
 pronouncing me deadlocked dimwit,
-and I'd nae argue when entranced
+and I'd not argue when entranced
 by rhythmic happenings that spin
 and without asking have advanced
 to do with me what they have been.
@@ -603,7 +603,7 @@ sought within a wrought transparence,
 part refraction, part reflection,
 barely asserted appearance,
 readying to shirk hand given,
-assuming givers would nae care
+assuming givers would not care
 for empty body undriven,
 a skin not lived in, life laid bare.
 Longer was I not and won't be
@@ -3098,7 +3098,7 @@ not deep enough to now transcend?
 I understand why you withdrew,
 it's wonderful, but painful too,
 to leave your prospects just for you,
-to have you want for naething new.
+to have you want for nothing new.
 If shift of swaying lights can scare,
 when lanterns carried all alone,
 know duty to shine you can share,
