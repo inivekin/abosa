@@ -138,19 +138,19 @@ V  V \|/ V\                  "
 #set text( size: 15.0pt, fill: rgb("#c5c8c6"))
 #stack(
   dir: ttb,
-  image("img/mr.spaceman.png",width: 100%, height: 25%),
-  image("img/st-damocles-abloom.png",width: 100%, height: 25%),
-  image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 25%),
-  image("img/st-damocles-helmet-impaled.png",width: 100%, height: 25%),
+  image("img/mr.spaceman.jpg",width: 100%, height: 25%),
+  image("img/st-damocles-abloom.jpg",width: 100%, height: 25%),
+  image("img/st-damocles-helmet-frozen-with-lantern.jpg",width: 100%, height: 25%),
+  image("img/st-damocles-helmet-impaled.jpg",width: 100%, height: 25%),
 )
 #place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "S I G N A L - E A T E R "),v(20%),highlight(fill: rgb("1d1f21"), "T O R O I D - F O R E S T "),v(20%),highlight(fill: rgb("1d1f21"), "N U L L I N G - L A T T I C E "),v(20%),highlight(fill: rgb("1d1f21"), "S U N K E N - M O U N T A I N "),))
 #set page( fill: rgb("#1d1f21"))
 #stack(
   dir: ltr,
-  image("img/st-damocles-in-nightspore.png", height: 100%, width: 25%),
-  image("img/st-damocles-infinite.png", height: 100%, width: 25%),
+  image("img/st-damocles-in-nightspore.jpg", height: 100%, width: 25%),
+  image("img/st-damocles-infinite.jpg", height: 100%, width: 25%),
   image("img/st-damocles-helmet-tied-up.jpg", height: 100%, width: 25%),
-  image("img/st-damocles-helmet-open.png", height: 100%, width: 25%),
+  image("img/st-damocles-helmet-open.jpg", height: 100%, width: 25%),
 )
 #place(top + center, stack(dir: ttb,v(15%),highlight(fill: rgb("1d1f21"), "G R A D I E N T  D E S C E N T "),v(20%),highlight(fill: rgb("1d1f21"), "C O N F O R M A L  C O L L A P S E "),v(20%),highlight(fill: rgb("1d1f21"), "M A G N E T I C  C O N F I N E M E N T "),v(20%),highlight(fill: rgb("1d1f21"), "P O C K E T  T O K A M A K "),))
 #set page(footer: locate(
@@ -165,7 +165,7 @@ V  V \|/ V\                  "
 
 #set page( paper: "a5", fill: rgb("#c5c8c6"))
 #set page(columns: 1)
-#image("img/mr.spaceman.png",width: 100%, height: 100%)
+#image("img/mr.spaceman.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -173,7 +173,7 @@ V  V \|/ V\                  "
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-the-shephard.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-the-shephard.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 0)[```none
 Crystalline vines with latticed lines
@@ -247,7 +247,7 @@ my call of distress: "just to rest..."
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-searches-for-wandering-aengus.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-searches-for-wandering-aengus.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 64)[```none
 No rest there was, I would not keep
@@ -321,7 +321,7 @@ the deserts' dry, decrepit croons.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-jumps.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-jumps.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 128)[```none
 The sea of glass is forming rift
@@ -395,7 +395,7 @@ with deeper parts to forage in.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-in-gravitational-disorientation.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-in-gravitational-disorientation.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 192)[```none
 Weight of planets draw me humble,
@@ -469,7 +469,7 @@ from cynic dive to inert slough.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-in-the-stomach-of-the-signal-eater.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-in-the-stomach-of-the-signal-eater.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 256)[```none
 Letting lack of cause by nature
@@ -543,7 +543,7 @@ with chants of lives concatenate.
 ```]
 
 #set page(columns: 1)
-#image("img/the-hand-of-st-damocles.jpg",width: 100%, height: 100%)
+#image("img/the-hand-of-st-damocles.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 320)[```none
 Losing footing on carapace
@@ -617,7 +617,7 @@ if someone needs a hand to take.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-abloom.png",width: 100%, height: 100%)
+#image("img/st-damocles-abloom.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -625,7 +625,7 @@ if someone needs a hand to take.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-and-the-geometry.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-and-the-geometry.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 384)[```none
 Something pulling the husk of me,
@@ -699,7 +699,7 @@ that wild could sooner cause me strife.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-amalgamates.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-amalgamates.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 448)[```none
 'Til by and by the chase abates,
@@ -773,7 +773,7 @@ and I am always part of it.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-looking-round-the-torus-forest.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-looking-round-the-torus-forest.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 512)[```none
 My copper frayed capillaries
@@ -816,7 +816,7 @@ I've reached again a lower best
 in failure to truely assess,
 inconsequence of me to rest,
 and dominance of due process.
-Though vocal flinch of vain whimper,
+Through vocal flinch of vain whimper,
 my local signal's loud spoken,
 I'm gasping roach that crawls nowhere,
 I'm branch in wait to be broken.
@@ -847,7 +847,7 @@ so only me is lost in mess.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-breaks-geometry.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-breaks-geometry.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 576)[```none
 Incalculable dimension
@@ -921,7 +921,7 @@ careful addressing made nonce hash.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-frozen-over.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-frozen-over.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 640)[```none
 And so unfolds same old mistakes
@@ -995,7 +995,7 @@ over cutting cold ben midden?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-alight.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-alight.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 704)[```none
 Mangled brain that's fain to wane there,
@@ -1069,7 +1069,7 @@ you leave... but leave a light on too.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 100%)
+#image("img/st-damocles-helmet-frozen-with-lantern.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -1077,7 +1077,7 @@ you leave... but leave a light on too.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-leaves-the-c-zone.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-leaves-the-c-zone.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 768)[```none
 A booming arrival, whistling fall,
@@ -1151,7 +1151,7 @@ or does my ship still float on high?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-tunnels-in.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-tunnels-in.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 832)[```none
 Plot the path debris had charted,
@@ -1225,7 +1225,7 @@ my will to fight quartz overwrite.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-uncrystalline.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-uncrystalline.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 896)[```none
 I cannot tell where I'mm going,
@@ -1299,7 +1299,7 @@ would I find mark interstitial?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-read-only.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-read-only.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 960)[```none
 To take my time and stake what's left,
@@ -1373,7 +1373,7 @@ a yolk in metal, kin of dead.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-frees-aengus.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-frees-aengus.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1024)[```none
 Poor, panicked thing, what have I done?
@@ -1447,7 +1447,7 @@ the spins of far off stars can stop.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-interred.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-interred.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1088)[```none
 The mountain shakes, my knee gives way
@@ -1521,7 +1521,7 @@ this warmth that stayed, felt forgiving.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-helmet-impaled.png",width: 100%, height: 100%)
+#image("img/st-damocles-helmet-impaled.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -1529,7 +1529,7 @@ this warmth that stayed, felt forgiving.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-entangled.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-entangled.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1152)[```none
 What energy resides inside,
@@ -1603,7 +1603,7 @@ your future rising from sea's seam.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-plotting-on-strings.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-plotting-on-strings.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1216)[```none
 In cowered wait with slouched posture
@@ -1677,7 +1677,7 @@ from hubris and complacency.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-along-a-lyre.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-along-a-lyre.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1280)[```none
 The crags of framework glasswork hive
@@ -1751,7 +1751,7 @@ in era of this sunsick phase.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-as-pendulum.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-as-pendulum.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1344)[```none
 Could chalk it up to cosmic rays,
@@ -1825,7 +1825,7 @@ the stone in which the end was set.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-fights-the-fall.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-fights-the-fall.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1408)[```none
 Machines repeat temporally
@@ -1899,7 +1899,7 @@ in softening incandescence.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-escapes-the-pull.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-escapes-the-pull.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1472)[```none
 Would crystals defrag engines rev
@@ -1976,7 +1976,7 @@ as that last star flickers on out.
 #set text( fill: rgb("#c5c8c6"))
 
 #set page(columns: 1)
-#image("img/st-damocles-in-nightspore.png",width: 100%, height: 100%)
+#image("img/st-damocles-in-nightspore.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -1984,7 +1984,7 @@ as that last star flickers on out.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-in-hibernation.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-in-hibernation.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1536)[```none
 Pilotless with selfward glower,
@@ -2058,7 +2058,7 @@ that's spelling end to restful block.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-awash-in-gradients.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-awash-in-gradients.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1600)[```none
 The drastic measures far-off spanned
@@ -2132,7 +2132,7 @@ us ever immanentary.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-integrated.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-integrated.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1664)[```none
 They've hit cell walls with voltage gap
@@ -2206,7 +2206,7 @@ you dare to suffer in my way?"
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-imploded.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-imploded.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1728)[```none
 Inchoate and emotional
@@ -2280,7 +2280,7 @@ my drifting arms of tensor wreck.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-tesellating.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-tesellating.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1792)[```none
 Should gaze substantially collapse
@@ -2354,7 +2354,7 @@ like halogens in branching trees.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-tesellated.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-tesellated.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1856)[```none
 And so with sparse presentiment
@@ -2428,7 +2428,7 @@ I once was human, wasn't I?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-infinite.png",width: 100%, height: 100%)
+#image("img/st-damocles-infinite.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -2436,7 +2436,7 @@ I once was human, wasn't I?
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-reinstalled.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-reinstalled.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1920)[```none
 Negative phase seems reassigned,
@@ -2510,7 +2510,7 @@ O, how I've missed the morning sun.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-mooring.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-mooring.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 1984)[```none
 Surely I was without body,
@@ -2584,7 +2584,7 @@ to make the old pains meaningless.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-verified.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-verified.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2048)[```none
 Though frame of mind feels light emit,
@@ -2658,7 +2658,7 @@ until I'm not what falsifies.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-on-tape.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-on-tape.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2112)[```none
 To think the tragedy is worth
@@ -2732,7 +2732,7 @@ to breathe a beat through my flatlines.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-fatestring.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-fatestring.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2176)[```none
 Entrails run through slackened wrists
@@ -2806,7 +2806,7 @@ of world that's crueller than need be.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-rides-a-pulse.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-rides-a-pulse.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2240)[```none
 Tinged with darker tint perspective
@@ -2880,7 +2880,7 @@ just points right angles back to you.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-helmet-tied-up.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-helmet-tied-up.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -2888,7 +2888,7 @@ just points right angles back to you.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-enters-the-pocket.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-enters-the-pocket.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2304)[```none
 Within a bubble soon to burst,
@@ -2962,7 +2962,7 @@ of poisson-distributed friend.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-meets-the-lantern-keeper.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-meets-the-lantern-keeper.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2368)[```none
 The cables jumbled humanly,
@@ -3036,7 +3036,7 @@ humility and hand to claim?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-shows-what-is-there.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2432)[```none
 I've searched for unavoidables,
@@ -3110,7 +3110,7 @@ and you've still something left to share."
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-internally-bright.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-internally-bright.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2496)[```none
 I'd no confidence in distance
@@ -3184,7 +3184,7 @@ and others surely will forget.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-written-out.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-written-out.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2560)[```none
 Though all I do is languish since
@@ -3258,7 +3258,7 @@ to die again in multitude.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-surfaced-lightly.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-surfaced-lightly.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2624)[```none
 The skies shattered to show membranes
@@ -3332,7 +3332,7 @@ I'll feel the same, until my rest.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-helmet-open.png",width: 100%, height: 100%)
+#image("img/st-damocles-helmet-open.jpg",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -3340,7 +3340,7 @@ I'll feel the same, until my rest.
   #v(1fr)
 
 #set page(columns: 1)
-#image("img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-with-blindsight.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2688)[```none
 Heuristics As Loop Oracle -
@@ -3414,7 +3414,7 @@ or dark part in a darker sea.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-condensation.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-condensation.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2752)[```none
 In lowest of my verticals,
@@ -3488,7 +3488,7 @@ Crystals storing states in structure?
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-diving.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-diving.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2816)[```none
 My energy drips viscous in
@@ -3562,7 +3562,7 @@ as I give my remaining days
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-impaled.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-impaled.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2880)[```none
 Suspended, seemingly noticed,
@@ -3636,7 +3636,7 @@ and here I am always to be.
 ```]
 
 #set page(columns: 1)
-#image("img/st-damocles-powered-down.jpg",width: 100%, height: 100%)
+#image("img/st-damocles-powered-down.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2944)[```none
 But what's it mean, this free torso?
@@ -3710,7 +3710,7 @@ and with the noise I'm soothed to sleep.
 ```]
 
 #set page(columns: 1)
-#image("img/dragonfly-remains.jpg",width: 100%, height: 100%)
+#image("img/dragonfly-remains.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 3008)[```none
 A vision of wings' vibration.
