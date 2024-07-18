@@ -443,11 +443,11 @@ no longer than a blink to see,
 a reversing of gravity
 returning myself back to me.
 A siphoning has strings near snap
-in plane non-orientable
+in plane non-orientable,
 then transformation of flat map
-from surface low-dimensional,
+from surface low-dimensional
 has stresses flip in changing draft
-to scene not representable,
+to scene non-representable,
 dilating under dome-like shaft
 where straight lines seem more bendable.
 The data loading out the banks
@@ -474,11 +474,11 @@ from cynic dive to inert slough.
 #code(numbers: true, firstnumber: 256)[```none
 Letting lack of cause by nature
 indicate a fleeting reason,
-I take slack and rouse to future,
+taking slack I rouse to future,
 to explore what life can squeeze in,
 while translating branching pathways
 to a stack of cornered maze tree.
-I try not see lazy delays,
+I try not see lazy delays
 in repeating sierpinski.
 Uncivil sorts of architects,
 made halls inside all bent and creased,
@@ -553,7 +553,7 @@ those of me own that I'd re-read.
 I'd tried hard with kernel of code,
 in each part you were embedded,
 might not prompt recursive download,
-but at least I'm clear-heided.
+but at least I'm clear-headed.
 With sudden, silent hope then dread
 as whirring stop leads unsteading,
 the pyramid descends on thread
@@ -816,7 +816,7 @@ I've reached again a lower best
 in failure to truely assess,
 inconsequence of me to rest,
 and dominance of due process.
-Through vocal flinch of vain whimper,
+Through vocal flinch of vain whimper
 my local signal's loud spoken,
 I'm gasping roach that crawls nowhere,
 I'm branch in wait to be broken.
@@ -864,7 +864,7 @@ reflects my parts which can't muster
 some such measure to sum fractions,
 typical when forked and scattered
 in diffractions of external
-distractions reversed to mirror
+distractions reverse to mirror
 total reflections internal.
 Lurching, displaced from conventions,
 perceptions in sight unbending
@@ -1102,7 +1102,7 @@ the call to sleep, I'd not survive
 to last past stars of days gone by.
 Were I to die, I'd want it so:
 that meteor falls out the sky.
-Not blister bleeding at my toe,
+No blister bleeding at my toe,
 salt whip-stung eyes or lips stone-dry.
 Unlearning laying downs of yore
 on blanking blanket unmoved since
@@ -1123,30 +1123,30 @@ of trouble and to acclimate.
 Should I assuage ascetic stint
 when all I've left is to contend
 that dust that flies from back of flint
-was bright only to the tail end?
+was bright only to tailing end?
 The watchful glint would dare compare
 its weightless wisp to aeons' sift,
-and if it's spared through flight midair
-would join my dull tectonic drift.
-But wave of shock had reified,
+though if it's spared through flight midair
+still joins my dull tectonic drift.
+But wave of shock now reified,
 averted was cyclopic stare,
-that burning gaze struck mountain-side
+that burning gaze strikes mountain-side
 alit with pyroclastic flair.
-And dimly down did it not fare
+And dimly down does it not fare
 in distant butte's half-summit pyre
-as waypoint to rare well-lit lair
-where substitute sun's burning dire.
-There is no absolute in rest
-but in what yet accelarates.
+as waypoint to rare well-lit lair,
+this substitute sun's burning dire.
 I surge to point of fallen's nest,
 conceding to converging states.
+There is no absolute in rest,
+there is in what accelarates.
 Aware of nowhere else to go
 and knowing rocks do not smoke so,
 the bare night gives me one more show
-of fadin lights last afterglow.
+of fading lights last afterglow.
 And wading through knee-deep, wet snow,
 it strikes me and I sound a sigh,
-Is this solemn flaming arrow
+Is this solemn, flaming arrow
 or does my ship still float on high?
 ```]
 
@@ -1162,7 +1162,7 @@ on projected path's cross-section,
 with no intent, enslaved to curve
 that's set from first perturbation
 (initial states we all must serve).
-O how I am convinced with ease
+O, how I am convinced with ease
 to minimize the entropy
 and not detour to endless freeze
 for wasteful test of destiny.
@@ -1228,22 +1228,6 @@ my will to fight quartz overwrite.
 #image("img/st-damocles-uncrystalline.jpg",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 896)[```none
-I cannot tell where I'mm going,
-beginnings far from my falling
-in chaos pendulum's hinge-swing
-with turgid, charted stumbling.
-Still, unit circle circumscribes,
-sufficiently checks conforming,
-no variance in time describes,
-all in all, a stalled transforming.
-My breakin down was overdue,
-the parts constituent decry,
-the suffering they did accrue
-from rules emergent they go by.
-I understand, though it bores me,
-the complex falls back to the start.
-I know the plan, I need not be
-until last atom's pulled apart.
 Quartz substrate in jerk and spasm
 of piezoelectric tensions,
 excess with enthusiasm,
@@ -1252,14 +1236,30 @@ reducing personalities
 to repeating configuration,
 reorganising valencies
 of cells for strong correlation.
-An soon under spectroscopy,
-from those searching for character,
+And soon under spectroscopy,
+by those searching for character,
 would stimulus reliably
 reflect transitionless spectra
 of layers upon layers cloned
 in periodic replica,
 all radiation that is loaned
 repaid with same old signature.
+I cannot tell where I'm going,
+beginnings far from my falling
+in chaos pendulum's hinge-swing
+with turgid, charted stumbling.
+Still, unit circle circumscribes,
+sufficiently checks conforming,
+no variance in time describes,
+all in all, a stalled transforming.
+My breaking down was overdue,
+the parts constituent decry,
+the suffering they did accrue
+from rules emergent they go by.
+I understand, though it bores me,
+the complex falls back to the start.
+I know the plan, I need not be
+until last atom's pulled apart.
 ```]
 
 #colbreak()
@@ -1273,12 +1273,12 @@ the truths I tell, the calm it brings,
 they steady me at where I fell
 to find the orderers of things.
 The composition of the small
-can bring about propulsive force,
+can generate propulsive force,
 few words in cells bring forth a pull
 that ships may fly a darkened course,
 and should I drift across the axis,
 walking helix wound on torus,
-I'll wind my way back in praxis
+I can wind back in with praxis
 strengthening magnetic locus.
 Questioning mosaic mirror
 with perspectives brought to focus,
@@ -1303,7 +1303,7 @@ would I find mark interstitial?
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 960)[```none
 To take my time and stake what's left,
-or break another part of me,
+or break another part of me?
 Forsaken? No! I'm not bereft,
 I'll shake the shards, I'll shatter free.
 A theseus, I cease to see
@@ -1345,7 +1345,7 @@ is verge on tacky parody.
 Snap turn habit stresses granite
 popping bubbles by my marrow
 yan tan tether mether and pit
-and sting's displaced by bloody flow.
+and sting's displaced a bloody flow.
 Remit of lit inner diodes,
 I amputate to see well-built,
 as with minerals of geodes,
@@ -1365,7 +1365,7 @@ discussing what we both could gain.
 With shrunken grip on need to rest,
 my excavated self can host,
 like sunken ship can house a nest,
-a sense familiar as ghost.
+a sense familiar, like ghost.
 The wafers snapping in the hull,
 begets from heat of idle thread,
 what hibernated in a lull,
@@ -1405,7 +1405,7 @@ to aggression you're parading,
 hushed no bass in clarion call,
 nor the starkness of your shading.
 Excess beating of ev'ry hit
-I guess is slice of what I'mm owed,
+I guess is slice of what I'm owed,
 but rage and fear causing it
 should never have been so bestowed.
 ```]
@@ -1418,7 +1418,7 @@ the walls display penance I crave,
 the debt I owe it has half paid.
 The channelling of faults foray
 won't dissipate the blame delayed,
-but re-enslaves one to the fray
+but re-enslaves you to the fray
 to reproduce the hurt I made.
 By feel of your unsharpened tine,
 I'm seeing your benevolence,
@@ -1499,7 +1499,7 @@ believing one last fickleness
 would have you garner a recourse,
 bereaved of me you'd have one less.
 That push I guessed was gravity
-doesn't pull down, it forced regress,
+does not pull down, it forced regress,
 a withdrawing depravity,
 a desparate need for forgiveness.
 But weight of crystals uncontrolled
@@ -1511,7 +1511,7 @@ my neck and arms cave-in as stocks,
 and unatoned I'll stay 'til old,
 I'm locked, a stone among the rocks.
 And in the dark, and in the cold
-is probably what I deserve
+is probably what I deserve.
 I'll not call out, I'll do as told,
 I'll tell myself to hold my nerve.
 Although I'd rather be alone,
@@ -2872,7 +2872,7 @@ of bandaged ruins and crooked bones.
 Limits to degrees of freedom
 are inversely proportional
 against added continuums
-where I'mm writhing contortional
+where I'm writhing contortional
 to curve back in so to encase
 and show me else from what I knew,
 but straight, in hyperbolic space,
@@ -3469,7 +3469,7 @@ Please break me down and use each part
 if how they're joined does not suffice,
 they've proven well in pumping heart
 of oversensitive device.
-Once I'mm less than dust on lashes
+Once I'm less than dust on lashes
 irritating, from eye, a tear,
 that looks over the spread ashes,
 and blinks until one's sight is clear,
