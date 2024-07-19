@@ -1964,7 +1964,7 @@ there's no one curve we can enshrine,
 these parts aren't unitarities.
 Let fine-grain theories interlink,
 it's not beholdent to be this,
-it cares none what you know or think
+it cares none what you know or think,
 it's not to be but what it is."
 I weep a little and I wave,
 on steep ascent, I turn and scout
@@ -2101,6 +2101,14 @@ There's gruesome flaying of the skin,
 despite my crying violently,
 you'd rather lose with chance to win
 than keep on screaming silently.
+With shouting shorn to drift in drawn
+charonic pull down acheron,
+where bystanders would stoop to mourn
+I shun your out-of-kilter yawn,
+pretending orpheus regards
+eurydice as safe in tow,
+and daedulus attached safeguards
+so icarus would glide on low.
 Stochastic gradient descents,
 correcting errors overstrong,
 resolves you to impermanence
@@ -2113,14 +2121,6 @@ Should consciousness not carry through
 replacing of constituents,
 it could be nice to be brand new
 by realigning spry contents.
-With shouting shorn to drift in drawn
-charonic pull down acheron,
-where bystanders would stoop to mourn
-I shun your out-of-kilter yawn,
-pretending orpheus regards
-eurydice as safe in tow,
-and daedulus attached safeguards
-so icarus would glide on low.
 In lowered temp and frozen grime
 I'm spending what's left immobile,
 and rest my bloodshot eyes with rime
@@ -2159,18 +2159,6 @@ I'd never find myself better
 not altering bits that I am,
 but need unsetting by setter
 less likely to hate own program.
-Taking little bodily care,
-I'm taken by the more able,
-rememberings a rogue malware,
-undergoing a removal.
-The thoughts I can't improve upon
-I'll not dispose but set them free,
-I needed crystal carry-on
-but it had never needed me.
-```]
-
-#colbreak()
-#code(numbers: true, firstnumber: 1696)[```none
 Rectifying depostion
 tries to reflow handmade solder
 from my jagged disposition,
@@ -2179,6 +2167,18 @@ than this inane overfitting
 planning of these mass solvations,
 cycles sneak in retrokitting
 from my frequent repedation.
+```]
+
+#colbreak()
+#code(numbers: true, firstnumber: 1696)[```none
+Taking little bodily care,
+I'm taken by the more able,
+rememberings a rogue malware,
+undergoing a removal.
+The thoughts I can't improve upon
+I'll not dispose but set them free,
+I needed crystal carry-on
+but it had never needed me.
 And dropping what I have not gripped,
 with purpose, now volitional,
 and having nothing else equipped
@@ -2252,15 +2252,15 @@ massful timekeepers imploding,
 iterating to infinite,
 it keeps me from the heap in reach,
 I'd never know I'm overfit
-to simple task that does not teach.
-Inside me I swirl vortices
-that counts on furling burgeoning
-of galaxies, I'm sore to see
-the lives unlived and ongoing.
+to simple task that does not teach,
 typified by agitating
 inner illness undisguised,
 nausea of promulgating
 schizotypals actualised.
+Inside me I swirl vortices
+that counts on furling burgeoning
+of galaxies, I'm sore to see
+the lives unlived and ongoing.
 Complacent to in-code virals,
 I've ciphered sickness virtual,
 convulsions and spiking vitals,
@@ -2374,15 +2374,15 @@ no off and on phenomenon,
 exemplars for eternity
 not needing any epsilon.
 Less symmetry that simplifies,
-assembling to lock me in
+assembling to lock me in,
 perplexity that stupifies
-and resembles the tailspin
+with resemblance to tailspin
 of simple minds erratic stroll
 like leptons thinly reasoned spin
 where self-control can't bear the toll
 unmeasurables underpin.
-But an ego's isolation,
-cannot fashion futures' basis,
+With an ego's isolation,
+it can't fashion futures' basis,
 where there's motion, there's relation,
 no cessation's in shared spaces.
 I'll drop feigning of intention,
@@ -2393,14 +2393,14 @@ I can't stop atoms colliding.
 
 #colbreak()
 #code(numbers: true, firstnumber: 1888)[```none
-Masses cannot give up their turn
-until without a choice in tense,
-it does not work to stop and learn,
-progress must move, that's common sense.
 But consider, if I resumed
 without lessons misunderstood,
 could thoughts discovered, unassumed,
 help me rewrite my statelihood?
+Masses cannot give up their turn
+until without a choice in tense,
+it does not work to stop and learn,
+progress must move, that's common sense.
 The reprogramming won't put trace
 on edge of moments anyhow,
 as space pulls mass and mass curves space
