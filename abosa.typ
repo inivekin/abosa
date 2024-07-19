@@ -1554,13 +1554,13 @@ I recognise in shakes you tuck
 between your posturing as feist.
 I too would bark at empty void
 when I'd not know who's hurting me,
-I am not guide for paranoid
+I am no guide for paranoid
 but I can keep you company.
 The trailing sleet I'm glad to shed
 with flailing feats of selfish plead,
 we fledgling fleet have not yet said
 our last of which you still have need.
-But casting dovn, submerged in deep
+But casting down, submerged in deep
 expanse which laps at heaped collapse,
 you yearn to dampen cracks that creep
 and threaten widening of gaps.
@@ -1574,7 +1574,7 @@ of stamping boulders come apart
 that's bearing stone-age weaponry,
 but I am most familiar
 with muscles, how they atrophy,
-and pressures of exterior
+how pressures of exterior
 will decompress with apathy.
 The epoch that a mountain-top
 defines will see the oceans dried.
@@ -1774,10 +1774,6 @@ The gravities give duplicates
 with no triage for which is first
 and pulls us to coordinates
 at tangent to the path traversed.
-I'll fight the fall to where you seemed
-and move in actuality
-to where that light of you had beamed,
-to reach a simultaniety.
 At edge where light accumulates,
 and futures seem to stand in line,
 null geodesic unabates
@@ -1786,15 +1782,19 @@ if twinned mirage of how it was
 and where it's not have chaperones,
 there's more effect than there is cause,
 there's more than light in these lightcones.
+I'll fight the fall to where you seemed
+and move in actuality
+to where that light of you had beamed,
+to reach a simultaniety.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 1376)[```none
-The crux of this, the discomfort
-of hanging from ad lib supports,
+The crux of this is discomfort
+from hanging from ad lib supports,
 (that follows laws which physics wrought
 to barely pull above the quartz)
-no more encumbers to abort
+but won't encumber to abort
 this fool's errand to sort rival.
 What self-worth fails to report
 a friend in need provides in full.
@@ -1894,7 +1894,7 @@ but unlike jumps that I frequent
 this one feels not so strenuous.
 What comes after the suns downfall,
 in all its sensory presence,
-I'll won't expect, I'll won't recall,
+I won't expect, I won't recall,
 in softening incandescence.
 ```]
 
