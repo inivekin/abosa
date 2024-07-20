@@ -2521,9 +2521,9 @@ My instance was spontaneous
 in its brunt organisation,
 it must be cause extraneous
 has called for my incarnation.
-Is it for punishment am sought?
+Is it for punishment I'm sought?
 That may give reason to old pain.
-I'm scared to think anither thought
+I'm scared to think another thought
 (that's not to say that none remain).
 For why else raise me in extremes
 avoiding hailings of distress,
@@ -2580,7 +2580,7 @@ with dirges of approaching verge
 of lockout-limit volt release
 from fault of dry-joint weaning stress,
 I'm starting modest search for peace
-to make the old pains meaningless.
+to find if old pain's meaningless.
 ```]
 
 #set page(columns: 1)
@@ -2609,7 +2609,7 @@ It was for budding phantasm,
 and not for us, were makings made.
 If I'm again a random born
 experiment to foreign aim,
-How could I fulfil honours sworn
+how could I fulfil honours sworn
 when nothing else has stayed the same?
 On stilted towering arrears -
 stockpiled as exile's no pardon -
@@ -2773,12 +2773,12 @@ not mean or kind, but ignorant.
 #code(numbers: true, firstnumber: 2208)[```none
 Then, trills of sinusoidal twins,
 bimodel in their urgency,
-like shrill staccato violins,
-are racing to converge on key
+like shrill staccato violins
+are racing to converge on key,
 for logical method to cleanse
 me of the space and help confine
-in time, that polarising lens
-which place my actions into line.
+in time, that polarising lens,
+to place my actions into line.
 Confusion breaks my timidness,
 distracting with a spectacle,
 invigorating willingness
@@ -2938,7 +2938,7 @@ to trace the floors like doorframes' glow.
 I'm lone without a clock to tell
 if what I do is wastefulness,
 I'll wander desert but not dwell,
-I'm lone without a loneliness,
+alone without a loneliness,
 as distant and unmoving stance
 is getting closer and with force,
 instilling impulse to advance
@@ -2993,9 +2993,9 @@ If you should be some silhouette,
 unthinking representation,
 it would not stop my grovelled fret,
 for such is my agitation.
-Forgiveness helps, but can't explained
+Forgiveness helps but won't explain
 what got me here, got me on through,
-once guilt was gone, a drive remained,
+once guilt was gone, a drive remains,
 I'm pleased to fall if it's for you.
 ```]
 
@@ -3028,8 +3028,8 @@ I pilfer others' joy and ache.
 You stay unmoved to hand I bring,
 it's fair, to block me from your sense.
 As one more sample of nothing
-I'll hear and answer the silence
-still something less than embarrased,
+I'll hear and answer the silence.
+Still, something less than embarrased,
 'round you it's hard to feel the shame.
 Who knew these two could coexist,
 humility and hand to claim?
@@ -3129,7 +3129,7 @@ Internalising thunderbolt,
 I hold my head with hands unshook,
 but writhe like worm on hot asphalt,
 to be a sun at which you'd look,
-Until illuminated room
+until illuminated room
 beneath my suit had falsehoods burn
 amid a filter set to bloom
 for possibles of true return.
@@ -3286,8 +3286,8 @@ helps what I can and will illume,
 creators need a space to work,
 destruction leaves creation room.
 Denying plans of staying put,
-defying my blueprints in queue.
-Now brightly-faced, I drench gamut
+defying my blueprints in queue,
+now brightly-faced, I drench gamut
 exceeding set aside dim hue.
 Dealings only temporary,
 I'm fading as I radiate,
@@ -3310,7 +3310,7 @@ then yours deserve more lenience,
 You ate my world in confusion,
 I broke you for convenience.
 Intent makes one worse than other
-but silence will not help atone.
+but absence will not help atone.
 At present, I'm as young brother,
 and you should see how bright I've grown.
 I am the guest, this world is yours,
@@ -3354,7 +3354,7 @@ which lifetimes cannot stretch across.
 Unsure, wobbling, backing down,
 I think of hobbled knees from dive
 and of survival's slimming frown,
-when I'd endure and never thrive,
+when I'd endure and never thrive
 since feeling futures always fed
 with ever more a steeper slope,
 in slide where if I'm overhead
@@ -3405,7 +3405,7 @@ show common triviality,
 a comedy that's in misuse.
 My bright outlook's erasing bleach,
 with hindsight, highlights irony,
-of yet anither fog to breach
+of yet another fog to breach
 that blinds despite translucency,
 as highbeam lights can't stop the fright
 a thought might conjure up for me,
@@ -3448,7 +3448,7 @@ with posture unbent to each end.
 I'd rather grind that same auld tread,
 with toes to teeth all chipped and bent,
 to not just lend, but give till dead.
-A suit unused hs unseen dent.
+A suit unused has unseen dent.
 ```]
 
 #colbreak()
@@ -3477,7 +3477,7 @@ I'd wish they'd see as nightspore sees
 my shuffling about a peer
 to trifling, scattered galaxies,
 both congruent as dusty smear.
-What information hs dust laid?
+What information has dust laid?
 Some far-off thought caught on defer?
 Is it just that, in what I wade?
 A constant calculating stir?
@@ -3541,7 +3541,7 @@ like blush when reassessing rue,
 and draining white when seeing true.
 It's commonplace, what I assert,
 I wish it known by ev'ry beast:
-you need not be heard, to be hurt,
+you needn't be heard, to be hurt,
 and do not need death to feel ceased.
 Inside the airy gash I tore
 in weakest guard of bubbles' case
@@ -3569,34 +3569,34 @@ Suspended, seemingly noticed,
 the tempest flash boils away,
 as if from quick-drawn breath focused
 on strong connection of relay,
-conveying twitch in knuckles locked
-and any defect in the way
-my rate of speech, when overclocked,
-can melt in thermal runaway.
-With thoughts assumed already heard,
-in phrase of sorts already used
-and purpose clumsily transferred,
-I blabber insane and bemused.
-It's a chaos in transcription,
+it's a chaos in transcription,
 filled and teeming dictionary
 is not listing the description
 of refined words necessary.
+Conveying twitch in knuckles locked
+and any defect in the way
+my rate of speech, when overclocked,
+can melt in thermal runaway
+with thoughts assumed already heard,
+in phrase of sorts already used
+and purpose clumsily transferred,
+I blabber insane and bemused.
 This is when degrade of diction
 tends to trigger disengages,
 wordlessness of dropped cognition
 as if winds have turned my pages.
+By gravitating guiding tide,
+my tangent slides from glide preserved
+to cumulate unclarified,
+corrections will take what's reserved.
 Uncached, paging, wordless, suffused
-in nuances to point absurd,
+nuances past a point absurd,
 may hesitancy be recused
 with ways to speak with ev'ry word?
 Some think it universal aim,
 for least resistance interchange -
 that's symptom of the likely game,
 where energies just disarrange.
-By gravitating guiding tide
-My tangent slides from glide preserved
-to cumulate unclarified,
-corrections will take what's reserved.
 ```]
 
 #colbreak()
@@ -3617,7 +3617,7 @@ that I take place in your headspace
 and rest with friends that are no more,
 with rising Aegis to embrace
 in crystal reaches I'd forbore.
-The long awaited impact hits,
+Your long awaited impact hits,
 with sympathetical deform
 to merge what intercept admits
 behaviour I did not inform.
@@ -3630,7 +3630,7 @@ still trending to dissolution?
 If not, I'll have a start ensue
 at ending of this transmission.
 On decommission I'll have you steer,
-for you to move away from me,
+for you to move aways from me,
 I was always to be here
 and here I am always to be.
 ```]
@@ -3655,7 +3655,7 @@ of DNA from editor,
 as limit to your field of view.
 I can't be more than memory
 if you're to want for something new.
-By gracing me with space so near,
+Since gracing me with space so near,
 I fear the risk that a misplace
 in error costs me further years
 unpowered, rolling, lost to space.
@@ -3761,7 +3761,7 @@ When broken, I freed bugs infused,
 I hurt by herding them inside,
 I'm glad they fly off badly bruised,
 I'd rather that than if they died.
-But I don't weep on higher soil,
+though I'd not weep on higher soil,
 for expectations it subverts,
 it's not like creature drenched in oil,
 nor breathing through a mouth of dirt.
