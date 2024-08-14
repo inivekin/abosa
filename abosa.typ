@@ -292,16 +292,16 @@ a metronomic tendancy
 helps isolate anomalies
 and formerly-perceptual,
 conceptual consternations
-are cancelled-out predictable,
+are cancelled-out, predictable,
 perpetual palpitations.
-Deterministic anxious waves
+Deterministic, anxious waves
 of bugs in ears and fungus grown,
-are all thats left in coward caves,
+are all that's left in coward caves,
 I've chosen to suffer the known.
 ... 'til worry of higher degrees
 is wearing pocked and fissured plates,
-to swap the odds of bayes' likelies,
-inciting me to unknown fates.
+swapping odds of bayesian likelies,
+where unknowns ever generates.
 Befriending shadows on the wall,
 pretending comfort's what I felt
 did not stop magma curtain call
@@ -312,9 +312,9 @@ with darkness gone my lie in rut
 was futile to vie with action.
 Not to be mistaken for brave,
 my sprint to screaming frequencies,
-was more a run from painful grave
+is more a run from painful grave
 of lustful molten rock and seas.
-When clouded chaos quiets some,
+As clouded chaos quiets some,
 approaching shores of placid dunes,
 I know the cause when that plight come,
 the deserts' dry, decrepit croons.
@@ -328,7 +328,7 @@ The sea of glass is forming rift
 to vast periphery skyline
 with quaking shift of sands in sift
 to ebb this heavy head of mine.
-But edged where grains can fall both ways,
+At edge where grains can fall both ways,
 atop a point langrangian,
 I'm safe as last man of blank bays,
 but subject to blare gaussian.
@@ -554,17 +554,17 @@ I'd tried hard with kernel of code,
 in each part you were embedded,
 might not prompt recursive download,
 but at least I'm clear-headed.
-With sudden, silent hope then dread
-as whirring stop leads unsteading,
-the pyramid descends on thread
-in blurring drop with circled heading.
+Sudden silence, hope then dreading
+whirring stop leads an unsteading,
+pyramid descends on threading
+blurred in drop with circled heading.
 Shifting forces makes sand syrup,
 moving land to stable new state;
 though my beacon's no more corrupt,
 I'm caught in sands and now must wait.
 Like desert dripped through fingers slipped
 that's stranding me in sorry place,
-In dropping what I have not gripped
+and dropping what I have not gripped
 I've weighted feet and cannot chase
 you racing others unsated,
 whose needing more than I can serve
@@ -574,7 +574,7 @@ Constant loudness seemed so massive,
 rampant shrewdness of racous breaths,
 sets like suns now, less oppressive,
 lurking down in vacuous depths.
-No din in brooding, silent reign,
+No din from aerial arraign,
 my bones repose under my skin,
 no more enduring absent pain,
 no poke nor stab, no prod nor pin.
