@@ -640,10 +640,10 @@ Its heft externally unmoved,
 affixed but shearing through essence,
 to shrink its stern and grow saw-toothed
 it propagates wave-like presence,
-while deflty 'round ferritic steel,
+while deftly with ferritic steel,
 lashing out from inner spaces,
 wiry lengths with neurotic zeal
-probe and pull with many faces.
+probe and pull from many faces.
 At the target of its phases,
 where the sand subsumes the sun in
 terra incognita hazes,
@@ -652,8 +652,8 @@ haunt the ghosts that's in the shaping
 of this ever changing creature,
 I'm reminded of my shaking,
 searching remains not my nature.
-I'd grown used to unchanging states,
-it's no concern if one withdrew
+Conditioned for unchanging states,
+I'd no concerns once I withdrew
 to sheltered grey where naught rotates.
 Still set, do suns? Or set anew?
 The atmos rayleighs to rawed flesh
@@ -664,22 +664,22 @@ must take of me for its own sake.
 
 #colbreak()
 #code(numbers: true, firstnumber: 416)[```none
-I spy athort much birk and bush
-that sprout from seeds that sunward crawl,
-to mask my being under lush
-might take to task that cornered sprawl.
+Agitating planed-marauder
+osculating many molded
+manifolds trained out of order
+has me as fodder enfolded.
 A nobler person would assess
 and find to where, or what, their drawn,
 but nimbler flight's skill I possess,
 I'm spaceborne who's not built for brawn.
+I spy athort much birk and bush
+that sprout from seeds that sunward crawl,
+to mask my being under lush
+might take to task that cornered sprawl.
 Trees seem greener against greying
 workings of impatient other,
 forking structures their displaying
 cover rather than to smother.
-Agitating planed-marauder
-osculating many molded
-manifolds trained out of order
-took me as fodder enfolded.
 Greener parts I'm trusting over
 intimmers of machine spirit,
 from under its focussed hover
@@ -723,7 +723,7 @@ muffled buzz of transparent wings,
 before brownian glides to fates,
 to ruffle and writhe on floors' springs,
 as this life-filled microcosm
-tries so hard to kill fast each part
+would strive to swiftly kill each part
 for darwinian death spasm
 that shoots out pain then falls apart.
 Life must oppose, if else it chose
@@ -863,7 +863,7 @@ rising pressure of deflections
 reflects my parts which can't muster
 some such measure to sum fractions,
 typical when forked and scattered
-in diffractions of external
+in diffractions as external
 distractions reverse to mirror
 total reflections internal.
 Lurching, displaced from conventions,
@@ -910,9 +910,9 @@ of architecture's foundations,
 would eagerly erode pipelines,
 so overload will then explode
 in power surge and coil whines.
-To take apart its counting ticks
-and read its clicks through instructions
-and know the art and all the tricks
+I take apart its counting ticks
+and try read clicks through instructions
+to find the art and all the tricks
 on how to fix my own functions.
 Though as I am, maladjusted,
 my instrospective efforts crash,
@@ -955,7 +955,7 @@ beyond recall, no use trying.
 At last expelled out from deep well,
 effects postponed in distant blast,
 I'm lone zombie in extant shell
-with knell of binary now past.
+the knell of binaries now past.
 ```]
 
 #colbreak()
@@ -1003,7 +1003,7 @@ making choice that felt not chosen:
 angled heap will there remain where
 freezing over's best kept frozen,
 on the bare and broken wasteland
-cleft with bracken leafy pattern
+cleft with bracken, leafy pattern
 along grains from my unplanned hand
 placed in banding disk like saturn.
 Through the cracks with hollowy ring
@@ -1051,9 +1051,9 @@ it hurts in feeling the feedback,
 leaving that same feel of sinking,
 as I dig slow, so hole fills back.
 Unlit, abandoned, unwired,
-a statue with naught to denote,
+a statue without light of note,
 these parts of me once admired
-has chilled to trap of icy coat.
+have chilled to trap of icy coat.
 Appendage hydraulics retract,
 where sat inured, frosted blind,
 my legs curl in for playdead act
@@ -1123,7 +1123,7 @@ of trouble and to acclimate.
 Should I assuage ascetic stint
 when all I've left is to contend
 that dust that flies from back of flint
-was bright only to tailing end?
+is bright only to tailing end?
 The watchful glint would dare compare
 its weightless wisp to aeons' sift,
 though if it's spared through flight midair
@@ -1159,10 +1159,10 @@ then on planes hilly and hollowed
 find me as shadow time parted
 from what's linearly followed
 on projected path's cross-section,
-with no intent, enslaved to curve
+without intent, enslaved to curve
 that's set from first perturbation
 (initial states we all must serve).
-O, how I am convinced with ease
+Oh, how I am convinced with ease
 to minimize the entropy
 and not detour to endless freeze
 for wasteful test of destiny.
@@ -1206,13 +1206,13 @@ The universe observable
 is stretching out from under me,
 and all things irreversible
 are glaring bleakest certainty.
-I dedicate with slow exhale
-my peace of mind in frailty,
-in dreaming of beyond the pale,
-past capstone of propensity.
+I dedicate a slow exhale
+to peace of mind in frailty,
+as futures dwarf my present scale,
+outside thought capability.
 Intensities in shifting red
 of ev'rything surrounding me
-leaves me a lonesome drifting head
+leaves me a lonesome, drifting head
 in shallowed wavelengths of flat sea.
 But struck was I, at end light bared,
 despite despair left on repeat,
@@ -1244,26 +1244,30 @@ of layers upon layers cloned
 in periodic replica,
 all radiation that is loaned
 repaid with same old signature.
+Beginnings far from my falling
 I cannot tell where I'm going,
-beginnings far from my falling
-in chaos pendulum's hinge-swing
-with turgid, charted stumbling.
+each hinge in pendulous fateswing
+confounds my tenuous knowing.
 Still, unit circle circumscribes,
-sufficiently checks conforming,
+a sufficient check confirming,
 no variance in time describes,
 all in all, a stalled transforming.
 My breaking down was overdue,
 the parts constituent decry,
 the suffering they did accrue
 from rules emergent they go by.
-I understand, though it bores me,
-the complex falls back to the start.
-I know the plan, I need not be
-until last atom's pulled apart.
+Self-organised to misbehave,
+I am unsafe deformity,
+there's safer shape that's more concave,
+conformed to uniformity.
 ```]
 
 #colbreak()
 #code(numbers: true, firstnumber: 928)[```none
+I understand, though it bores me,
+the complex falls back to the start.
+I know the plan, I need not be
+until last atom's pulled apart.
 In doing best to ignore tones
 of bone fractures and scraping sound,
 I breathe etudes and recite koans,
@@ -1288,14 +1292,10 @@ broaden sequences of banding
 and illuminate my structure,
 for a grander understanding
 of why I am of my nature?
-Ev'rything's atop a field
-and ev'ry particle's a wave,
-if standing wave will never yield
-it drones where reverbs meet concave.
 Were I to let me crystallize,
 the old lattice recurs at will.
-Should I in higher phase reprise,
-would I find mark interstitial?
+Should I in higher phase reprise?
+Make a marker interstitial?
 ```]
 
 #set page(columns: 1)
@@ -1341,27 +1341,27 @@ and not drown in the undertow.
 I break my bonds to break the bind,
 unmake the tether markedly,
 as staking I'm fine left behind
-is verge on tacky parody.
+would verge on tacky parody.
 Snap turn habit stresses granite
-popping bubbles by my marrow
-yan tan tether mether and pit
-and sting's displaced a bloody flow.
+popping bubbles by my marrow,
+narrowly, it's as I plan it,
+stinging knee warmed by a dark flow.
 Remit of lit inner diodes,
-I amputate to see well-built,
+my amputation seems well-built,
 as with minerals of geodes,
 when tunnel mouth, with simple tilt,
 hits spill to glisten and lessen
 the fussing over what's been spilt,
 agony is not the lesson,
 it's space wherelies what's then rebuilt.
+The petrifying staunches wound
+and launches sliver to the brain,
+to stay and listen where attuned,
+discussing what we both could gain.
 Upset stomach bacteria,
 autonomous cell constructions,
 and cochlea hysteria,
 restructuring for new functions.
-The petrifying staunched the wound
-and launches sliver to the brain,
-to stay and listen where attuned,
-discussing what we both could gain.
 With shrunken grip on need to rest,
 my excavated self can host,
 like sunken ship can house a nest,
@@ -1672,8 +1672,8 @@ I will not let my villainous
 prospects win groundward tendency.
 On fourth of runs I'm tested some,
 thrice I swam icarian sea,
-I look to see how far I've come
-from hubris and complacency.
+On second look I see what's come
+of hubris and complacency.
 ```]
 
 #set page(columns: 1)
@@ -1684,6 +1684,10 @@ The crags of framework glasswork hive
 provide a piton's forking hook,
 a nagging doubt is where I drive
 the pittance of my last place look.
+I run a trial of research
+with cables untied from oxbow,
+as powerlines on which I perch
+prepares for fateful winds to blow.
 The past event needs future plan,
 and knowing I'm in wait for you
 affirms there was when we began
@@ -1696,10 +1700,6 @@ Strength for mountain sutures I feign,
 nor can I hold the waves at bay,
 but I have never felt more sane
 than as I try this anyway.
-I run a trial of research
-with cables untied from oxbow
-as powerlines on which I perch
-prepares for fateful winds to blow.
 I will not promise we'll persist,
 in wanting hope, you want struggle,
 the tight-rope, on which we exist,
@@ -1720,31 +1720,31 @@ out-cried only by resurfaced
 humming pyramid that's defied
 noise distracting from the purposed
 winds that strum on harp at seaside.
-If you manage to ignore this
+I see you've heard and with self crowned,
+the sorry sight you entertain,
+I'll ripple down to rocks since drowned,
+if this means you've flown with disdain.
+But if you somehow ignore this
 hiss of repeater demand then
 resurging from the riptide bliss
 of teetering life abandon,
 you might try find in absent light,
 and in vibrations sense a route,
-to actions that revive the night
+to actions that revive lit night
 before these stars will peter out.
-It's sorry sight you entertain
-what you have heard and with self crowned,
-if this means you've flown with disdain,
-I'll ripple down to rocks since drowned.
-But should this be withholding sun,
+Or should this be withholding sun,
 at coda of coronal lyre,
 the quiet dark to carry on
 will leave room for another fire.
-If you respond and try untack,
+Should then you respond through the black,
 we could abscond from massful quakes
 with no more suns to burn us back
 to discordant, aphotic lakes.
 I'll try supplant with tunes of ties,
 what bound us in a reticence,
 to oscillate in tune with sighs,
-reverberating diffidence
-from those of us who rise to dark
+reverberating reverence
+for those of us who rise to dark
 and slept through spans of sunlit days,
 with none who sang for us to hark
 in era of this sunsick phase.
@@ -1802,15 +1802,15 @@ With soldiers stare and wearing sores,
 lest I find rest, I can attest,
 I live to see that you live yours
 as I don't need to live my best.
-My breath recycled I replace,
-inhaling, taking new found ware
-recepticle that cleans headspace
-with petrichor of compressed air.
 I must address incessant pings,
 I stop and from addendum pluck
 what's learnt about pendulums' swing
 and how the weight assists the buck.
-I did not think I'd spar ire,
+My breath recycled I replace,
+inhaling, taking new found ware,
+recepticle that cleans headspace
+with petrichor of compressed air.
+I did not think I'd spar with ire,
 I've not the pride of warrior,
 but I have mind that moves slyer
 with message left to courier
