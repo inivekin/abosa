@@ -1,5 +1,20 @@
-USING: grouping xml.traversal ;
+USING: accessors arrays assocs calendar calendar.format grouping
+io io.directories io.encodings.utf8 io.files io.pathnames
+io.streams.string json kernel libc make math math.parser
+multiline namespaces sequences ui ui.gadgets.cells.colonies
+ui.gadgets.scrollers xml xml.data xml.tokenize xml.traversal
+xml.writer ;
 IN: abosa
+
+! overwrite the xml take-comment to allow -- in comments
+: take-comment ( -- comment )
+    ! "-->" expect
+    "-->" take-string
+    <comment>
+    ! ">" expect
+    ;
+
+
 
 :: contents-list ( xml -- str-seq )
     8 <iota> [ number>string xml swap get-id children>> second last ] map
@@ -7,13 +22,13 @@ IN: abosa
 
 : chapter-paths-ordered-imgs ( -- seq )
 {
-    "img/mr.spaceman.png"
+    "img/faceless-mr-spaceman.png"
     "img/st-damocles-abloom.png"
     "img/st-damocles-helmet-frozen-with-lantern.png"
     "img/st-damocles-helmet-impaled.png"
     "img/st-damocles-in-nightspore.png"
     "img/st-damocles-infinite.png"
-    "img/st-damocles-helmet-tied-up.jpg"
+    "img/st-damocles-helmet-tied-up.png"
     "img/st-damocles-helmet-open.png"
 }
     ;
@@ -26,61 +41,61 @@ zip
 
 : image-paths-ordered ( -- str )
 {
-    "img/st-damocles-the-shephard.jpg"
-    "img/st-damocles-searches-for-wandering-aengus.jpg"
-    "img/st-damocles-jumps.jpg"
-    "img/st-damocles-in-gravitational-disorientation.jpg"
-    "img/st-damocles-in-the-stomach-of-the-signal-eater.jpg"
-    "img/the-hand-of-st-damocles.jpg"
+    "img/st-damocles-the-shephard.png"
+    "img/st-damocles-searches-for-wandering-aengus.png"
+    "img/st-damocles-jumps.png"
+    "img/st-damocles-in-gravitational-disorientation.png"
+    "img/st-damocles-in-the-stomach-of-the-signal-eater.png"
+    "img/the-hand-of-st-damocles.png"
 
-    "img/st-damocles-and-the-geometry.jpg"
-    "img/st-damocles-amalgamates.jpg"
-    "img/st-damocles-looking-round-the-torus-forest.jpg"
-    "img/st-damocles-breaks-geometry.jpg"
-    "img/st-damocles-frozen-over.jpg"
-    "img/st-damocles-alight.jpg"
+    "img/st-damocles-and-the-geometry.png"
+    "img/st-damocles-amalgamates.png"
+    "img/st-damocles-looking-round-the-torus-forest.png"
+    "img/st-damocles-breaks-geometry.png"
+    "img/st-damocles-frozen-over.png"
+    "img/st-damocles-alight.png"
 
-    "img/st-damocles-leaves-the-c-zone.jpg"
-    "img/st-damocles-tunnels-in.jpg"
-    "img/st-damocles-uncrystalline.jpg"
-    "img/st-damocles-read-only.jpg"
-    "img/st-damocles-frees-aengus.jpg"
-    "img/st-damocles-interred.jpg"
+    "img/st-damocles-leaves-the-c-zone.png"
+    "img/st-damocles-tunnels-in.png"
+    "img/st-damocles-uncrystalline.png"
+    "img/st-damocles-read-only.png"
+    "img/st-damocles-frees-aengus.png"
+    "img/st-damocles-interred.png"
 
-    "img/st-damocles-entangled.jpg"
-    "img/st-damocles-plotting-on-strings.jpg"
-    "img/st-damocles-along-a-lyre.jpg"
-    "img/st-damocles-as-pendulum.jpg"
-    "img/st-damocles-fights-the-fall.jpg"
-    "img/st-damocles-escapes-the-pull.jpg"
+    "img/st-damocles-entangled.png"
+    "img/st-damocles-plotting-on-strings.png"
+    "img/st-damocles-along-a-lyre.png"
+    "img/st-damocles-as-pendulum.png"
+    "img/st-damocles-fights-the-fall.png"
+    "img/st-damocles-escapes-the-pull.png"
 
-    "img/st-damocles-in-hibernation.jpg"
-    "img/st-damocles-awash-in-gradients.jpg"
-    "img/st-damocles-integrated.jpg"
-    "img/st-damocles-imploded.jpg"
-    "img/st-damocles-tesellating.jpg"
-    "img/st-damocles-tesellated.jpg"
+    "img/st-damocles-in-hibernation.png"
+    "img/st-damocles-awash-in-gradients.png"
+    "img/st-damocles-integrated.png"
+    "img/st-damocles-imploded.png"
+    "img/st-damocles-tesellating.png"
+    "img/st-damocles-tesellated.png"
 
-    "img/st-damocles-reinstalled.jpg"
-    "img/st-damocles-mooring.jpg"
-    "img/st-damocles-verified.jpg"
-    "img/st-damocles-on-tape.jpg"
-    "img/st-damocles-fatestring.jpg"
-    "img/st-damocles-rides-a-pulse.jpg"
+    "img/st-damocles-reinstalled.png"
+    "img/st-damocles-mooring.png"
+    "img/st-damocles-verified.png"
+    "img/st-damocles-on-tape.png"
+    "img/st-damocles-fatestring.png"
+    "img/st-damocles-rides-a-pulse.png"
 
-    "img/st-damocles-enters-the-pocket.jpg"
-    "img/st-damocles-meets-the-lantern-keeper.jpg"
-    "img/st-damocles-shows-what-is-there.jpg"
-    "img/st-damocles-internally-bright.jpg"
-    "img/st-damocles-written-out.jpg"
-    "img/st-damocles-surfaced-lightly.jpg"
+    "img/st-damocles-enters-the-pocket.png"
+    "img/st-damocles-meets-the-lantern-keeper.png"
+    "img/st-damocles-shows-what-is-there.png"
+    "img/st-damocles-internally-bright.png"
+    "img/st-damocles-written-out.png"
+    "img/st-damocles-surfaced-lightly.png"
 
-    "img/st-damocles-with-blindsight.jpg"
-    "img/st-damocles-condensation.jpg"
-    "img/st-damocles-diving.jpg"
-    "img/st-damocles-impaled.jpg"
-    "img/st-damocles-powered-down.jpg"
-    "img/dragonfly-remains.jpg"
+    "img/st-damocles-with-blindsight.png"
+    "img/st-damocles-condensation.png"
+    "img/st-damocles-diving.png"
+    "img/st-damocles-impaled.png"
+    "img/st-damocles-powered-down.png"
+    "img/dragonfly-remains.png"
 }
     ;
 
@@ -208,7 +223,8 @@ zip
 
 
 
-#set page( paper: "a5", fill: rgb("#1d1f21"))
+// #set page( width:6.88in, height:10.50in, margin: (inside: 1in, outside: 0.5in), fill: rgb("#1d1f21")) // paper: "a5", 
+#set page( paper: "a5", fill: rgb("#1d1f21")) // paper: "a5", 
 #set text( font: "Iosevka", size: 7.0pt, fill: rgb("#c5c8c6"), slashed-zero: true ,fallback: false)
 #set par(justify: false)
 ]]
@@ -221,11 +237,11 @@ zip
 
 :: contents-page ( xml -- str )
     [[
-#set page( paper: "a5", fill: rgb("#c5c8c6"))
+#set page( fill: rgb("#c5c8c6"))
 #set text( size: 15.0pt, fill: rgb("#c5c8c6"))
 #stack(
   dir: ttb,
-  image("img/mr.spaceman.png",width: 100%, height: 25%),
+  image("img/faceless-mr-spaceman.png",width: 100%, height: 25%),
   image("img/st-damocles-abloom.png",width: 100%, height: 25%),
   image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 25%),
   image("img/st-damocles-helmet-impaled.png",width: 100%, height: 25%),
@@ -234,7 +250,7 @@ zip
 
 xml chapter-list 4 cut
 [
-[ rest "highlight(fill: rgb(\"1d1f21\"), \"" "\")" surround ] map
+[ rest "highlight(fill: rgb(\"#1d1f21\"), \"" "\")" surround ] map
 first4
 '[ "#place(top + center, stack(dir: ttb" , "v(15%)" , _ , "v(20%)" , _ , "v(20%)" , _ , "v(20%)" , _ , "))" ,
 ] { } make "," join
@@ -246,7 +262,7 @@ first4
   dir: ltr,
   image("img/st-damocles-in-nightspore.png", height: 100%, width: 25%),
   image("img/st-damocles-infinite.png", height: 100%, width: 25%),
-  image("img/st-damocles-helmet-tied-up.jpg", height: 100%, width: 25%),
+  image("img/st-damocles-helmet-tied-up.png", height: 100%, width: 25%),
   image("img/st-damocles-helmet-open.png", height: 100%, width: 25%),
 )
 ]]
@@ -270,7 +286,7 @@ swap
 : end-page ( -- str )
 [[
 #set page(columns: 1, footer: none)
-#image("img/self-abosa-mapped.jpg", width: 100%, height: 100%)
+#image("img/self-abosa-mapped.png", width: 100%, height: 100%)
 ]]
     ; 
 
@@ -308,12 +324,12 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     page-seq image-paths-ordered zip
     6 <groups> xml chapter-paths-ordered zip
     [
-        [ second [ second "#set page(columns: 1)\n#image(\"" "\",width: 100%, height: 100%)\n#set page(columns: 2)\n" surround ]
+        [ second [ second "#set page(columns: 1)\n#image(\"" "\",width: 100%, height: 100%, fit: \"cover\")\n#set page(columns: 2)\n" surround ]
                  [ first "#v(1fr)\n= " "#v(1fr)\n" surround ] bi 2array "\n" join ]
         [
             first
             [
-                [ second "#set page(columns: 1)\n#image(\"" "\",width: 100%, height: 100%)\n#set page(columns: 2)" surround ]
+                [ second "#set page(columns: 1)\n#image(\"" "\",width: 100%, height: 100%, fit: \"contain\")\n#set page(columns: 2)" surround ]
                 [ first iter-stanzas "\n" join ]
                 bi
                 2array "\n" join
@@ -327,7 +343,7 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
     "\n" join
 
 [[
-#set page( paper: "a5", fill: rgb("#c5c8c6"))
+#set page( fill: rgb("#c5c8c6"))
 ]]
     prepend
     ;
@@ -344,15 +360,45 @@ INITIALIZED-SYMBOL: cntr [ 0 ]
 
 : gen-typst ( -- )
     load-html-poem dup dup dup
-    '[ _ title-page
-    , _ contents-page
+    '[
+    _ title-page ,
+    _ contents-page
     , _ group-stanzas group-pages _ iter-pages
     , end-page
     , ] { } make
     "\n" join 
     P" ~/art/abosa/abosa.typ" swap [ write ] curry utf8 swap with-file-writer ; inline
 
+: gen-typst-cover ( -- )
+    load-html-poem first-comment
+    "```" "```" surround
 
+[[
+#set page( width:13.81in, height:10.50in, margin: 0in, fill: rgb("#1d1f21"))
+#show raw: set text(font: "Iosevka Fixed", slashed-zero: true, size: 9.0pt, fill: rgb("#c5c8c6"))
+#grid(columns: (10fr,0.31in,10fr), rows: (auto),
+                image("./img/self-abosa-mapped.png",width: 100%, height: 100%),
+                grid(columns: (1fr,auto, 1fr), rows: (1fr, auto), h(1fr),```
+   
+ | 
+\|/
+\Y/
+(X)
+                ```, h(1fr), h(1fr), ```
+ A
+ B
+ O
+ S
+ A
+   
+                ```, h(1fr)),grid(columns: ( 1fr, auto, 1fr ), rows: (1fr,auto,1fr), h(1fr), v(1fr), h(1fr),
+h(1fr),]]
+[[
+,h(1fr),h(1fr),v(1fr),h(1fr)))
+]]
+
+    surround
+    P" ~/art/abosa/abosa-cover.typ" swap [ write ] curry utf8 swap with-file-writer ; inline
 
 ! ------------------------------------------------------------------
 : meta-time ( -- str )
@@ -663,3 +709,26 @@ body * { line-height: inherit; }
 
     P" epub/" delete-tree
     ;
+
+: display-cells ( -- gadget )
+    load-html-poem [ group-stanzas group-pages image-paths-ordered zip
+    6 <groups> ] [ chapter-paths-ordered zip ] bi
+    [
+        [ second [ second "USE: images.viewer.scaling P\" ~/art/abosa/" "\" absolute-path 3 head* \"jpg\" append load-image <autoscaling-image-gadget> 1 >>fill gadget." surround 1array ]
+                 [ first 1array ] bi 2array flip ]
+        [
+            first
+            [
+                [ second "USE: images.viewer.scaling P\" ~/art/abosa/" "\" absolute-path 3 head* \"jpg\" append load-image <autoscaling-image-gadget> 1 >>fill gadget." surround 1array ]
+                [ first [ >array [ 1array ] map 1array ] map 1array ! iter-stanzas 
+                ]
+                bi
+                2array flip
+            ] map flip
+        ] bi
+        swap prefix
+    ] map
+   json-matrix>cells f >>pair [ grid>> [ [ startup-metabolize ] each ] each ] [ <scroller> ] bi ;
+
+MAIN-WINDOW: abosa-gui { { title "abosa" } } display-cells >>gadgets ;
+

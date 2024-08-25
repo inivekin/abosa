@@ -101,13 +101,14 @@
 
 
 
-#set page( width:6.88in, height:10.50in, margin: (inside: 1in, outside: 0.5in), fill: rgb("#1d1f21")) // paper: "a5", 
+// #set page( width:6.88in, height:10.50in, margin: (inside: 1in, outside: 0.5in), fill: rgb("#1d1f21")) // paper: "a5", 
+#set page( paper: "a5", fill: rgb("#1d1f21")) // paper: "a5", 
 #set text( font: "Iosevka", size: 7.0pt, fill: rgb("#c5c8c6"), slashed-zero: true ,fallback: false)
 #set par(justify: false)
 #[#set align(center)
 #show raw: set text(font: "Iosevka Fixed", slashed-zero: true, size: 9.0pt)
 #v(1fr)
-```
+```--
             .           *                  +*              ,    
 *.               '.                                       +     
       .                  .           .      *                   
@@ -138,7 +139,7 @@ V  V \|/ V\                  "
 #set text( size: 15.0pt, fill: rgb("#c5c8c6"))
 #stack(
   dir: ttb,
-  image("img/mr-spaceman.png",width: 100%, height: 25%),
+  image("img/faceless-mr-spaceman.png",width: 100%, height: 25%),
   image("img/st-damocles-abloom.png",width: 100%, height: 25%),
   image("img/st-damocles-helmet-frozen-with-lantern.png",width: 100%, height: 25%),
   image("img/st-damocles-helmet-impaled.png",width: 100%, height: 25%),
@@ -165,7 +166,7 @@ V  V \|/ V\                  "
 
 #set page( fill: rgb("#c5c8c6"))
 #set page(columns: 1)
-#image("img/mr-spaceman.png",width: 100%, height: 100%, fit: "cover")
+#image("img/faceless-mr-spaceman.png",width: 100%, height: 100%, fit: "cover")
 #set page(columns: 2)
 
 #v(1fr)
@@ -220,7 +221,7 @@ Hither struggled, struggling still,
 head weighing from gravitation,
 bothers more than shrugging winds' shrill
 wavering of kite in motion.
-Then, low orbit imitations,
+Then low orbit imitations,
 stellations of tetrahedrands,
 aglow raw grit scintillations,
 well oceans out from tearing glands,
@@ -521,7 +522,7 @@ from angled, firmamental look
 against those roads I would forsake,
 I found it's time that I forsook.
 Instead I'll note so simple truth,
-a measured time's not time perceievd,
+a measured time's not time perceived,
 deadends I hit when in my youth
 can linger longer than believed.
 And so I know why still I fight,
@@ -839,7 +840,7 @@ at once, I see all look the same.
 And from all sides, it seems to me -
 a joke from old and weary japes -
 to me floats that geometry
-of manifold, flickering shapes,
+of manifold and flickered shapes,
 since in my panic I still screamed
 in waves of radioed distress,
 so that my place to all is beamed,
@@ -854,7 +855,7 @@ Incalculable dimension
 or undeniable green lay,
 offended by comprehension
 I throw myself in anyway.
-To those with hope there's no surprise
+To those with hope, there's no surprise,
 but me, on whom patterns persist,
 find nary a need for war cries,
 the shapes tilt only to assist.
@@ -930,7 +931,7 @@ creating viscous flows and wakes
 of untold centuries unlaced.
 On watching pinholes at time's pace
 from deepest of wells that dilate,
-these apertures in long dead space,
+these apertures in long-dead space,
 with parallax, parambulate.
 Specks of stars start switching off then
 as moth-filled void outstrips my trance.
@@ -968,22 +969,6 @@ The emptiest have eased impact,
 so I replace, with spaciousness,
 the sensors to which I react,
 regaining once-held weightlessness.
-With no concern nor decision
-I can't discern if fall or float,
-what could be cratered collision
-reduced itself to asymptote.
-Excavation being thorough,
-no sensation stirs me writhing,
-matching ambient sub-zero,
-thermals would show nothing living.
-Yet seemingly my suit withstood,
-though numb to burns of re-entry,
-would do more harm than any good
-to check diagnostic sentry.
-I cannot process what's to come,
-returned to flat chronology.
-I'll wait on my delirium
-to resume rote tautology
 What breaks down toroid transformer
 cracking joints which absorb unkind?
 No grass to touch, no unformer,
@@ -992,6 +977,22 @@ like string pulled far from line of sight,
 left unstrung on this frozen glen,
 ablow a sky quartered by light,
 over cutting cold ben midden?
+With no concern nor decision
+I can't discern if fall or float,
+what could be cratered collision
+reduced itself to asymptote.
+Excavation being thorough,
+no sensation stirs me writhing,
+matching ambient sub-zero,
+thermals would show nothing living.
+Yet, seemingly my suit withstood,
+though numb to burns of re-entry,
+would do more harm than any good
+to check diagnostic sentry.
+I cannot process what's to come,
+returned to flat chronology.
+I'll wait on my delirium
+to resume rote tautology.
 ```]
 
 #set page(columns: 1)
@@ -1043,7 +1044,7 @@ there's nothing that I'd rather see
 than distant shine, that tiny mote,
 of someone out looking for me.
 But during kit's stalling reboot,
-inoperable with glitched fallbacks,
+inop'rable with glitched fallbacks,
 the latency of instinct suit
 conflicts with habit to holdback.
 Trepadacious, overthinking,
@@ -1065,7 +1066,7 @@ it chokes out flame that still smoulders.
 You left, barely a look askance,
 but knew I'd hurt much more than you.
 To give my warmth a fighting chance,
-you leave... but leave a light on too.
+you left... but left a light on too.
 ```]
 
 #set page(columns: 1)
@@ -1499,7 +1500,7 @@ believing one last fickleness
 would have you garner a recourse,
 bereaved of me you'd have one less.
 That push I guessed was gravity
-does not pull down, it forced regress,
+does not pull down, but force regress,
 a withdrawing depravity,
 a desparate need for forgiveness.
 But weight of crystals uncontrolled
@@ -1671,8 +1672,8 @@ and climbing's not my specialty,
 I will not let my villainous
 prospects win groundward tendency.
 On fourth of runs I'm tested some,
-thrice I swam icarian sea,
-On second look I see what's come
+I fell icarian for three,
+on second look I see what's come
 of hubris and complacency.
 ```]
 
@@ -1682,12 +1683,8 @@ of hubris and complacency.
 #code(numbers: true, firstnumber: 1280)[```none
 The crags of framework glasswork hive
 provide a piton's forking hook,
-a nagging doubt is where I drive
+to nagging doubt is where I drive
 the pittance of my last place look.
-I run a trial of research
-with cables untied from oxbow,
-as powerlines on which I perch
-prepares for fateful winds to blow.
 The past event needs future plan,
 and knowing I'm in wait for you
 affirms there was when we began
@@ -1696,6 +1693,10 @@ provided I discard the claim
 that winds cannot pass by this way
 and with waves crashing all the same,
 to revel in the brutal spray.
+I run a trial of research
+with cables untied from oxbow,
+on powerlines by which I perch,
+prepared for fateful winds to blow.
 Strength for mountain sutures I feign,
 nor can I hold the waves at bay,
 but I have never felt more sane
@@ -1736,7 +1737,7 @@ Or should this be withholding sun,
 at coda of coronal lyre,
 the quiet dark to carry on
 will leave room for another fire.
-Should then you respond through the black,
+Call and response could light the black,
 we could abscond from massful quakes
 with no more suns to burn us back
 to discordant, aphotic lakes.
@@ -1912,7 +1913,7 @@ as I had landed on my way
 from apex to at hand dragon.
 Astride Aegis, no more sundered,
 asserting I won't fall again,
-what merit has this, I wondered
+"What merit has this?" I wondered,
 in numbered seconds of sun's wane.
 I measured it one less than twice,
 and cut till all clippings were worn,
@@ -1925,7 +1926,7 @@ before I could adjust to light.
 With yearned, diurnal vestiges
 a sun in retina is seared,
 as tattoo that colours ridges
-staining tightened eyelids afeared.
+stains my tightened eyelids afeared.
 "Could spurned deterrence so wary,
 in schizoid renunciation,
 let this intermediary
@@ -2077,7 +2078,7 @@ I'm accepting execution
 for defending my specifics
 over general solution,
 I'll stop fighting parasitics.
-My wanting not to win given
+Wanting not to win now given
 the threat that I could also lose,
 has lean in favour to give in,
 with brazen, saviourless excuse
@@ -2164,8 +2165,8 @@ tries to reflow handmade solder
 from my jagged disposition,
 but is bridging errors older
 than this inane overfitting
-planning of these mass solvations,
-cycles sneak in retrokitting
+planning of these mass solvations.
+Cycles sneak in retrokitting
 from my frequent repedation.
 ```]
 
@@ -2185,7 +2186,7 @@ and having nothing else equipped
 I'm prepped for what's transitional.
 I've barely energy to bluff,
 what's left is not what's all of me,
-but sometimes remnants are enough,
+but sometimes remnants aren't enough,
 this I've discovered. Finally.
 No more yields to harder heart,
 I'm knowing now, my part that's key,
@@ -2254,12 +2255,12 @@ it keeps me from the heap in reach,
 I'd never know I'm overfit
 to simple task that does not teach,
 typified by agitating
-inner illness undisguised,
+inner-illness undisguised,
 nausea of promulgating
 schizotypals actualised.
-Inside me I swirl vortices
+Characterising vortices,
 that counts on furling burgeoning
-of galaxies, I'm sore to see
+of galaxies, I'm sore to see,
 the lives unlived and ongoing.
 Complacent to in-code virals,
 I've ciphered sickness virtual,
@@ -2413,10 +2414,6 @@ How foolish the fight the thringing
 probables of caring spreading
 with inductive typing clinging
 truthhoods to my frictive treading.
-Warmer thins into the colder,
-former may succeed the latter,
-later, though, I'm surely older,
-scatter, coalesce and scatter.
 Sealed behind the ironclad
 sage guise its hard to realise
 I never had to be this sad
@@ -2425,6 +2422,10 @@ and let the body float on by
 like fumes dissolve into the sky
 then, stapled with locution, sigh:
 I once was human, wasn't I?
+Warmer thins into the colder,
+former may succeed the latter,
+later, though, I'm surely older,
+scatter, coalesce and scatter.
 ```]
 
 #set page(columns: 1)
@@ -2662,7 +2663,7 @@ until I'm not what falsifies.
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 2112)[```none
 To think the tragedy is worth
-the chance that let downs fade in whiles,
+the chance that let-downs fade in whiles,
 the skulls still lurk to fill-in dearth
 with horrors of what always smiles.
 Regardless if I look away
@@ -2771,14 +2772,14 @@ not mean or kind, but ignorant.
 
 #colbreak()
 #code(numbers: true, firstnumber: 2208)[```none
-Then, trills of sinusoidal twins,
+Then trills of sinusoidal twins,
 bimodel in their urgency,
 like shrill staccato violins
 are racing to converge on key,
 for logical method to cleanse
 me of the space and help confine
-in time, that polarising lens,
-to place my actions into line.
+to time, that polarising lens
+which place my actions into line.
 Confusion breaks my timidness,
 distracting with a spectacle,
 invigorating willingness
@@ -3091,7 +3092,7 @@ Try watch my light ping metal strings,
 it can be sparse, can be hollow,
 but light in swing brings life to things,
 with both reflection and shadow.
-You ask why you're not purpose-free,
+You ask why you're not purpose-free?
 you watched it all, you reached an end,
 You ask why you still float in sea,
 not deep enough to now transcend?
@@ -3143,7 +3144,7 @@ what I left and what I carried,
 what has me fall, what drives me on.
 So much I've come to understand,
 battered under expectations,
-great truths are nothing made by hand,
+that truths are nothing made by hand,
 it's born in random negations:
 ```]
 
@@ -3585,14 +3586,14 @@ This is when degrade of diction
 tends to trigger disengages,
 wordlessness of dropped cognition
 as if winds have turned my pages.
-By gravitating guiding tide,
-my tangent slides from glide preserved
-to cumulate unclarified,
-corrections will take what's reserved.
 Uncached, paging, wordless, suffused
 nuances past a point absurd,
 may hesitancy be recused
 with ways to speak with ev'ry word?
+By gravitating guiding tide,
+my tangent slides from glide preserved
+to cumulate unclarified,
+corrections will take what's reserved.
 Some think it universal aim,
 for least resistance interchange -
 that's symptom of the likely game,
