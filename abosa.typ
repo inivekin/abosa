@@ -177,12 +177,12 @@ V  V \|/ V\                  "
 #image("img/st-damocles-the-shephard.png",width: 100%, height: 100%, fit: "contain")
 #set page(columns: 2)
 #code(numbers: true, firstnumber: 0)[```none
-Crystalline vines with latticed lines
-at briefest reef follow my feet,
-refracting shines in eyes of mine,
-to buck and birl me to stone seat.
-I'm sullen to see far sea drift
-extends the current observing,
+On briefest reef, I'm thrown off feet
+by crystalline and latticed vine,
+it bucks and birls me to stone seat,
+refracting shines in eyes of mine.
+With standup sight seeing sea drift
+extending current observing,
 I lay my head to never lift
 and hope for rest I'm deserving.
 And staring at both ailing suns,
@@ -1176,7 +1176,7 @@ predictor of the vaccum seas,
 works too for complex collision
 to form shock metamorphoses.
 Should crevice, cracks and comet graves,
-resolvable as physical act,
+resolved as physical in act,
 probe the synapse like depth of cave,
 the same results are found exact.
 But though to know would ease my mind
@@ -1269,9 +1269,9 @@ I understand, though it bores me,
 the complex falls back to the start.
 I know the plan, I need not be
 until last atom's pulled apart.
-In doing best to ignore tones
-of bone fractures and scraping sound,
-I breathe etudes and recite koans,
+With scraping sound on fractured bones,
+I breathe etudes onto the ground,
+recite koans to ignore tones,
 I count the dirt that lay abound,
 then found in studies known so well,
 the truths I tell, the calm it brings,
