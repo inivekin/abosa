@@ -84,6 +84,15 @@ div {
     height: 100vh;
 }
 
+.contained-centerer {
+    position: relative;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    object-fit: contain;
+    display:block;
+}
+
 .centerer {
     background-color: #c5c8c6;
     position: relative;
